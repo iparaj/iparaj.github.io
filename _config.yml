@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Apurva Joshi / Homepage"
+title                    : "Chayan Bhawal / Homepage"
 title_separator          : "-"
-name                     : &name "Apurva Joshi"
-description              : &description "PhD candidate, IIT Bombay | Monash University"
-url                      : https://zapurva.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Chayan Bhawal"
+description              : &description "PhD candidate, IIT Bombay"
+url                      : https://chayanbhawal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zapurva.github.io"
+repository               : "chayanbhawal.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,12 +79,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Apurva Joshi"
-  avatar           : "Apurva_Joshi.jpg"
-  bio              : "PhD candidate, IIT Bombay | Monash University"
+  name             : "Chayan Bhawal"
+  avatar           : "Chayan_Bhawal.jpg"
+  bio              : "PhD candidate, IIT Bombay"
   location         : "Mumbai, India"
   employer         :
-  googlescholar    : "https://scholar.google.com.au/citations?user=AEI-EaEAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com.au/citations?user=d7eR_LkAAAAJ&hl=en"
   email            :
   uri              :
   bitbucket        :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zapurva"
+  github           : "chayanbhawal"
   google_plus      :
   keybase          :
   instagram        :
@@ -102,7 +102,7 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
