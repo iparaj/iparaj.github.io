@@ -7,28 +7,25 @@ author_profile: true
 
 Education
 ======
-* PhD in Engineering, IITB-Monash Research Academy (early 2019, expected)
-* M.Tech. in Robotics, University of Petroleum and Energy Studies (2014)
-* B.E. in Electrical and Electronics Engineering (2010)
+* PhD in Engineering, Indian Institute of Technology Bombay (early 2019, expected)
+* B.E. in Electronics and Telecommunication Engineering (2008), [Assam Engineering College]{http://www.aec.ac.in/}
 
 Work experience
-======
-* Research
-  * IITB Research Internship, IIT Bombay (Dec 2013 - June 2014)
-  * Summer Intern, Centre for Artificial Intelligence and Robotics (CAIR), DRDO (April - June 2013)
-
+===============
 * Industry
-  * Engineer - Power Systems, Power Research and Development Consultants Pvt. Ltd., Bangalore (2010 - 2011)
+  * Operation and maintenance engineer - Vodafone Essar Spacetel Ltd., Assam Circle, (July 2008 - September 2010).
 
 * Academia
-  * Teaching Assistant, IIT Bombay for the courses EE749 - Decentralized control of Complex Systems (Autumn
-2016), EE640 - Multivariable control (Autumn 2015), EE631 - Optimal Control (Spring 2016), EE340 - Control
-Systems Lab (Spring 2015, 2017).
-  * Teaching Associate, Monash University for the course MEC4418 - Control Systems (S2 2018), TRC3000 -
-Mechatronics Design (S1 2017).
-  
+  * Assistant Professor - NETES Institute of Technology & Science, Mirza, Assam, (October 2010 - June 2013).	
+    Courses taught: Network Theory, Control Theory, Microprocessor and Microcontrollers, Electronic Devices, 
+    Advanced Embedded Systems, Electromagnetic Field Theory, Antenna and Wave Propagation. 
+
+Teaching assistantship
+======================
+* Control Systems, Applied Linear Algebra, Network Theory, Model Order Reduction: Theory and Algorithms, Microprocessor Lab.
+
 Courses
 ======
-Applied Linear Algebra, Multivariable Control Systems, Decentralized Control of Complex Systems, Optimal
-Control Systems, Control of Mobile Robots, Image Processing, Artificial Neural Networks and Machine Learning,
-Matrix Computations, Behavioral Theory of Systems, Model Order Reduction: Theory and Algorithms.
+Applied Linear Algebra, Real Analysis, Matrix Computations, Multivariable Control Systems, Nonlinear Dynamical Systems, 
+Optimal Control Systems, Behavioral Theory of Systems, Decentralized Control of Complex Systems, Model Order Reduction: Theory and Algorithms, 
+Combinatorial optimization, Estimation and Identification.
