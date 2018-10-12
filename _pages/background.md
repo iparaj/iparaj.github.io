@@ -8,7 +8,7 @@ author_profile: true
 Education
 ======
 * PhD in Engineering, Indian Institute of Technology Bombay (early 2019, expected)
-* B.E. in Electronics and Telecommunication Engineering (2008), [Assam Engineering College]{http://www.aec.ac.in/}
+* B.E. in Electronics and Telecommunication Engineering (2008), [Assam Engineering College](http://www.aec.ac.in/)
 
 Work experience
 ===============
