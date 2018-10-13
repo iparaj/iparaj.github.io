@@ -14,5 +14,5 @@ author_profile: true
 Workshops conducted
 ======
 * _Basics of Scilab_, Dr. Ambedkar Institute of Technology, Bangalore under TEQIP, 2018. 
-* _Basics of ARM-7 Microcontroller_, NETES Institute of Technology Labs, Guwahati, 2011.
+* _Robotics using AVR Microcontroller_, NETES Institute of Technology Labs, Guwahati, 2011.
 * _Robotics using PIC Microcontroller_, NETES Institute of Technology Labs, Bangalore, 2011.
