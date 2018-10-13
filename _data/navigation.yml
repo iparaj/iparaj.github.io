@@ -1,17 +1,16 @@
 # main links links
 main:
-    
+  - title: "Background"
+    url: /background/    
+
   - title: "Publications"
     url: /publications/
 
   - title: "Talks"
     url: /talks/
-    
-  - title: "Background"
-    url: /background/
+   
+  - title: "Tutorials"
+    url: /tutorials/
 
   - title: "CV"
     url: /cv/
-
-  - title: "Tutorials"
-    url: /tutorials/

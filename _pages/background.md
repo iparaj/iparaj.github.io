@@ -20,7 +20,8 @@ Work experience: Academia
   - Courses taught: Network Theory, Control Theory, Microprocessor and Microcontrollers, Electronic Devices, 
     Advanced Embedded Systems, Electromagnetic Field Theory, Antenna and Wave Propagation. 
 * Visiting Lecturer - University Visvesvaraya College of Engineering, Bangalore, Karnataka, (March 2011 - May 2011).
-  - Course taught: Embedded Systems.	
+  - Course taught: Embedded Systems.
+	
 
 Teaching assistant for
 ======================
