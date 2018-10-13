@@ -15,7 +15,7 @@ Engineering, and Mathematics).
 These tutorial files have been prepared by
 the [FOSSEE team](https://fossee.in) of [IIT
 Bombay](http://www.iitb.ac.in). The tutorial files 
-can be found here: [Link](https://github.com/FOSSEE/scilab-tutorials). These files 
+can be found here: [FOSSEE Scilab Tutorial Codes](https://github.com/FOSSEE/scilab-tutorials). These files 
 are to be used in
 conjuction with the tutorial slides which can be viewed
 here: [FOSSEE Scilab Tutorial Slides](https://drive.google.com/open?id=1PMu__9KHSy1CaeCSzE0xRxskEKQRxA9s).
