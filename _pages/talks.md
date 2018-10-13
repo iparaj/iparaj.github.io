@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Talks and presentation"
 permalink: /talks/
 author_profile: true
