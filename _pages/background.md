@@ -24,7 +24,7 @@ Work experience: Academia
 
 Teaching assistant for
 ======================
-* Control Systems, Applied Linear Algebra, Network Theory, Model Order Reduction: Theory and Algorithms, Microprocessor Lab.
+Control Systems, Applied Linear Algebra, Network Theory, Model Order Reduction: Theory and Algorithms, Microprocessor Lab.
 
 Courses done
 ======
