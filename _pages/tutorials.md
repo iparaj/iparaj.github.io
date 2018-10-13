@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "Tutorials"
+permalink: /tutorials/
+author_profile: true
+---
 # Scilab Tutorials for STEM beginners
 *Prepared by Chayan Bhawal and P Sunthar, IIT Bombay*
 
