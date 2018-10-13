@@ -1,10 +1,9 @@
 ---
 layout: archive
-title: "Tutorials"
+title: "Scilab Tutorials for STEM beginners"
 permalink: /tutorials/
 author_profile: true
 ---
-# Scilab Tutorials for STEM beginners
 *Prepared by Chayan Bhawal and P Sunthar, IIT Bombay*
 
 
@@ -17,10 +16,10 @@ Engineering, and Mathematics).
 These tutorial files have been prepared by
 the [FOSSEE team](https://fossee.in) of [IIT
 Bombay](http://www.iitb.ac.in). The tutorial files 
-can be [found here](https://github.com/FOSSEE/scilab-tutorials). These files 
+can be found here: [Link](https://github.com/FOSSEE/scilab-tutorials). These files 
 are to be used in
-conjuction with the tutorial slides which can be [viewed
-here](https://drive.google.com/open?id=1PMu__9KHSy1CaeCSzE0xRxskEKQRxA9s
+conjuction with the tutorial slides which can be viewed
+here: [Slides] (https://drive.google.com/open?id=1PMu__9KHSy1CaeCSzE0xRxskEKQRxA9s
 "FOSSEE Scilab Tutorial Slides").
 
 On successful completion of the tutorials you should be able to
