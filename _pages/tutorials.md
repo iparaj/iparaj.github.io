@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Scilab Tutorials for STEM beginners"
 permalink: /tutorials/
 author_profile: true
