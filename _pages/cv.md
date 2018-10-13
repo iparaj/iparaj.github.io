@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Detailed CV can be downloaded [here](http://zapurva.github.io/files/Chayan_Bhawal_resume.pdf).
+Detailed CV can be downloaded [here](http://chayanbhawal.github.io/files/Chayan_Bhawal_resume.pdf).
