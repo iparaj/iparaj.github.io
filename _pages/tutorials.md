@@ -19,8 +19,7 @@ Bombay](http://www.iitb.ac.in). The tutorial files
 can be found here: [Link](https://github.com/FOSSEE/scilab-tutorials). These files 
 are to be used in
 conjuction with the tutorial slides which can be viewed
-here: [Slides] (https://drive.google.com/open?id=1PMu__9KHSy1CaeCSzE0xRxskEKQRxA9s
-"FOSSEE Scilab Tutorial Slides").
+here: [FOSSEE Scilab Tutorial Slides](https://drive.google.com/open?id=1PMu__9KHSy1CaeCSzE0xRxskEKQRxA9s).
 
 On successful completion of the tutorials you should be able to
  * carry out elementary matrix operations
