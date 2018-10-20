@@ -16,9 +16,9 @@ Conferences
 * Ashish Kothyari, __Chayan Bhawal__, Madhu N Belur, and Debasattam Pal, Defective Hamiltonian matrix imaginary eigenvalues and losslessness, 
 To be presented in _Indian Control Conference (ICC)_, Delhi, India, 2019.
 * __Chayan Bhawal__, Debasattam Pal, and Madhu N Belur, On solutions of bounded-real LMI for singularly bounded-real systems, _European Control Conference_, Limassol, Cyprus, June 12 - June 15, 2018. [[Link]](http://chayanbhawal.github.io/files/2018BhaPalBelECC.pdf)
-* __Chayan Bhawal__, Debasattam Pal, and Madhu N Belur, On the link between storage functions of allpass systems and Gramians, _IEEE Conference on Decision and Control (CDC)_, Melbourne, Australia, December 12-15, 2017. [[Link]](http://chayanbhawal.github.io/files/2017BhaPalBelCDC.pdf)
-* __Chayan Bhawal__, Debasattam Pal, and Madhu N Belur, A 2D-DFT based method to compute the Bezoutian and a link to Lyapunov equations, _Indian Control Conference (ICC)_, Guwahati, India, January 4-6, 2017. [[Link]](http://chayanbhawal.github.io/files/2017BhaPalBelICC.pdf)
-* Sandeep Kumar, __Chayan Bhawal__, Debasattam Pal, and Madhu N Belur, New results and algorithms for computing storage functions: The lossless/allpass cases, _European Control Conference_, Aalborg, Denmark, June 29 - July 1, 2016. [[Link]](http://chayanbhawal.github.io/files/2016KumBhaPalBelECC.pdf)
+* __Chayan Bhawal__, Debasattam Pal, and Madhu N Belur, On the link between storage functions of allpass systems and Gramians, _IEEE Conference on Decision and Control (CDC)_, Melbourne, Australia, December 12-15, 2017. [[Link]](https://ieeexplore.ieee.org/document/8264273)
+* __Chayan Bhawal__, Debasattam Pal, and Madhu N Belur, A 2D-DFT based method to compute the Bezoutian and a link to Lyapunov equations, _Indian Control Conference (ICC)_, Guwahati, India, January 4-6, 2017. [[Link]](https://ieeexplore.ieee.org/document/7846489)
+* Sandeep Kumar, __Chayan Bhawal__, Debasattam Pal, and Madhu N Belur, New results and algorithms for computing storage functions: The lossless/allpass cases, _European Control Conference_, Aalborg, Denmark, June 29 - July 1, 2016. [[Link]](https://ieeexplore.ieee.org/iel7/7792520/7810253/07810439.pdf)
 
 
 Book Chapter
