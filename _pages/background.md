@@ -19,9 +19,6 @@ Work experience: Academia
 * Assistant Professor - NETES Institute of Technology & Science, Mirza, Assam, (October 2010 - June 2013).	
   - Courses taught: Network Theory, Control Theory, Microprocessor and Microcontrollers, Electronic Devices, 
     Advanced Embedded Systems, Electromagnetic Field Theory, Antenna and Wave Propagation. 
-* Visiting Lecturer - University Visvesvaraya College of Engineering, Bangalore, Karnataka, (March 2011 - May 2011).
-  - Course taught: Embedded Systems.
-	
 
 Teaching assistant for
 ======================
