@@ -12,7 +12,7 @@ Hello and welcome to my homepage. I am currently a Research Associate at Indian 
 
 Current Research
 ================
-My current research is in the area of singular optimal control. In my Ph.D. work I have shown that almost all singular LQR problems can be solved using proportional-derivative (PD) controllers. I havs also presented a method to design such controllers. This developed theory works in the passivity and bounded-real domain as well.
+My current research is in the area of singular optimal control. In my Ph.D. work I have shown that almost all singular linear quadratic regulator (LQR) problems can be solved using proportional-derivative (PD) controllers. I havs also presented a method to design such controllers. This developed theory works in the passivity and bounded-real domain as well.
 
 
 Research Interests
