@@ -16,6 +16,7 @@ Work experience: Industry
 
 Work experience: Academia
 ===============
+* Research Associate - Indian Institute of Technology Bombay, Mumbai, Maharashtra, (December 2018 - ongoing). 
 * Assistant Professor - NETES Institute of Technology & Science, Mirza, Assam, (October 2010 - June 2013).	
   - Courses taught: Network Theory, Control Theory, Microprocessor and Microcontrollers, Electronic Devices, 
     Advanced Embedded Systems, Electromagnetic Field Theory, Antenna and Wave Propagation. 
