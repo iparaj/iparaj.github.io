@@ -13,7 +13,6 @@ Journals (published/accepted)
 
 Journals (submitted/under-review)
 =================================
-* __Chayan Bhawal__, Imrul Qais, and Debasattam Pal, The optimal cost of the singular LQR problem, and fast/slow subspaces of the Hamiltonian system, Under review.
 * __Chayan Bhawal__ and Debasattam Pal, Almost every single-input LQR optimal control problem admits a PD feedback solution, Under review.
 
 Conferences
