@@ -18,7 +18,7 @@ My current research is in the area of singular optimal control. In my Ph.D. work
 Research Interests
 ==================
 * Optimal control
-* Singular descriptor systems
+* Singular descriptor systems/Differential algebraic systems
 * Linear systems
 * Multiagent systems
 * Behavioral theoretic approach to control
