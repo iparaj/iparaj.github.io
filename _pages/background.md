@@ -7,8 +7,8 @@ author_profile: true
 
 Education
 ======
-* PhD in Engineering, Indian Institute of Technology Bombay (Defense date: 5th March 2019)
-* B.E. in Electronics and Telecommunication Engineering (2008), [Assam Engineering College](http://www.aec.ac.in/)
+* PhD in Engineering, Indian Institute of Technology Bombay (2013-2019, Defence date: 5th March 2019)
+* B.E. in Electronics and Telecommunication Engineering (2004-2008), [Assam Engineering College](http://www.aec.ac.in/)
 
 Work experience: Industry
 ===============
@@ -16,7 +16,6 @@ Work experience: Industry
 
 Work experience: Academia
 ===============
-* Research Associate - Indian Institute of Technology Bombay, Mumbai, Maharashtra, (December 2018 - ongoing). 
 * Assistant Professor - NETES Institute of Technology & Science, Mirza, Assam, (October 2010 - June 2013).	
   - Courses taught: Network Theory, Control Theory, Microprocessor and Microcontrollers, Electronic Devices, 
     Advanced Embedded Systems, Electromagnetic Field Theory, Antenna and Wave Propagation. 
@@ -28,5 +27,4 @@ Control Systems, Applied Linear Algebra, Network Theory, Model Order Reduction: 
 Courses done
 ======
 Applied Linear Algebra, Real Analysis, Matrix Computations, Multivariable Control Systems, Nonlinear Dynamical Systems, 
-Optimal Control Systems, Behavioral Theory of Systems, Decentralized Control of Complex Systems, Model Order Reduction: Theory and Algorithms, 
-Combinatorial optimization, Estimation and Identification.
+Optimal Control Systems, Behavioral Theory of Systems, Decentralized Control of Complex Systems, Model Order Reduction: Theory and Algorithms, Combinatorial optimization, Estimation and Identification.
