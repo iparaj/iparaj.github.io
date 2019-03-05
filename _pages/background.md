@@ -7,7 +7,7 @@ author_profile: true
 
 Education
 ======
-* PhD in Engineering, Indian Institute of Technology Bombay (2013-2019, Defence date: 5th March 2019)
+* PhD in Engineering, Indian Institute of Technology Bombay (2013-2019, Defended on 5th March 2019)
 * B.E. in Electronics and Telecommunication Engineering (2004-2008), [Assam Engineering College](http://www.aec.ac.in/)
 
 Work experience: Industry
