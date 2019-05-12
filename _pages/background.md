@@ -12,7 +12,7 @@ Education
 
 Work experience: Industry
 ===============
-* Operation and maintenance engineer - Vodafone Essar Spacetal Ltd., Assam Circle, (July 2008 - September 2010).
+* Operation and maintenance engineer - Vodafone Spacetal Ltd., Assam Circle, (July 2008 - September 2010).
 
 Work experience: Academia
 ===============
