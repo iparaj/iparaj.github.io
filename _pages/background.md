@@ -12,7 +12,8 @@ Education
 
 Work experience: Academia
 ===============
-* Research Fellow - Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg, Germany (July 2019 - Ongoing)
+* Research Fellow - Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg, Germany 
+  (July 2019 - Ongoing)
   - Degenerate Riccati Equations
 * Assistant Professor - NETES Institute of Technology & Science, Mirza, Assam, (October 2010 - June 2013).	
   - Courses taught: Network Theory, Control Theory, Microprocessor and Microcontrollers, Electronic Devices, 
