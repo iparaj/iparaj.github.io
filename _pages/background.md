@@ -5,14 +5,9 @@ permalink: /background/
 author_profile: true
 ---
 
-Education
-======
-* PhD in Engineering, Indian Institute of Technology Bombay (2013-2019, Defended on 5th March 2019)
-* B.E. in Electronics and Telecommunication Engineering (2004-2008), [Assam Engineering College](http://www.aec.ac.in/)
-
 Work experience: Academia
 ===============
-* Research Fellow - Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg, Germany      
+* Research Fellow - [Max Planck Institute for Dynamics of Complex Technical Systems](https://www.mpi-magdeburg.mpg.de/2316/en), Magdeburg, Germany      
   (July 2019 - Ongoing)
   - Degenerate Riccati Equations
 * Assistant Professor - NETES Institute of Technology & Science, Mirza, Assam, (October 2010 - June 2013).	
@@ -22,6 +17,12 @@ Work experience: Academia
 Work experience: Industry
 ===============
 * Operation and maintenance engineer - Vodafone Spacetal Ltd., Assam Circle, (July 2008 - September 2010).
+
+
+Education
+======
+* PhD in Engineering, Indian Institute of Technology Bombay (2013-2019, Defended on 5th March 2019)
+* B.E. in Electronics and Telecommunication Engineering (2004-2008), [Assam Engineering College](http://www.aec.ac.in/)
 
 Teaching assistant for
 ======================
