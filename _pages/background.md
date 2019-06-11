@@ -10,15 +10,17 @@ Education
 * PhD in Engineering, Indian Institute of Technology Bombay (2013-2019, Defended on 5th March 2019)
 * B.E. in Electronics and Telecommunication Engineering (2004-2008), [Assam Engineering College](http://www.aec.ac.in/)
 
-Work experience: Industry
-===============
-* Operation and maintenance engineer - Vodafone Spacetal Ltd., Assam Circle, (July 2008 - September 2010).
-
 Work experience: Academia
 ===============
+* Research Fellow - Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg, Germany (July 2019 - Ongoing)
+  - Degenerate Riccati Equations
 * Assistant Professor - NETES Institute of Technology & Science, Mirza, Assam, (October 2010 - June 2013).	
   - Courses taught: Network Theory, Control Theory, Microprocessor and Microcontrollers, Electronic Devices, 
     Advanced Embedded Systems, Electromagnetic Field Theory, Antenna and Wave Propagation. 
+
+Work experience: Industry
+===============
+* Operation and maintenance engineer - Vodafone Spacetal Ltd., Assam Circle, (July 2008 - September 2010).
 
 Teaching assistant for
 ======================
