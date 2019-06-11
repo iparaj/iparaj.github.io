@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chayan Bhawal / Homepage"
 title_separator          : "-"
 name                     : &name "Chayan Bhawal"
-description              : &description "Research Associate, IIT Bombay"
+description              : &description "Research Fellow, MPI Magdeburg"
 url                      : https://chayanbhawal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chayanbhawal.github.io"
@@ -85,7 +85,7 @@ author:
   location         : "Mumbai, India"
   employer         :
   googlescholar    : "https://scholar.google.com.au/citations?user=d7eR_LkAAAAJ&hl=en"
-  email            : "drchayanbhawal@gmail.com"
+  email            : "[my surname]@mpi-magdeburg.mpg.de"
   uri              :
   bitbucket        :
   codepen          :
