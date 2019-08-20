@@ -9,7 +9,7 @@ Work experience: Academia
 ===============
 * Research Fellow - [Max Planck Institute for Dynamics of Complex Technical Systems](https://www.mpi-magdeburg.mpg.de/2316/en), Magdeburg, Germany      
   (June 2019 - Ongoing)
-  - Degenerate Riccati Equations, Differential algebraic systems, Optimal control
+  - Degenerate Riccati Equations, Differential algebraic systems, Optimal control.
 * Assistant Professor - NETES Institute of Technology & Science, Mirza, Assam, (October 2010 - June 2013).	
   - Courses taught: Network Theory, Control Theory, Microprocessor and Microcontrollers, Electronic Devices, 
     Advanced Embedded Systems, Electromagnetic Field Theory, Antenna and Wave Propagation. 
