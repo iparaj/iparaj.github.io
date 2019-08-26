@@ -6,7 +6,7 @@ author_profile: true
 
 Journals (published/accepted)
 =============================
-* __Chayan Bhawal__ and Debasattam Pal, Almost every single-input LQR optimal control problem admits a PD feedback solution, Early Access, _IEEE Control Systems Letters_, vol. 3, no. 2, pages 452 - 457, 2019. [[Link]](https://ieeexplore.ieee.org/document/8637786)
+* __Chayan Bhawal__ and Debasattam Pal, Almost every single-input LQR optimal control problem admits a PD feedback solution, _IEEE Control Systems Letters_, vol. 3, no. 2, pages 452 - 457, 2019. [[Link]](https://ieeexplore.ieee.org/document/8637786)
 * __Chayan Bhawal__, Imrul Qais, and Debasattam Pal, Constrained generalized continuous algebraic Riccati equations (CGCAREs) are generically unsolvable, _IEEE Control Systems Letters_, vol. 3, no. 1, 2019. [[Link]](https://ieeexplore.ieee.org/document/8458230)
 * __Chayan Bhawal__, Debasattam Pal, and Madhu N Belur, Closed form solutions of singular KYP lemma: strongly passive systems, and fast lossless trajectories, Early Access, _International Journal of Control_, 2018. [[Link]](https://www.tandfonline.com/doi/full/10.1080/00207179.2018.1500039)
 * __Chayan Bhawal__, Debasattam Pal, Sandeep Kumar, and Madhu N Belur, New results and techniques for computation of stored energy in lossless/all-pass systems, _IEEE Transactions on Circuits and Systems I: Regular Papers_, vol. 64, no. 1, pages 72-85, 2017. [[Link]](https://ieeexplore.ieee.org/abstract/document/7588105)
