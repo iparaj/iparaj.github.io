@@ -17,7 +17,8 @@ _Courses taught: Network Theory, Control Theory, Microprocessor and Microcontrol
 
 Work experience: Industry
 ===============
-* _Jul 2018 - Sep 2010_: __Operation and maintenance engineer__ at Vodafone Spacetal Limited, Assam Circle.
+* _Jul 2018 - Sep 2010_: __Operation and maintenance engineer__ <br> 
+Vodafone Spacetal Limited, Assam Circle. <br>
 _Area of work: Operation, Maintenance and Troubleshooting on the Abis interface to ensure high GOS._
 
 Education
