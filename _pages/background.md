@@ -17,14 +17,16 @@ _Courses taught: Network Theory, Control Theory, Microprocessor and Microcontrol
 
 Work experience: Industry
 ===============
-* _Jul 2018 - Sep 2010_: __Operation and maintenance engineer__ <br> 
+* Jul 2018 - Sep 2010: __Operation and maintenance engineer__ <br> 
 Vodafone Spacetal Limited, Assam Circle. <br>
 _Area of work: Operation, Maintenance and Troubleshooting on the Abis interface to ensure high GOS._
 
 Education
 ======
-* _2013 - 2019_: __Ph.D.__ in [Electrical Engineering](https://www.ee.iitb.ac.in/web) from Indian Institute of Technology Bombay.
-* _2004 - 2008_: __B.E.__ in Electronics and Telecommunication Engineering from [Assam Engineering College](http://www.aec.ac.in/).
+* 2013 - 2019: __Ph.D.__ in [Electrical Engineering](https://www.ee.iitb.ac.in/web) <br> 
+[Indian Institute of Technology Bombay](https://www.iitb.ac.in).
+* _2004 - 2008_: __B.E.__ in Electronics and Telecommunication Engineering <br> 
+[Assam Engineering College](http://www.aec.ac.in/).
 
 Teaching assistant for
 ======================
