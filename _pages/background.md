@@ -7,24 +7,24 @@ author_profile: true
 
 Work experience: Academia
 ===============
-* Jun 2019 - Ongoing: __Postdoctoral Research Fellow__ at the Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg, Germany.
+* _Jun 2019 - Ongoing_: __Postdoctoral Research Fellow__ at the Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg, Germany.
 
   - Area of work: Degenerate Riccati Equations, Differential algebraic systems, Optimal control.
 
-* Oct 2010 - Jun 2013: __Assistant Professor__ at NETES Institute of Technology & Science, Mirza, Assam.	
+* _Oct 2010 - Jun 2013_: __Assistant Professor__ at NETES Institute of Technology & Science, Mirza, Assam.	
 
   - Courses taught: Network Theory, Control Theory, Microprocessor and Microcontrollers, Electronic Devices, 
     Advanced Embedded Systems, Electromagnetic Field Theory, Antenna and Wave Propagation. 
 
 Work experience: Industry
 ===============
-* Jul 2018 - Sep 2010: __Operation and maintenance engineer__ at Vodafone Spacetal Limited, Assam Circle.
+* _Jul 2018 - Sep 2010_: __Operation and maintenance engineer__ at Vodafone Spacetal Limited, Assam Circle.
 
 
 Education
 ======
-* 2013 - 2019: __Ph.D.__ in [Electrical Engineering](https://www.ee.iitb.ac.in/web) from Indian Institute of Technology Bombay.
-* 2004 - 2008: __B.E.__ in Electronics and Telecommunication Engineering from [Assam Engineering College](http://www.aec.ac.in/).
+* _2013 - 2019_: __Ph.D.__ in [Electrical Engineering](https://www.ee.iitb.ac.in/web) from Indian Institute of Technology Bombay.
+* _2004 - 2008_: __B.E.__ in Electronics and Telecommunication Engineering from [Assam Engineering College](http://www.aec.ac.in/).
 
 Teaching assistant for
 ======================
