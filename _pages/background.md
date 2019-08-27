@@ -23,7 +23,7 @@ Work experience: Industry
 
 Education
 ======
-* 2013 - 2019: __PhD__ in [Electrical Engineering from Indian Institute of Technology Bombay](https://www.ee.iitb.ac.in/web).
+* 2013 - 2019: __Ph.D.__ in [Electrical Engineering](https://www.ee.iitb.ac.in/web) from Indian Institute of Technology Bombay.
 * 2004 - 2008: __B.E.__ in Electronics and Telecommunication Engineering from [Assam Engineering College](http://www.aec.ac.in/).
 
 Teaching assistant for
