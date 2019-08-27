@@ -13,12 +13,12 @@ _Area of work: Degenerate Riccati Equations, Differential algebraic systems, Opt
 
 * Oct 2010 - Jun 2013: __Assistant Professor__ <br>
 NETES Institute of Technology & Science, Mirza, Assam.	<br>
-Courses taught: Network Theory, Control Theory, Microprocessor and Microcontrollers, Electronic Devices, Advanced Embedded Systems, Electromagnetic Field Theory, Antenna and Wave Propagation. 
+_Courses taught: Network Theory, Control Theory, Microprocessor and Microcontrollers, Electronic Devices, Advanced Embedded Systems, Electromagnetic Field Theory, Antenna and Wave Propagation._ 
 
 Work experience: Industry
 ===============
 * _Jul 2018 - Sep 2010_: __Operation and maintenance engineer__ at Vodafone Spacetal Limited, Assam Circle.
-
+_Area of work: Troubleshooting problems and implementing corrective measures at the Abis and Ater-interface._
 
 Education
 ======
