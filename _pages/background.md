@@ -23,8 +23,8 @@ _Area of work: Operation, Maintenance and Troubleshooting on the Abis interface 
 
 Education
 ======
-* 2013 - 2019: __Ph.D.__ in [Electrical Engineering](https://www.ee.iitb.ac.in/web) <br> 
-[Indian Institute of Technology Bombay](https://www.iitb.ac.in).
+* 2013 - 2019: __Ph.D.__ in Electrical Engineering <br> 
+Department of [Electrical Engineering](https://www.ee.iitb.ac.in/web), [Indian Institute of Technology Bombay](https://www.iitb.ac.in).
 * _2004 - 2008_: __B.E.__ in Electronics and Telecommunication Engineering <br> 
 [Assam Engineering College](http://www.aec.ac.in/).
 
