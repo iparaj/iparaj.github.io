@@ -25,3 +25,8 @@ Conferences
 Book Chapter
 ============
 * __Chayan Bhawal__, Sandeep Kumar, Debasattam Pal, and Madhu N. Belur, New properties of ARE solutions for strictly dissipative and lossless systems, _Mathematical Control Theory II: Behavioral Systems and Robust Control_, Springer International Publishing, 2015.[[Link]](https://www.springer.com/in/book/9783319210025)
+
+
+PhD Thesis
+===========
+* __Chayan Bhawal__, Generalized Riccati theory: A Hamiltonian system approach, Department of Electrical Engineering, Indian Institute of Technology Bombay, 2019 [[Link]](http://chayanbhawal.github.io/files/2019BhaPhDThesis.pdf)
