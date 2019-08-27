@@ -25,8 +25,7 @@ Education
 ======
 * Jun 2013 - Mar 2019: __Ph.D.__ in Electrical Engineering <br> 
 Department of [Electrical Engineering](https://www.ee.iitb.ac.in/web), [Indian Institute of Technology Bombay](https://www.iitb.ac.in).
-* Jun 2004 - May 2008: __B.E.__ in Electronics and Telecommunication Engineering <br> 
-[Assam Engineering College](http://www.aec.ac.in/).
+* Jul 2004 - Jun 2008: __B.E.__ in Electronics and Telecommunication Engineering, [Assam Engineering College](http://www.aec.ac.in/).
 
 Teaching assistant for
 ======================
