@@ -9,7 +9,7 @@ Work experience: Academia
 ===============
 * Jun 2019 - Ongoing: __Postdoctoral Research Fellow__ <br> 
 Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg, Germany. <br>
-_Area of work: Degenerate Riccati Equations, Differential algebraic systems, Optimal control._
+_Area of work: Differential algebraic systems, Optimal control, Model-order reduction._
 
 * Oct 2010 - Jun 2013: __Assistant Professor__ <br>
 NETES Institute of Technology & Science, Mirza, Assam.	<br>
