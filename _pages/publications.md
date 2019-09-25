@@ -13,7 +13,7 @@ Journals (published/accepted)
 
 Conferences
 ===========
-* __Chayan Bhawal__, Debasattam Pal, and Madhu N. Belur, On circulant Lyapunov operators, two-variable polynomials, and DFT, To be presented at _Indian Control Conference (ICC)_, Hyderabad, December 18 - December 20, 2019. [[Link]] (http://chayanbhawal.github.io/files/BhaPal19.pdf)
+* __Chayan Bhawal__, Debasattam Pal, and Madhu N. Belur, On circulant Lyapunov operators, two-variable polynomials, and DFT, To be presented at _Indian Control Conference (ICC)_, Hyderabad, December 18 - December 20, 2019. [[Link]](http://chayanbhawal.github.io/files/BhaPal19.pdf)
 * __Chayan Bhawal__ and Debasattam Pal, On solvability of CGCARE for LQR problems with zero input-cost, To be presented at _IEEE Conference on Decision and Control (CDC)_, Nice, France, December 11 - December 13, 2019. 
 * Ashish Kothyari, __Chayan Bhawal__, Madhu N Belur, and Debasattam Pal, Defective Hamiltonian matrix imaginary eigenvalues and losslessness, _Indian Control Conference (ICC)_, Delhi, January 9 - January 11, 2019. [[Link]](http://chayanbhawal.github.io/files/2019KotBhaBelPalICC.pdf)
 * __Chayan Bhawal__, Debasattam Pal, and Madhu N Belur, On solutions of bounded-real LMI for singularly bounded-real systems, _European Control Conference_, Limassol, Cyprus, June 12 - June 15, 2018. [[Link]](http://chayanbhawal.github.io/files/2018BhaPalBelECC.pdf)
