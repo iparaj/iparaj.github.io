@@ -8,4 +8,4 @@ redirect_from:
 
 {% include base_path %}
 
-For detailed CV please Email me.
+For detailed CV please E-mail me.
