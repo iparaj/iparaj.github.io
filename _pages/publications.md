@@ -29,4 +29,4 @@ Book Chapter
 
 PhD Thesis
 ===========
-* __Chayan Bhawal__, Generalized Riccati theory: A Hamiltonian system approach, _Department of Electrical Engineering, Indian Institute of Technology Bombay_, 2019 [[Link]](http://chayanbhawal.github.io/files/2019BhaPhDThesis.pdf)
+* __Chayan Bhawal__, Generalized Riccati theory: A Hamiltonian system approach, _Department of Electrical Engineering, Indian Institute of Technology Bombay_, 2019 [E-mail me for the thesis]
