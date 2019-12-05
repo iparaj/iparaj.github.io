@@ -7,7 +7,7 @@ author_profile: true
 
 Work experience: Academia
 ===============
-* Jun 2019 - Ongoing: __Postdoctoral Research Fellow__ <br> 
+* Jun 2019 - Dec 2019: __Postdoctoral Research Fellow__ <br> 
 Computational Methods in Systems and Control Theory, <br>
 Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg, Germany. <br>
 _Area of work: Differential algebraic systems, Optimal control, Model-order reduction._
