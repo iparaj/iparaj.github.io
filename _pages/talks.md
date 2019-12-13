@@ -9,6 +9,7 @@ author_profile: true
 * _On the link between storage functions of allpass systems and Gramians_. Conference on Decision and Control, Melbourne, Australia, 2017.[[Slides]](http://chayanbhawal.github.io/files/CDC17_presentation.pdf)
 * _On solutions of bounded-real LMI for singularly bounded-real systems_. European Control Conference, Limassol, Cyprus, 2018. [[Slides]](http://chayanbhawal.github.io/files/ECC18_presentation.pdf)
 * _Generalized eigenvalue problem_. Invited speaker at the Students’ Reading Group, Dept. of Electrical Engineering, Indian Institute of Technology Bombay, Mumbai, India. [[Slides]](http://chayanbhawal.github.io/files/SRG17_presentation.pdf)
+* _On solvability of CGCARE for LQR problems with zero input-cost_. Conference on Decision and Control, Nice, France, 2019.[[Slides]](http://chayanbhawal.github.io/files/CDC19_presentation.pdf)
 
 Workshops conducted
 ======
