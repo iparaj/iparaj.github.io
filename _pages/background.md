@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Experience"
-permalink: /background/
+permalink: /experience/
 author_profile: true
 ---
 
