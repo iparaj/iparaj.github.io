@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Experience"
+title: "Background"
 permalink: /background/
 author_profile: true
 ---
