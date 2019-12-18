@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Background"
+title: "Experience"
 permalink: /background/
 author_profile: true
 ---
@@ -11,6 +11,10 @@ Work experience: Academia
 Computational Methods in Systems and Control Theory, <br>
 Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg, Germany. <br>
 _Area of work: Differential algebraic systems, Optimal control, Model-order reduction._
+
+* Mar 2011 - May 2011: __Visiting Lecturer__ <br>
+University Visvesvaraya College of Engineering
+_Course taught: Embedded Systems._
 
 * Oct 2010 - Jun 2013: __Assistant Professor__ <br>
 NETES Institute of Technology & Science, Mirza, Assam.	<br>
