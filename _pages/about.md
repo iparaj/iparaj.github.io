@@ -24,7 +24,7 @@ Research Interests
 News
 ====
 
-* Upcoming: 20-Dec 2019 - Mousumi Mukherjee from the Department of Electrical Engineering, IIT Bombay will present my paper "On Circulant Lyapunov Operators, Two-Variable Polynomials, and DFT" in the 6th Indian Control Conference at IIT Hyderabad, India. 
+* 20-Dec 2019 - Mousumi Mukherjee from the Department of Electrical Engineering, IIT Bombay will present my paper "On Circulant Lyapunov Operators, Two-Variable Polynomials, and DFT" in the 6th Indian Control Conference at IIT Hyderabad, India. 
 
 * 13-Dec 2019 - Presented my paper "On solvability of CGCARE for LQR problems with zero input-cost" in the 58th IEEE Conference on Decision and Control at Nice, France. 
 
