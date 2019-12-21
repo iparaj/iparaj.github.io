@@ -28,7 +28,7 @@ News
 
 * 13-Dec 2019 - Presented my paper "On solvability of CGCARE for LQR problems with zero input-cost" in the 58th IEEE Conference on Decision and Control at Nice, France. 
 
-* 10-Dec 2019 - Joined Max Planck Institute for Dynamics of Complex Technical Systems as a Post-doctoral research fellow. 
+* 10-Jun 2019 - Joined Max Planck Institute for Dynamics of Complex Technical Systems as a Post-doctoral research fellow. 
 
-* 05-Dec 2019 - Completed my Ph.D. defence presentation on "Generalized Riccati theory: A Hamiltonian system approach". 
+* 05-Mar 2019 - Completed Ph.D. from Department of Electrical Engineering, IIT Bombay. 
 
