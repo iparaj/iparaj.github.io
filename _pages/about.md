@@ -23,10 +23,10 @@ Research Interests
 
 Contact
 ========
-Room No. 213, New Extension,
-Department of Electronics and Electrical Engineering,
-Indian Institute of Technology Guwahati,
-Guwahati - 781039
+Room No. 213, New Extension,<br>
+Department of Electronics and Electrical Engineering,<br>
+Indian Institute of Technology Guwahati,<br>
+Guwahati - 781039<br>
 Phone - +91-361-2582511
 
 News
