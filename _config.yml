@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Chayan Bhawal / Homepage"
 title_separator          : "-"
-name                     : &name "Chayan Bhawal"
+name                     : &name "Dr. Chayan Bhawal"
 description              : &description "Assistant Professor, EEE IIT Guwahati"
 url                      : https://chayanbhawal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -79,9 +79,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chayan Bhawal"
+  name             : "Dr. Chayan Bhawal"
   avatar           : "Chayan_Bhawal.jpg"
-  bio              : "Assistant Professor"
+  bio              : "Assistant Professor, EEE"
   location         : "Guwahati, Assam, India"
   employer         : "IIT Guwahati"
   googlescholar    : "https://scholar.google.com.au/citations?user=d7eR_LkAAAAJ&hl=en"
