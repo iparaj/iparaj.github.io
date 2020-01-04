@@ -21,6 +21,14 @@ Research Interests
 * Behavioral theoretic approach to control
 * Graph Theoretic approach to control
 
+Contact
+========
+Room No. 213, New Extension,
+Department of Electronics and Electrical Engineering,
+Indian Institute of Technology Guwahati,
+Guwahati - 781039
+Phone - +91-361-2582511
+
 News
 ====
 * 01-Jan 2020 - Joined the Department of Electronics and Electrical Engineering at IIT Guwahati as an Assistant Professor.
