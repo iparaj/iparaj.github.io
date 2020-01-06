@@ -10,6 +10,7 @@ Work experience: Academia
 * Jan 2020 - Present: __Assistant Professor__ <br>
 Department of Electronics and Electrical Engineering, <br>
 Indian Institute of Technology Guwahati. <br>
+_Area of work: Differential algebraic systems, Optimal control._
 
 * Jun 2019 - Dec 2019: __Postdoctoral Research Fellow__ <br> 
 Computational Methods in Systems and Control Theory, <br>
