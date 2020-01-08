@@ -26,9 +26,9 @@ Contact
 Room No. 213, New Extension Block,<br>
 Department of Electronics and Electrical Engineering,<br>
 Indian Institute of Technology Guwahati,<br>
-Guwahati - 781039<br>
+Guwahati - 781039,<br>
 Email - bhawal[at]iitg.ac.in, <br>
-Phone - +91 361 258 2511
+Phone - +91 361 258 2511.
 
 News
 ====
