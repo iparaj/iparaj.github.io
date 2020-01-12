@@ -6,8 +6,6 @@ redirect_from:
   - /about.html
 ---
 
-Contact
-========
 Room No. 213, New Extension Block,<br>
 Department of Electronics and Electrical Engineering,<br>
 Indian Institute of Technology Guwahati,<br>
