@@ -13,6 +13,7 @@ Journals (published/accepted)
 
 Conferences
 ===========
+* __Chayan Bhawal__, Jan Heiland, and Peter Benner, PD controllers to solve single-input, index-1 DAE based LQR problems, To be presented in _European Control Conference (ECC)_, Saint Petersburg, Russia, May 12‑15, 2020.
 * __Chayan Bhawal__, Debasattam Pal, and Madhu N. Belur, On circulant Lyapunov operators, two-variable polynomials, and DFT, _Indian Control Conference (ICC)_, Hyderabad, December 18 - December 20, 2019. [[Link]](http://chayanbhawal.github.io/files/2019BhaPalBelICC.pdf)
 * __Chayan Bhawal__ and Debasattam Pal, On solvability of CGCARE for LQR problems with zero input-cost, _IEEE Conference on Decision and Control (CDC)_, Nice, France, December 11 - December 13, 2019. [[Link]](http://chayanbhawal.github.io/files/BhaPal19.pdf)
 * Ashish Kothyari, __Chayan Bhawal__, Madhu N Belur, and Debasattam Pal, Defective Hamiltonian matrix imaginary eigenvalues and losslessness, _Indian Control Conference (ICC)_, Delhi, January 9 - January 11, 2019. [[Link]](http://chayanbhawal.github.io/files/2019KotBhaBelPalICC.pdf)
