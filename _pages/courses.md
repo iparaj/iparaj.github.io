@@ -8,7 +8,7 @@ Courses
 =============================
 
 * _EE322M Signal Processing Minor_: Third year B.Tech students.
-* _EE371 Control and Insturmentation Lab_: with Prof. [[H. Nemade]](https://www.iitg.ac.in/eee/nemade.html#nemadeStart) and [[Dr. S. Krishnaswamy]](https://www.iitg.ac.in/eee/srinivasan.html#srinivasanStart).
+* _EE371 Control and Insturmentation Lab_: with Prof. [H. Nemade](https://www.iitg.ac.in/eee/nemade.html#nemadeStart) and [Dr. S. Krishnaswamy](https://www.iitg.ac.in/eee/srinivasan.html#srinivasanStart).
 
 Ph.D. Students
 ===============
