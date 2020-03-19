@@ -36,3 +36,8 @@ Education
 * Jun 2013 - Mar 2019: __Ph.D.__ in Electrical Engineering <br> 
 Department of [Electrical Engineering](https://www.ee.iitb.ac.in/web), [Indian Institute of Technology Bombay](https://www.iitb.ac.in).
 * Jul 2004 - Jun 2008: __B.E.__ in Electronics and Telecommunication Engineering, [Assam Engineering College](http://www.aec.ac.in/).
+
+Reviewer
+========
+* Conferences: European Control Conference (ECC), Indian Control Conference (ICC), and Advances in Control & Optimization of Dynamical Systems (ACODS).
+* Journal: IEEE Transactions of Circuits and Systems: Regular Papers and Asian Journal of Control. 
