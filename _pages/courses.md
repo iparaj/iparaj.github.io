@@ -7,7 +7,7 @@ author_profile: true
 Courses
 =============================
 
-* _EE322M Signal Processing Minor__: Third year B.Tech students.
+* _EE322M Signal Processing Minor_: Third year B.Tech students.
 * _EE371 Control and Insturmentation Lab_: with Prof. H. Nemade and Dr. S. Krishnaswamy.
 
 Ph.D. Students
