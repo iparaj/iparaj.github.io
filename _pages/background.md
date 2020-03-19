@@ -36,12 +36,3 @@ Education
 * Jun 2013 - Mar 2019: __Ph.D.__ in Electrical Engineering <br> 
 Department of [Electrical Engineering](https://www.ee.iitb.ac.in/web), [Indian Institute of Technology Bombay](https://www.iitb.ac.in).
 * Jul 2004 - Jun 2008: __B.E.__ in Electronics and Telecommunication Engineering, [Assam Engineering College](http://www.aec.ac.in/).
-
-Teaching assistant for
-======================
-Control Systems, Applied Linear Algebra, Network Theory, Model Order Reduction: Theory and Algorithms, Microprocessor Lab.
-
-Courses done
-======
-Applied Linear Algebra, Real Analysis, Matrix Computations, Multivariable Control Systems, Nonlinear Dynamical Systems, 
-Optimal Control Systems, Behavioral Theory of Systems, Decentralized Control of Complex Systems, Model Order Reduction: Theory and Algorithms, Combinatorial optimization, Estimation and Identification.
