@@ -6,14 +6,12 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/
-    
   - title: "Courses and Students"
     url: /courses/
-   
+    
+  - title: "Talks"
+    url: /talks/
+     
   - title: "Tutorials"
     url: /tutorials/
 
-  - title: "CV"
-    url: /cv/
