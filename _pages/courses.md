@@ -18,8 +18,8 @@ To be updated.
 PG (M.Tech) Students
 ====================
 
-* _N. Nikhil_ on Weakly observable and strongly reachable subspaces. 
-* _Meet Ashokbhai Patel_ on Model order reduction.
+* _N. Nikhil_ on weakly observable and strongly reachable subspaces. 
+* _Meet Ashokbhai Patel_ on model order reduction.
 
 UG Students
 ===========
