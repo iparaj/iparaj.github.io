@@ -7,8 +7,8 @@ author_profile: true
 Courses
 =============================
 
-* __EE322M__ Signal Processing Minor -- Third year B.Tech students.
-* __EE371__ Control and Insturmentation Lab -- With Prof. H. Nemade and Dr. S. Krishnaswamy.
+* _EE322M Signal Processing Minor__: Third year B.Tech students.
+* _EE371 Control and Insturmentation Lab_: with Prof. H. Nemade and Dr. S. Krishnaswamy.
 
 Ph.D. Students
 ===============
@@ -18,12 +18,12 @@ To be updated.
 PG (M.Tech) Students
 ====================
 
-* __N. Nikhil__ Topic: Weak observability and strong controllability. 
-* __Meet Ashokbhai Patel__ Topic: Model order reduction.
+* _N. Nikhil_ on Weakly observable and strongly reachable subspaces. 
+* _Meet Ashokbhai Patel_ on Model order reduction.
 
 UG Students
 ===========
 
-* __Vinay Revanuru, Km Sudarshan, and Sri Hari__ : Antenna positioning system.
-* __Alok Urmaliya, Vishwajeet Kumar Singh, and Abhishek__ : Self-balancing bot. 
-* __Sameer Kumar Ghawana__ : Magnetic levitation.
+* _Vinay Revanuru, Km Sudarshan, and Sri Hari_ on the design of an antenna positioning system.
+* _Alok Urmaliya, Vishwajeet Kumar Singh, and Abhishek_ on the design of a self-balancing bot. 
+* _Sameer Kumar Ghawana_ on the design of a magnetic levitation system.
