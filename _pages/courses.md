@@ -7,7 +7,7 @@ author_profile: true
 Courses
 =============================
 
-* _EE322M Signal Processing Minor_: Third year B.Tech students.
+* _EE322M Signal Processing Minor_.
 * _EE371 Control and Insturmentation Lab_: with [Prof. H. Nemade](https://www.iitg.ac.in/eee/nemade.html#nemadeStart) and [Dr. S. Krishnaswamy](https://www.iitg.ac.in/eee/srinivasan.html#srinivasanStart).
 
 Ph.D. Students
@@ -24,6 +24,6 @@ PG (M.Tech) Students
 UG Students
 ===========
 
-* _Vinay Revanuru, Km Sudarshan, and Sri Hari_ on the design of an antenna positioning system.
+* _Vinay Revanuru, K M Sudarshan, and Sri Hari_ on the design of an antenna positioning system.
 * _Alok Urmaliya, Vishwajeet Kumar Singh, and Abhishek_ on the design of a self-balancing bot. 
 * _Sameer Kumar Ghawana_ on the design of a magnetic levitation system.
