@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Background"
-permalink: /background/
+title: "Biosketch"
+permalink: /biosketch/
 author_profile: true
 ---
 
