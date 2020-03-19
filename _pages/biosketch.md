@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: "Biosketch"
 permalink: /biosketch/
 author_profile: true
 ---
