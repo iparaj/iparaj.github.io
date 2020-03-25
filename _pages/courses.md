@@ -7,7 +7,7 @@ author_profile: true
 Courses
 =============================
 
-* [_EE322M Signal Processing Minor_](https://chayanbhawal.github.io/EE322M/).
+* _EE322M Signal Processing Minor_.
 * _EE371 Control and Insturmentation Lab_: with [Prof. H. Nemade](https://www.iitg.ac.in/eee/nemade.html#nemadeStart) and [Dr. S. Krishnaswamy](https://www.iitg.ac.in/eee/srinivasan.html#srinivasanStart).
 
 Ph.D. Students
