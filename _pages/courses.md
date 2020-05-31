@@ -28,3 +28,8 @@ UG Students
 * _Vinay Revanuru, K M Sudarshan, and Sri Hari_ on the design of an antenna positioning system.
 * _Alok Urmaliya, Vishwajeet Kumar Singh, and Abhishek_ on the design of a self-balancing bot. 
 * _Sameer Kumar Ghawana_ on the design of a magnetic levitation system.
+
+Interns
+=========
+
+*_Jyotisnata Pathak, Ivan Kashyap, Mrigakshi Das_: students of Jorhat Engineering College, Assam.
