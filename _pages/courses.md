@@ -32,4 +32,4 @@ UG Students
 Interns
 =========
 
-*_Jyotisnata Pathak, Ivan Kashyap, Mrigakshi Das_: students of Jorhat Engineering College, Assam.
+* _Jyotisnata Pathak, Ivan Kashyap, and Mrigakshi Das_: students of Jorhat Engineering College, Assam.
