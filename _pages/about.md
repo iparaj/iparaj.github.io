@@ -24,7 +24,7 @@ Research Interests
 * Behavioral theoretic approach to control
 * Graph Theoretic approach to control
 
-__ I am in the look out for students with an interest aligned with my research interests. Interested students can contact me over mail. __
+_I am in the look out for students with an interest aligned with my research interests. Interested students can contact me over mail._
 
 News
 ====
