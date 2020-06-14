@@ -20,13 +20,18 @@ Research Interests
 * Singular descriptor systems/Differential algebraic systems
 * Linear systems
 * Model order reduction
-* Multiagent systems
+* Control aspects related to unmanned aerial and ground vehicles
 * Behavioral theoretic approach to control
 * Graph Theoretic approach to control
 
+__ I am in the look out for students with an interest aligned with my research interests. Interested students can contact me over mail. __
 
 News
 ====
+* Upcoming: Imrul Qais (Ph.D. research scholar at IIT Bombay), coauthor of the paper "A geometric characterization of the slow space of the Hamiltonian system arising from the singular LQR problem" will present our paper in IFAC World Congress 2020 to be held virtually. 
+
+* 15-May 2020 - Presented my paper "PD controllers to solve single-input, index-1 DAE based LQR problems" in the European Control Conference (ECC) 2020 held virtually.
+
 * 01-Jan 2020 - Joined the Department of Electronics and Electrical Engineering at IIT Guwahati as an Assistant Professor.
 
 * 20-Dec 2019 - Mousumi Mukherjee from the Department of Electrical Engineering, IIT Bombay presented my paper "On Circulant Lyapunov Operators, Two-Variable Polynomials, and DFT" in the 6th Indian Control Conference at IIT Hyderabad, India. 
