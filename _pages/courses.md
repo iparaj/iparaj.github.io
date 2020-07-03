@@ -7,10 +7,10 @@ author_profile: true
 Courses
 =============================
 
+* Upcoming: _EE656 Robust Control_: [Click here for syllabus](http://chayanbhawal.github.io/files/EE656/EE656_Syllabus.pdf)
 * _EE322M Signal Processing Minor_: This is a minor course for the third year B.Tech students of IIT Guwahati. Signal processing being an essential component in any field of engineering, the aim of this course is to introduce 
 the concepts of signals and systems to the students who are not from the Electronics and Electrical Department of the institute.
 * _EE371 Control and Insturmentation Lab_: with [Prof. H. Nemade](https://www.iitg.ac.in/eee/nemade.html#nemadeStart) and [Dr. S. Krishnaswamy](https://www.iitg.ac.in/eee/srinivasan.html#srinivasanStart).
-
 Ph.D. Students
 ===============
 To be updated.
