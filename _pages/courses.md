@@ -7,10 +7,35 @@ author_profile: true
 Courses
 =============================
 
-* Upcoming: _EE656 Robust Control_: [Click here for syllabus](http://chayanbhawal.github.io/files/EE656/EE656_Syllabus.pdf)
-* Jan2020 - June 2020: _EE322M Signal Processing Minor_.
-* Jan2020 - June 2020: _EE371 Control and Insturmentation Lab_: with [Prof. H. Nemade](https://www.iitg.ac.in/eee/nemade.html#nemadeStart) and [Dr. S. Krishnaswamy](https://www.iitg.ac.in/eee/srinivasan.html#srinivasanStart).
-
+<table>
+<thead>
+  <tr>
+    <th>Year</th>
+    <th>Subject name</th>
+    <th>Remarks</th>
+    <th>Status</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Aug 2020</td>
+    <td>EE656 Robust Control</td>
+    <td>[Syllabus](http://chayanbhawal.github.io/files/EE656/EE656_Syllabus.pdf)</td>
+    <td>Upcoming</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Jan2020</td>
+    <td>EE322M Signal Processing Minor</td>
+    <td></td>
+    <td>Completed</td>
+  </tr>
+  <tr>
+    <td>EE371 Control and Insturmentation Lab</td>
+    <td>Conducted with [Prof. H. Nemade](https://www.iitg.ac.in/eee/nemade.html#nemadeStart) and <br>[Dr. S. Krishnaswamy](https://www.iitg.ac.in/eee/srinivasan.html#srinivasanStart)</td>
+    <td>Completed</td>
+  </tr>
+</tbody>
+</table>
 
 Students
 =============================
