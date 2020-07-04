@@ -26,7 +26,7 @@ Courses
   <tr>
     <td rowspan="2">Jan2020</td>
     <td>EE322M Signal Processing Minor</td>
-    <td></td>
+    <td>Minor course for students from branches other than EEE</td>
     <td>Completed</td>
   </tr>
   <tr>
