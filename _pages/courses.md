@@ -11,25 +11,48 @@ Courses
 * Jan2020 - June 2020: _EE322M Signal Processing Minor_.
 * Jan2020 - June 2020: _EE371 Control and Insturmentation Lab_: with [Prof. H. Nemade](https://www.iitg.ac.in/eee/nemade.html#nemadeStart) and [Dr. S. Krishnaswamy](https://www.iitg.ac.in/eee/srinivasan.html#srinivasanStart).
 
-Ph.D. Students
-===============
-To be updated.
 
+<table>
+<thead>
+  <tr>
+    <th>Category</th>
+    <th>Year</th>
+    <th>Students</th>
+    <th>Topic/Projects</th>
+    <th>Status</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Ph.D</td>
+    <td></td>
+    <td colspan="2">To be updated</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">M.Tech</td>
+    <td rowspan="2">2020-2021</td>
+    <td>N. Nikhil</td>
+    <td>Algorithms of weakly observable and <br>strongly reachable subspaces</td>
+    <td>Ongoing</td>
+  </tr>
+  <tr>
+    <td>Meet Ashokbhai Patel</td>
+    <td>On algorithms of model order reduction</td>
+    <td>Ongoing</td>
+  </tr>
+  <tr>
+    <td>B. Tech</td>
+    <td></td>
+    <td colspan="2">To be updated</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Interns</td>
+    <td>June 2020</td>
+    <td colspan="2">Jyotisnata Pathak, Ivan Kashyap, and Mrigakshi Das<br>(students of Jorhat Engineering College)</td>
+    <td>Ongoing</td>
+  </tr>
+</tbody>
+</table>
 
-PG (M.Tech) Students
-====================
-
-* _N. Nikhil_ on weakly observable and strongly reachable subspaces. 
-* _Meet Ashokbhai Patel_ on model order reduction.
-
-UG Students
-===========
-
-* _Vinay Revanuru, K M Sudarshan, and Sri Hari_ on the design of an antenna positioning system.
-* _Alok Urmaliya, Vishwajeet Kumar Singh, and Abhishek_ on the design of a self-balancing bot. 
-* _Sameer Kumar Ghawana_ on the design of a magnetic levitation system.
-
-Interns
-=========
-
-* _Jyotisnata Pathak, Ivan Kashyap, and Mrigakshi Das_: students of Jorhat Engineering College, Assam.
