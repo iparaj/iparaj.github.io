@@ -28,7 +28,6 @@ Students
 <tbody>
   <tr>
     <td>Ph.D</td>
-    <td></td>
     <td colspan="4">To be updated</td>
     <td></td>
   </tr>
@@ -46,7 +45,6 @@ Students
   </tr>
   <tr>
     <td>B. Tech</td>
-    <td></td>
     <td colspan="4">To be updated</td>
     <td></td>
   </tr>
