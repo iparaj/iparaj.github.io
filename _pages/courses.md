@@ -12,6 +12,9 @@ Courses
 * Jan2020 - June 2020: _EE371 Control and Insturmentation Lab_: with [Prof. H. Nemade](https://www.iitg.ac.in/eee/nemade.html#nemadeStart) and [Dr. S. Krishnaswamy](https://www.iitg.ac.in/eee/srinivasan.html#srinivasanStart).
 
 
+Students
+=============================
+
 <table>
 <thead>
   <tr>
@@ -26,7 +29,7 @@ Courses
   <tr>
     <td>Ph.D</td>
     <td></td>
-    <td colspan="2">To be updated</td>
+    <td colspan="4">To be updated</td>
     <td></td>
   </tr>
   <tr>
@@ -44,7 +47,7 @@ Courses
   <tr>
     <td>B. Tech</td>
     <td></td>
-    <td colspan="2">To be updated</td>
+    <td colspan="4">To be updated</td>
     <td></td>
   </tr>
   <tr>
