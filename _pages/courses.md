@@ -20,7 +20,7 @@ Courses
   <tr>
     <td>Aug 2020</td>
     <td>EE656 Robust Control</td>
-    <td>[Syllabus](http://chayanbhawal.github.io/files/EE656/EE656_Syllabus.pdf)</td>
+    <td><a href="http://chayanbhawal.github.io/files/EE656/EE656_Syllabus.pdf" target="_blank" rel="noopener noreferrer">[Syllabus]</a></td>
     <td>Upcoming</td>
   </tr>
   <tr>
@@ -31,7 +31,7 @@ Courses
   </tr>
   <tr>
     <td>EE371 Control and Insturmentation Lab</td>
-    <td>Conducted with [Prof. H. Nemade](https://www.iitg.ac.in/eee/nemade.html#nemadeStart) and <br>[Dr. S. Krishnaswamy](https://www.iitg.ac.in/eee/srinivasan.html#srinivasanStart)</td>
+    <td>Conducted with <a href="https://www.iitg.ac.in/eee/nemade.html#nemadeStart" target="_blank" rel="noopener noreferrer">Prof. H. Nemade</a> and <br><a href="https://www.iitg.ac.in/eee/srinivasan.html#srinivasanStart" target="_blank" rel="noopener noreferrer">Dr. S. Krishnaswamy</a></td>
     <td>Completed</td>
   </tr>
 </tbody>
