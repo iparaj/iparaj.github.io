@@ -29,7 +29,6 @@ Students
   <tr>
     <td>Ph.D</td>
     <td colspan="4">To be updated</td>
-    <td></td>
   </tr>
   <tr>
     <td rowspan="2">M.Tech</td>
@@ -46,7 +45,6 @@ Students
   <tr>
     <td>B. Tech</td>
     <td colspan="4">To be updated</td>
-    <td></td>
   </tr>
   <tr>
     <td>Interns</td>
@@ -56,4 +54,3 @@ Students
   </tr>
 </tbody>
 </table>
-
