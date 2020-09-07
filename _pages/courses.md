@@ -21,7 +21,7 @@ Courses
     <td>Aug 2020</td>
     <td>EE656 Robust Control</td>
     <td><a href="http://chayanbhawal.github.io/files/EE656/EE656_Syllabus.pdf" target="_blank" rel="noopener noreferrer">[Syllabus]</a></td>
-    <td>Upcoming</td>
+    <td>Started</td>
   </tr>
   <tr>
     <td rowspan="2">Jan 2020</td>
