@@ -59,7 +59,7 @@ Students
     <td rowspan="2">M.Tech</td>
     <td rowspan="2">2020-2021</td>
     <td>N. Nikhil</td>
-    <td>Algorithms of weakly observable and <br>strongly reachable subspaces</td>
+    <td>Algorithms of weakly unobservable and <br>strongly reachable subspaces</td>
     <td>Ongoing</td>
   </tr>
   <tr>
@@ -69,13 +69,16 @@ Students
   </tr>
   <tr>
     <td>B. Tech</td>
-    <td colspan="4">To be updated</td>
+    <td>2020-2021</td>
+    <td>K.M.Sudarshan and R.Vinay Kumar</td>
+    <td>Vision based control of multi-agent systems</td>
+    <td>Ongoing</td>
   </tr>
   <tr>
     <td>Interns</td>
     <td>June 2020</td>
     <td colspan="2">Jyotisnata Pathak, Ivan Kashyap, and Mrigakshi Das<br>(students of Jorhat Engineering College)</td>
-    <td>Ongoing</td>
+    <td>Completed</td>
   </tr>
 </tbody>
 </table>
