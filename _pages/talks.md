@@ -3,7 +3,7 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-
+* _Feedback control: A brief history_ Invited talk in the ECE Department of UEM Kolkatta. [[Slides]](https://drive.google.com/file/d/1V5Z5jXvkdsIRkbL7ZqkqVzM3ZBT6ARnv/view?usp=sharing)
 * _On circulant Lyapunov operators, two-variable polynomials, and DFT_. Indian Control Conference, Hyderabad, India, December 2019. [[Slides]](http://chayanbhawal.github.io/files/ICCDec19_presentation.pdf)
 * _On solvability of CGCARE for LQR problems with zero input-cost_. Conference on Decision and Control, Nice, France, 2019.[[Slides]](http://chayanbhawal.github.io/files/CDC19_presentation.pdf)
 * _Generalized eigenvalue problem_. Invited speaker at the Students’ Reading Group, Dept. of Electrical Engineering, Indian Institute of Technology Bombay, Mumbai, India. [[Slides]](http://chayanbhawal.github.io/files/SRG17_presentation.pdf)
