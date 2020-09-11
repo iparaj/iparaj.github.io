@@ -28,7 +28,9 @@ _I am in the look out for students with an interest aligned with my research int
 
 News
 ====
-* 23-Aug 2020: Awarded the prestigious "Excellence in  Ph.D. Research Award" for the year 2018-2020 by IIT Bombay.  
+* 11-Aug 2020: Online Invited talk on "A brief history of Feedback control" in the Department of Electronics and Communication Engineering at University of Engineering & Management Kolkata.
+
+* 23-Aug 2020: Awarded the prestigious "Excellence in  Ph.D. Research Award" for the year 2018-2020 by IIT Bombay.
 
 * 15-July 2020: Imrul Qais (Ph.D. research scholar at IIT Bombay), coauthor of the paper "A geometric characterization of the slow space of the Hamiltonian system arising from the singular LQR problem" presented our paper in IFAC World Congress 2020 held virtually. 
 
