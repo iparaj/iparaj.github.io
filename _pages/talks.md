@@ -3,7 +3,7 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-* _An Introduction to optimal control_, Invited talk at SVNIT Surat [[Slides]((http://chayanbhawal.github.io/files/TEQIP_SVNIT_presentation_Chayan_Bhawal.pdf)
+* _An Introduction to optimal control_, Invited talk at SVNIT Surat [[Slides]](http://chayanbhawal.github.io/files/TEQIP_SVNIT_presentation_Chayan_Bhawal.pdf)
 * _Feedback control: A brief history_, Invited talk in the ECE Department of UEM Kolkata. [[Slides]](https://drive.google.com/file/d/1V5Z5jXvkdsIRkbL7ZqkqVzM3ZBT6ARnv/view?usp=sharing)
 * _On circulant Lyapunov operators, two-variable polynomials, and DFT_. Indian Control Conference, Hyderabad, India, December 2019. [[Slides]](http://chayanbhawal.github.io/files/ICCDec19_presentation.pdf)
 * _On solvability of CGCARE for LQR problems with zero input-cost_. Conference on Decision and Control, Nice, France, 2019.[[Slides]](http://chayanbhawal.github.io/files/CDC19_presentation.pdf)
