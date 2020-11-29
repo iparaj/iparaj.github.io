@@ -17,6 +17,18 @@ Courses
   </tr>
 </thead>
 <tbody>
+   <tr>
+    <td rowspan="2">Jan 2021</td>
+    <td>EE322M Signal Processing Minor</td>
+    <td><a href="http://chayanbhawal.github.io/EE322M" target="_blank" rel="noopener noreferrer">Course-page Link</a></td>
+    <td>Upcoming</td>
+  </tr>
+ <tr>
+    <td rowspan="2">Jan 2021</td>
+    <td>EE351Control and Robotics Lab</td>
+    <td>To be conducted with <a href="https://www.iitg.ac.in/eee/nemade.html#nemadeStart" target="_blank" rel="noopener noreferrer">Prof. H. Nemade</a></td>
+    <td>Upcoming</td>
+  </tr>
   <tr>
     <td>Aug 2020</td>
     <td>EE656 Robust Control</td>
