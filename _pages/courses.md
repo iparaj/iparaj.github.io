@@ -31,7 +31,7 @@ Courses
   <tr>
     <td>Aug 2020</td>
     <td>EE656 Robust Control</td>
-    <td><a href="http://chayanbhawal.github.io/EE656" target="_blank" rel="noopener noreferrer">Course-page Link</a></td>
+    <td>Complete</td>
     <td>Started</td>
   </tr>
   <tr>
