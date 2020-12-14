@@ -32,7 +32,7 @@ Courses
     <td>Aug 2020</td>
     <td>EE656 Robust Control</td>
     <td></td>
-    <td>Complete</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td rowspan="2">Jan 2020</td>
