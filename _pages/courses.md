@@ -72,7 +72,7 @@ Students
 <tr>
     <td>Jan 2020</td>
     <td>Saikat Gope</td>
-    <td>TBD (Co-supervisor)</td>
+    <td>TBD (Co-supervisor with <a href="https://www.iitg.ac.in/eee/srinivasan.html#srinivasanStart" target="_blank" rel="noopener noreferrer">Dr. S. Krishnaswamy</a>)</td>
     <td>Ongoing</td>
   </tr>
   <tr>
