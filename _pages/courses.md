@@ -91,11 +91,14 @@ Students
     <td>Vision based control of UGVs</td>
     <td>Ongoing</td>
   <tr>
-    <td>B. Tech</td>
-    <td>2020-2021</td>
-    <td>K.M.Sudarshan and R.Vinay Kumar</td>
-    <td>Vision based control of multi-agent systems</td>
-    <td>Ongoing</td>
+    <td rowspan="2">B. Tech</td>
+    <td rowspan="2">2020-2021</td>
+    <td>K.M.Sudarshan</td>
+    <td  rowspan="2">Vision based control of multi-agent systems</td>
+    <td  rowspan="2">Ongoing</td>
+  </tr>
+   <tr>
+    <td>R.Vinay Kumar</td>
   </tr>
   <tr>
     <td rowspan="2">Interns</td>
