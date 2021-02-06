@@ -76,8 +76,8 @@ Students
     <td>Ongoing</td>
   </tr>
   <tr>
-    <td rowspan="2">M.Tech</td>
-    <td rowspan="2">2020-2021</td>
+    <td rowspan="3">M.Tech</td>
+    <td rowspan="3">2020-2021</td>
     <td>N. Nikhil</td>
     <td>Algorithms of weakly unobservable and <br>strongly reachable subspaces</td>
     <td>Ongoing</td>
@@ -87,6 +87,9 @@ Students
     <td>On algorithms of model order reduction</td>
     <td>Ongoing</td>
   </tr>
+    <td>Timjim K Momin</td>
+    <td>Vision based control of UGVs</td>
+    <td>Ongoing</td>
   <tr>
     <td>B. Tech</td>
     <td>2020-2021</td>
