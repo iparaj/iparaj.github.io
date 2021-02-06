@@ -63,8 +63,17 @@ Students
 </thead>
 <tbody>
   <tr>
-    <td>Ph.D</td>
-    <td colspan="4">To be updated</td>
+    <td rowspan="2">Ph.D</td>
+    <td>June 2020</td>
+    <td>Paraj Ganchauduri</td>
+    <td>TBD</td>
+    <td>Ongoing</td>
+  </tr>
+<tr>
+    <td>Jan 2020</td>
+    <td>Saikat Gope</td>
+    <td>TBD (Co-supervisor)</td>
+    <td>Ongoing</td>
   </tr>
   <tr>
     <td rowspan="2">M.Tech</td>
