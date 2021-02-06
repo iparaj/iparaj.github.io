@@ -98,7 +98,12 @@ Students
     <td>Ongoing</td>
   </tr>
   <tr>
-    <td>Interns</td>
+    <td rowspan="2">Interns</td>
+    <td>Dec 2020</td>
+    <td colspan="2">Baishalee Sarma<br>(allumi of Assam Engineering College)</td>
+    <td>Ongoing</td>
+  </tr>
+  <tr>
     <td>Jun 2020</td>
     <td colspan="2">Jyotisnata Pathak, Ivan Kashyap, and Mrigakshi Das<br>(students of Jorhat Engineering College)</td>
     <td>Completed</td>
