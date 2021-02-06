@@ -64,7 +64,7 @@ Students
 <tbody>
   <tr>
     <td rowspan="2">Ph.D</td>
-    <td>June 2020</td>
+    <td>Jun 2020</td>
     <td>Paraj Ganchauduri</td>
     <td>TBD</td>
     <td>Ongoing</td>
@@ -99,7 +99,7 @@ Students
   </tr>
   <tr>
     <td>Interns</td>
-    <td>June 2020</td>
+    <td>Jun 2020</td>
     <td colspan="2">Jyotisnata Pathak, Ivan Kashyap, and Mrigakshi Das<br>(students of Jorhat Engineering College)</td>
     <td>Completed</td>
   </tr>
