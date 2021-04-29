@@ -19,14 +19,25 @@ Courses
 <tbody>
    <tr>
     <td rowspan="2">Jan 2021</td>
+    <td>EE590 Linear Algebra and Optimization</td>
+    <td>Course-page Link</td>
+    <td>Upcoming</td>
+  </tr>
+  <tr>
+    <td>EE351 Control and Robotics Lab</td>
+    <td>To be conducted with <a href="https://www.iitg.ac.in/eee/nemade.html#nemadeStart" target="_blank" rel="noopener noreferrer">Prof. H. Nemade</a> and Dr. Sanjib Das</td>
+    <td>Upcoming</td>
+  </tr>
+   <tr>
+    <td rowspan="2">Jan 2021</td>
     <td>EE322M Signal Processing Minor</td>
     <td><a href="http://chayanbhawal.github.io/EE322M" target="_blank" rel="noopener noreferrer">Course-page Link</a></td>
-    <td>Upcoming</td>
+    <td>Completed</td>
   </tr>
  <tr>
     <td>EE351 Control and Robotics Lab</td>
     <td>To be conducted with <a href="https://www.iitg.ac.in/eee/nemade.html#nemadeStart" target="_blank" rel="noopener noreferrer">Prof. H. Nemade</a></td>
-    <td>Upcoming</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>Aug 2020</td>
@@ -95,7 +106,7 @@ Students
     <td rowspan="2">2020-2021</td>
     <td>K.M.Sudarshan</td>
     <td  rowspan="2">Vision based control of multi-agent systems</td>
-    <td  rowspan="2">Ongoing</td>
+    <td  rowspan="2">Complete</td>
   </tr>
    <tr>
     <td>R.Vinay Kumar</td>
