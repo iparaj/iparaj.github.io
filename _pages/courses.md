@@ -18,7 +18,7 @@ Courses
 </thead>
 <tbody>
    <tr>
-    <td rowspan="2">Jan 2021</td>
+    <td rowspan="2">Jul 2021</td>
     <td>EE590 Linear Algebra and Optimization</td>
     <td>Course-page Link</td>
     <td>Upcoming</td>
