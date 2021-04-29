@@ -20,7 +20,7 @@ Courses
    <tr>
     <td rowspan="2">Jul 2021</td>
     <td>EE590 Linear Algebra and Optimization</td>
-    <td>Course-page Link</td>
+    <td><a href="http://chayanbhawal.github.io/EE590" target="_blank" rel="noopener noreferrer">Course-page Link</a></td>
     <td>Upcoming</td>
   </tr>
   <tr>
