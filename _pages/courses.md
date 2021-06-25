@@ -115,6 +115,9 @@ Students
     <td>On algorithms of model order reduction</td>
     <td>Complete</td>
   </tr>
+    <td>Timjim K Momin</td>
+    <td>Vision based control of UGVs</td>
+    <td>Ongoing</td>
   <tr>
     <td rowspan="2">B. Tech</td>
     <td rowspan="2">2020-2021</td>
