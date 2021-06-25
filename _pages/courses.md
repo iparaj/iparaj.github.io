@@ -99,11 +99,6 @@ Students
     <td>Ongoing</td>
   </tr>
   <tr>
-    <td>Timjim K Momin</td>
-    <td>Vision based control of UGVs</td>
-    <td>Ongoing</td>
-  </tr>
-  <tr>
     <td rowspan="3">M.Tech</td>
     <td rowspan="3">2020-2021</td>
     <td>N. Nikhil</td>
