@@ -87,8 +87,8 @@ Students
     <td>Ongoing</td>
   </tr>
     <tr>
-    <td rowspan="3">M.Tech</td>
-    <td rowspan="3">2021-2022</td>
+    <td rowspan="2">M.Tech</td>
+    <td rowspan="2">2021-2022</td>
     <td>Priyaranjan Kumar</td>
     <td>Model order reduction</td>
     <td>Ongoing</td>
