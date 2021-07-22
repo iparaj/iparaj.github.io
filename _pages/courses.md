@@ -36,7 +36,7 @@ Courses
   </tr>
  <tr>
     <td>EE351 Control and Robotics Lab</td>
-    <td>To be conducted with <a href="https://www.iitg.ac.in/eee/nemade.html#nemadeStart" target="_blank" rel="noopener noreferrer">Prof. H. Nemade</a></td>
+    <td>Conducted with <a href="https://www.iitg.ac.in/eee/nemade.html#nemadeStart" target="_blank" rel="noopener noreferrer">Prof. H. Nemade</a></td>
     <td>Completed</td>
   </tr>
   <tr>
