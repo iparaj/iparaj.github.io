@@ -86,17 +86,29 @@ Students
     <td>TBD (Co-supervisor with <a href="https://www.iitg.ac.in/eee/srinivasan.html#srinivasanStart" target="_blank" rel="noopener noreferrer">Dr. S. Krishnaswamy</a>)</td>
     <td>Ongoing</td>
   </tr>
+    <tr>
+    <td rowspan="2">M.Tech</td>
+    <td rowspan="2">2021-2022</td>
+    <td>Priyaranjan Kumar</td>
+    <td>Model order reduction</td>
+    <td>Ongoing</td>
+  </tr>
+  <tr>
+    <td>Kurugodu Chaithanya Kumar</td>
+    <td>Multi-agent systems</td>
+    <td>Ongoing</td>
+  </tr>
   <tr>
     <td rowspan="3">M.Tech</td>
     <td rowspan="3">2020-2021</td>
     <td>N. Nikhil</td>
     <td>Algorithms of weakly unobservable and <br>strongly reachable subspaces</td>
-    <td>Ongoing</td>
+    <td>Complete</td>
   </tr>
   <tr>
     <td>Meet Ashokbhai Patel</td>
     <td>On algorithms of model order reduction</td>
-    <td>Ongoing</td>
+    <td>Complete</td>
   </tr>
     <td>Timjim K Momin</td>
     <td>Vision based control of UGVs</td>
@@ -110,17 +122,6 @@ Students
   </tr>
    <tr>
     <td>R.Vinay Kumar</td>
-  </tr>
-  <tr>
-    <td rowspan="2">Interns</td>
-    <td>Dec 2020</td>
-    <td colspan="2">Baishalee Sarma<br>(allumi of Assam Engineering College)</td>
-    <td>Ongoing</td>
-  </tr>
-  <tr>
-    <td>Jun 2020</td>
-    <td colspan="2">Jyotisnata Pathak, Ivan Kashyap, and Mrigakshi Das<br>(students of Jorhat Engineering College)</td>
-    <td>Completed</td>
   </tr>
 </tbody>
 </table>
