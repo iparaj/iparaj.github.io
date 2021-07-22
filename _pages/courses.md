@@ -31,7 +31,7 @@ Courses
    <tr>
     <td rowspan="2">Jan 2021</td>
     <td>EE322M Signal Processing Minor</td>
-    <td><a href="http://chayanbhawal.github.io/EE322M" target="_blank" rel="noopener noreferrer">Course-page Link</a></td>
+    <td></td>
     <td>Completed</td>
   </tr>
  <tr>
