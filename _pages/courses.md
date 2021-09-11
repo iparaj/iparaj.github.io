@@ -21,12 +21,12 @@ Courses
     <td rowspan="2">Jul 2021</td>
     <td>EE590 Linear Algebra and Optimization</td>
     <td><a href="http://chayanbhawal.github.io/EE590" target="_blank" rel="noopener noreferrer">Course-page Link</a></td>
-    <td>Upcoming</td>
+    <td>Ongoing</td>
   </tr>
   <tr>
     <td>EE351 Control and Robotics Lab</td>
     <td>To be conducted with <a href="https://www.iitg.ac.in/eee/nemade.html#nemadeStart" target="_blank" rel="noopener noreferrer">Prof. H. Nemade</a> and Dr. Sanjib Das</td>
-    <td>Upcoming</td>
+    <td>Ongoing</td>
   </tr>
    <tr>
     <td rowspan="2">Jan 2021</td>
