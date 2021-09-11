@@ -68,7 +68,7 @@ Students
     <th>Category</th>
     <th>Year</th>
     <th>Students</th>
-    <th>Topic/Projects</th>
+    <th>Broad Topic/Projects</th>
     <th>Status</th>
   </tr>
 </thead>
@@ -77,13 +77,13 @@ Students
     <td rowspan="2">Ph.D</td>
     <td>Jun 2020</td>
     <td>Paraj Ganchauduri</td>
-    <td>TBD</td>
+    <td>Multi-agent systems</td>
     <td>Ongoing</td>
   </tr>
 <tr>
     <td>Jan 2020</td>
     <td>Saikat Gope</td>
-    <td>TBD (Co-supervisor with <a href="https://www.iitg.ac.in/eee/srinivasan.html#srinivasanStart" target="_blank" rel="noopener noreferrer">Dr. S. Krishnaswamy</a>)</td>
+    <td>Pseudo-random generators (Co-supervisor with <a href="https://www.iitg.ac.in/eee/srinivasan.html#srinivasanStart" target="_blank" rel="noopener noreferrer">Dr. S. Krishnaswamy</a>)</td>
     <td>Ongoing</td>
   </tr>
     <tr>
