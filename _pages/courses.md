@@ -118,10 +118,11 @@ Students
     <td rowspan="2">2020-2021</td>
     <td>K.M.Sudarshan</td>
     <td  rowspan="2">Vision based control of multi-agent systems</td>
-    <td  rowspan="2">Data Operation Engineering Analyst at Blackrock, Gurgaon</td>
+    <td>Data Operation Engineering Analyst at Blackrock, Gurgaon</td>
   </tr>
    <tr>
     <td>R.Vinay Kumar</td>
+    <td>Complete</td>	
   </tr>
 </tbody>
 </table>
