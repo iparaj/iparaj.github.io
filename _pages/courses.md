@@ -102,7 +102,7 @@ Students
     <td rowspan="3">2020-2021</td>
     <td>N. Nikhil</td>
     <td>Algorithms of weakly unobservable and <br>strongly reachable subspaces</td>
-    <td>Control Engineer at wabtec</td>
+    <td>Control Engineer at Wabtec, Bengaluru</td>
   </tr>
   <tr>
     <td>Meet Ashokbhai Patel</td>
