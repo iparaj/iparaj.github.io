@@ -87,7 +87,7 @@ Students
     <td>Ongoing</td>
   </tr>
     <tr>
-    <td rowspan="2">M.Tech</td>
+    <td rowspan="5">M.Tech</td>
     <td rowspan="2">2021-2022</td>
     <td>Priyaranjan Kumar</td>
     <td>Model order reduction</td>
@@ -99,7 +99,6 @@ Students
     <td>Ongoing</td>
   </tr>
   <tr>
-    <td rowspan="3">M.Tech</td>
     <td rowspan="3">2020-2021</td>
     <td>N. Nikhil</td>
     <td>Algorithms of weakly unobservable and <br>strongly reachable subspaces</td>
@@ -118,11 +117,10 @@ Students
     <td rowspan="2">2020-2021</td>
     <td>K.M.Sudarshan</td>
     <td  rowspan="2">Vision based control of multi-agent systems</td>
-    <td>Data Operation Engineering Analyst at Blackrock, Gurgaon</td>
+    <td  rowspan="2">Data Operation Engineering Analyst at Blackrock, Gurgaon</td>
   </tr>
    <tr>
     <td>R.Vinay Kumar</td>
-    <td>Complete</td>	
   </tr>
 </tbody>
 </table>
