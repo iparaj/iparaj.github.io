@@ -103,12 +103,12 @@ Students
     <td rowspan="3">2020-2021</td>
     <td>N. Nikhil</td>
     <td>Algorithms of weakly unobservable and <br>strongly reachable subspaces</td>
-    <td>Complete</td>
+    <td>Control Engineer at wabtec</td>
   </tr>
   <tr>
     <td>Meet Ashokbhai Patel</td>
     <td>On algorithms of model order reduction</td>
-    <td>Complete</td>
+    <td>System Engineer at TCS (Innovation Lab) Bengaluru</td>
   </tr>
     <td>Timjim K Momin</td>
     <td>Vision based control of UGVs</td>
@@ -118,7 +118,7 @@ Students
     <td rowspan="2">2020-2021</td>
     <td>K.M.Sudarshan</td>
     <td  rowspan="2">Vision based control of multi-agent systems</td>
-    <td  rowspan="2">Complete</td>
+    <td  rowspan="2">Data Operation Engineering Analyst at Blackrock, Gurgaon</td>
   </tr>
    <tr>
     <td>R.Vinay Kumar</td>
