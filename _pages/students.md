@@ -8,7 +8,7 @@ author_profile: true
 <thead>
   <tr>
     <th>Year</th>
-    <th>Students</th>
+    <th>PhD Students</th>
     <th>Broad Topic/Projects</th>
     <th>Status</th>
   </tr>
@@ -35,14 +35,13 @@ author_profile: true
 </tbody>
 </table>
 
-MTech Students
-=============================
+
 
 <table>
 <thead>
   <tr>
     <th>Year</th>
-    <th>Students</th>
+    <th>M.Tech Students</th>
     <th>Broad Topic/Projects</th>
     <th>Status</th>
   </tr>
@@ -82,14 +81,11 @@ MTech Students
 </table>
 
 
-BTech Students
-=============================
-
 <table>
 <thead>
   <tr>
     <th>Year</th>
-    <th>Students</th>
+    <th>B.Tech Students</th>
     <th>Broad Topic/Projects</th>
     <th>Status</th>
   </tr>
