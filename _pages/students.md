@@ -4,9 +4,6 @@ author_profile: true
 ---
 
 
-PhD Students
-=============================
-
 <table>
 <thead>
   <tr>
