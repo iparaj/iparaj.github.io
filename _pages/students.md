@@ -3,6 +3,8 @@ permalink: /students/
 author_profile: true
 ---
 
+PhD Students
+=============================
 
 <table>
 <thead>
