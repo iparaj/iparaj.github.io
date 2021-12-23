@@ -6,7 +6,10 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Courses and Students"
+  - title: "Courses"
+    url: /courses/
+
+  - title: "Students"
     url: /courses/
     
   - title: "Talks"
