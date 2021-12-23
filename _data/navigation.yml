@@ -10,8 +10,11 @@ main:
     url: /courses/
 
   - title: "Students"
-    url: /courses/
+    url: /students/
     
+  - title: "Projects"
+    url: /projects/
+
   - title: "Talks"
     url: /talks/
      
