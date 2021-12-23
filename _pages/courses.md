@@ -86,7 +86,7 @@ PhD Students
 <tr>
     <td>Jun 2021</td>
     <td>Gangadari Varaprasad</td>
-    <td> (Co-supervisor with <a href="https://www.iitg.ac.in/indranik/">Dr. I. Kar</a>)</td>
+    <td> Multi-agent systems (Co-supervisor with <a href="https://www.iitg.ac.in/indranik/">Dr. I. Kar</a>)</td>
     <td>Ongoing</td>
   </tr>
   <tr>
@@ -129,6 +129,12 @@ MTech Students
     <td>Multi-agent systems</td>
     <td>Ongoing</td>
   </tr>
+   <tr>
+    <td>2020-2021</td>
+    <td>Timjim K Momin</td>
+    <td>Vision based control of UGVs</td>
+    <td>Ongoing</td>
+   </tr>
   <tr>
     <td>2020-2021</td>
     <td>N. Nikhil</td>
@@ -140,11 +146,7 @@ MTech Students
     <td>Meet Ashokbhai Patel</td>
     <td>On algorithms of model order reduction</td>
     <td>System Engineer at TCS (Innovation Lab) Bengaluru</td>
-  </tr>
-    <td>2020-2021</td>
-    <td>Timjim K Momin</td>
-    <td>Vision based control of UGVs</td>
-    <td>Ongoing</td>
+  </tr>	
 </tbody>
 </table>
 
@@ -162,6 +164,12 @@ BTech Students
   </tr>
 </thead>
 <tbody>
+    <tr>
+    <td>2021-2022</td>
+    <td>Aijnkya Bhandare</td>
+    <td>Motion Planning For Coordinated Movement Of UAVs and UGVs</td>
+    <td>Ongoing</td>
+  </tr>
    <tr>
     <td>2020-2021</td>
     <td>K.M.Sudarshan</td>
