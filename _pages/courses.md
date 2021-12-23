@@ -120,13 +120,13 @@ MTech Students
     <tr>
     <td>2021-2022</td>
     <td>Priyaranjan Kumar</td>
-    <td>Model order reduction</td>
+    <td>Vision based control of UGVs</td>
     <td>Ongoing</td>
   </tr>
   <tr>
     <td>2021-2022</td>
     <td>Kurugodu Chaithanya Kumar</td>
-    <td>Multi-agent systems</td>
+    <td>Coverage planning for UAVs</td>
     <td>Ongoing</td>
   </tr>
    <tr>
