@@ -40,4 +40,4 @@ Department of [Electrical Engineering](https://www.ee.iitb.ac.in/web), [Indian I
 Reviewer
 ========
 * Conferences: European Control Conference (ECC), Indian Control Conference (ICC), and Advances in Control & Optimization of Dynamical Systems (ACODS).
-* Journal: IEEE Transactions of Circuits and Systems: Regular Papers and Asian Journal of Control. 
+* Journal: IEEE Transactions of Automatic Control, IEEE Transactions of Circuits and Systems: Regular Papers, Asian Journal of Control, and Robotica. 
