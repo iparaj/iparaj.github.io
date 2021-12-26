@@ -63,7 +63,7 @@ author_profile: true
     <td>2020-2021</td>
     <td>Timjim K Momin</td>
     <td>Vision based control of UGVs</td>
-    <td>Ongoing</td>
+    <td>Completed</td>
    </tr>
   <tr>
     <td>2020-2021</td>
