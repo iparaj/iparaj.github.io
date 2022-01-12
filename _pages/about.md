@@ -28,6 +28,7 @@ _I am in the look out for students with an interest aligned with my research int
 
 News
 ====
+* 31-Dec 2021: Project "On feedback controllers for LQR control of multi-input index-1 DAE systems" accepted by SERB for funding.
 
 * 24-Sep 2020: Delivered an invited lecture (online) titled "Introduction to Optimal Control" in TEQIP (III) sponsored online Short Term Course on "Advances in Control Systems Engineering and Applications (ACSEA 2020)" organized by Department of Electrical Engineering,  SVNIT Surat.
 
