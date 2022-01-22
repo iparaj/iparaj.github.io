@@ -91,14 +91,14 @@ author_profile: true
 <thead>
   <tr>
     <th><center>Year</center></th>
-    <th><center class="block" style="width:10%">B.Tech Students</center></th>
+    <th><center class="block" style="width:20%">B.Tech Students</center></th>
     <th><center>Broad Topic/Projects</center></th>
     <th><center>Status</center></th>
   </tr>
 </thead>
 <tbody>
     <tr>
-    <td class="block" style="width:13%"><center>2021-22</center></td>
+    <td class="block" style="width:20%"><center>2021-22</center></td>
     <td>Aijnkya Bhandare</td>
     <td>Motion Planning For Coordinated Movement Of UAVs and UGVs</td>
     <td>Ongoing</td>
