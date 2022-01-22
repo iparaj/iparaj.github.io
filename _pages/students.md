@@ -15,9 +15,15 @@ author_profile: true
 </thead>
 <tbody>
 <tr>
+    <td>Jan 2021</td>
+    <td>Biswanath Paul</td>
+    <td> Robust Control (Supevising with <a href="https://www.iitg.ac.in/eee/parijat_bhowmick.html">Dr. P. Bhowmick</a>)</td>
+    <td>Ongoing</td>
+  </tr>
+<tr>
     <td>Jun 2021</td>
     <td>Gangadari Varaprasad</td>
-    <td> Multi-agent systems (Co-supervisor with <a href="https://www.iitg.ac.in/indranik/">Dr. I. Kar</a>)</td>
+    <td> Multi-agent systems (Supervising with <a href="https://www.iitg.ac.in/indranik/">Dr. I. Kar</a>)</td>
     <td>Ongoing</td>
   </tr>
   <tr>
@@ -29,7 +35,7 @@ author_profile: true
 <tr>
     <td>Jan 2020</td>
     <td>Saikat Gope</td>
-    <td>Pseudo-random generators (Co-supervisor with <a href="https://www.iitg.ac.in/eee/srinivasan.html#srinivasanStart" target="_blank" rel="noopener noreferrer">Dr. S. Krishnaswamy</a>)</td>
+    <td>Pseudo-random generators (Supervising with <a href="https://www.iitg.ac.in/eee/srinivasan.html#srinivasanStart" target="_blank" rel="noopener noreferrer">Dr. S. Krishnaswamy</a>)</td>
     <td>Ongoing</td>
   </tr>
 </tbody>
