@@ -74,7 +74,7 @@ author_profile: true
   <tr>
     <td><center>2020-21</center></td>
     <td>N. Nikhil</td>
-    <td class="block" style="width:64%">Algorithms of weakly unobservable and strongly reachable subspaces</td>
+    <td class="block" style="width:44%">Algorithms of weakly unobservable and strongly reachable subspaces</td>
     <td>Control Engineer at Wabtec, Bengaluru</td>
   </tr>
   <tr>
