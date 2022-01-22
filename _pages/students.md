@@ -54,7 +54,7 @@ author_profile: true
 </thead>
 <tbody>
     <tr>
-    <td>class="block" style="width:9%"2021-22</td>
+    <td class="block" style="width:9%">2021-22</td>
     <td>Priyaranjan Kumar</td>
     <td>Vision based control of UGVs</td>
     <td>Ongoing</td>
