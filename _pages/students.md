@@ -16,7 +16,7 @@ author_profile: true
 <tbody>
 <tr>
     <td>Jan 2022</td>
-    <td class="block" style="width:23%">Biswanath Paul</td>
+    <td class="block" style="width:24%">Biswanath Paul</td>
     <td> Robust Control (Supevising with <a href="https://www.iitg.ac.in/eee/parijat_bhowmick.html">Dr. P. Bhowmick</a>)</td>
     <td>Ongoing</td>
   </tr>
@@ -74,7 +74,7 @@ author_profile: true
   <tr>
     <td><center>2020-21</center></td>
     <td>N. Nikhil</td>
-    <td>Algorithms of weakly unobservable and <br>strongly reachable subspaces</td>
+    <td>Algorithms of weakly unobservable and strongly reachable subspaces</td>
     <td>Control Engineer at Wabtec, Bengaluru</td>
   </tr>
   <tr>
