@@ -7,10 +7,10 @@ author_profile: true
 <table>
 <thead>
   <tr>
-    <th>Year</th>
-    <th>PhD Students</th>
-    <th>Broad Topic/Projects</th>
-    <th>Status</th>
+    <th><center>Year</center></th>
+    <th><center>PhD Students</center></th>
+    <th><center>Broad Topic/Projects</center></th>
+    <th><center>Status</center></th>
   </tr>
 </thead>
 <tbody>
