@@ -100,7 +100,7 @@ author_profile: true
     <tr>
     <td class="block" style="width:10%"><center>2021-22</center></td>
     <td class="block" style="width:23%">Aijnkya Bhandare</td>
-    <td>Motion Planning For Coordinated Movement Of UAVs and UGVs</td>
+    <td class="block" style="width:44%">Motion Planning For Coordinated Movement Of UAVs and UGVs</td>
     <td>Ongoing</td>
   </tr>
    <tr>
