@@ -91,7 +91,7 @@ author_profile: true
 <thead>
   <tr>
     <th><center>Year</center></th>
-    <th><center>B.Tech Students</center></th>
+    <th><center class="block" style="width:10%">B.Tech Students</center></th>
     <th><center>Broad Topic/Projects</center></th>
     <th><center>Status</center></th>
   </tr>
