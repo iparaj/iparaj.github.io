@@ -54,7 +54,7 @@ author_profile: true
 </thead>
 <tbody>
     <tr>
-    <td>2021-22</td>
+    <td>class="block" style="width:9%"2021-22</td>
     <td>Priyaranjan Kumar</td>
     <td>Vision based control of UGVs</td>
     <td>Ongoing</td>
@@ -98,7 +98,7 @@ author_profile: true
 </thead>
 <tbody>
     <tr>
-    <td class="block" style="width:10%">2021-22</td>
+    <td class="block" style="width:9%">2021-22</td>
     <td>Aijnkya Bhandare</td>
     <td>Motion Planning For Coordinated Movement Of UAVs and UGVs</td>
     <td>Ongoing</td>
