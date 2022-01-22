@@ -46,7 +46,7 @@ author_profile: true
 <table>
 <thead>
   <tr>
-    <th>Year</th>
+    <th><center>Year</center></th>
     <th>M.Tech Students</th>
     <th>Broad Topic/Projects</th>
     <th>Status</th>
@@ -54,31 +54,31 @@ author_profile: true
 </thead>
 <tbody>
     <tr>
-    <td class="block" style="width:9%">2021-22</td>
+    <td class="block" style="width:10%"><center>2021-22</center></td>
     <td>Priyaranjan Kumar</td>
     <td>Vision based control of UGVs</td>
     <td>Ongoing</td>
   </tr>
   <tr>
-    <td>2021-22</td>
+    <td><center>2021-22</center></td>
     <td>Kurugodu Chaithanya Kumar</td>
     <td>Coverage planning for UAVs</td>
     <td>Ongoing</td>
   </tr>
    <tr>
-    <td>2020-21</td>
+    <td><center>2020-21</center></td>
     <td>Timjim K Momin</td>
     <td>Vision based control of UGVs</td>
     <td>Completed</td>
    </tr>
   <tr>
-    <td>2020-21</td>
+    <td><center>2020-21</center></td>
     <td>N. Nikhil</td>
     <td>Algorithms of weakly unobservable and <br>strongly reachable subspaces</td>
     <td>Control Engineer at Wabtec, Bengaluru</td>
   </tr>
   <tr>
-    <td>2020-21</td>
+    <td><center>2020-21</center></td>
     <td>Meet Ashokbhai Patel</td>
     <td>On algorithms of model order reduction</td>
     <td>System Engineer at TCS (Innovation Lab) Bengaluru</td>
@@ -90,7 +90,7 @@ author_profile: true
 <table>
 <thead>
   <tr>
-    <th>Year</th>
+    <th><center>Year</center></th>
     <th>B.Tech Students</th>
     <th>Broad Topic/Projects</th>
     <th>Status</th>
@@ -98,19 +98,19 @@ author_profile: true
 </thead>
 <tbody>
     <tr>
-    <td class="block" style="width:9%">2021-22</td>
+    <td class="block" style="width:10%"><center>2021-22</center></td>
     <td>Aijnkya Bhandare</td>
     <td>Motion Planning For Coordinated Movement Of UAVs and UGVs</td>
     <td>Ongoing</td>
   </tr>
    <tr>
-    <td>2020-21</td>
+    <td><center>2020-21</center></td>
     <td>K.M.Sudarshan</td>
     <td>Vision based control of multi-agent systems</td>
     <td>Data Operation Engineering Analyst at Blackrock, Gurgaon</td>
   </tr>
    <tr>
-    <td>2020-21</td>
+    <td><center>2020-21</center></td>
     <td>R.Vinay Kumar</td>
     <td>Vision based control of multi-agent systems</td>
     <td>Complete</td>
