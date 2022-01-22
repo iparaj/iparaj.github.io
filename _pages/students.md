@@ -16,7 +16,7 @@ author_profile: true
 <tbody>
 <tr>
     <td>Jan 2022</td>
-    <td>Biswanath Paul</td>
+    <td class="block" style="width:23%">Biswanath Paul</td>
     <td> Robust Control (Supevising with <a href="https://www.iitg.ac.in/eee/parijat_bhowmick.html">Dr. P. Bhowmick</a>)</td>
     <td>Ongoing</td>
   </tr>
@@ -55,7 +55,7 @@ author_profile: true
 <tbody>
     <tr>
     <td class="block" style="width:10%"><center>2021-22</center></td>
-    <td>Priyaranjan Kumar</td>
+    <td class="block" style="width:23%">Priyaranjan Kumar</td>
     <td>Vision based control of UGVs</td>
     <td>Ongoing</td>
   </tr>
