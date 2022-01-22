@@ -47,9 +47,9 @@ author_profile: true
 <thead>
   <tr>
     <th><center>Year</center></th>
-    <th>M.Tech Students</th>
-    <th>Broad Topic/Projects</th>
-    <th>Status</th>
+    <th><center>M.Tech Students</center></th>
+    <th><center>Broad Topic/Projects</center></th>
+    <th><center>Status</center></th>
   </tr>
 </thead>
 <tbody>
@@ -91,9 +91,9 @@ author_profile: true
 <thead>
   <tr>
     <th><center>Year</center></th>
-    <th>B.Tech Students</th>
-    <th>Broad Topic/Projects</th>
-    <th>Status</th>
+    <th><center>B.Tech Students</center></th>
+    <th><center>Broad Topic/Projects</center></th>
+    <th><center>Status</center></th>
   </tr>
 </thead>
 <tbody>
