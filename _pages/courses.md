@@ -18,7 +18,7 @@ author_profile: true
     <td rowspan="2">Jan 2022</td>
     <td>EE656 Robust Control</td>
     <td><a href="http://chayanbhawal.github.io/EE656" target="_blank" rel="noopener noreferrer">Course-page Link</a></td>
-    <td>Upcoming</td>
+    <td>Ongoing</td>
   </tr>
   <tr>
     <td>EE102 Basic Electronics Laboratory</td>
