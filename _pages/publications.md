@@ -13,7 +13,7 @@ Journals (published/accepted)
 
 Conferences
 ===========
-* Imrul Qais, __Chayan Bhawal__, and Debasattam Pal, A Hamiltonian system based approach for the computation of the maximal rank-minimizing solution of the LMI arising from a singular LQR problem, _European Control Conference_, London, UK, July 12 - July 15, 2022.
+* Imrul Qais, __Chayan Bhawal__, and Debasattam Pal, A Hamiltonian system based approach for the computation of the maximal rank-minimizing solution of the LMI arising from a singular LQR problem, _European Control Conference (ECC)_, London, UK, July 12 - July 15, 2022.
 * Imrul Qais, Debasattam Pal, and __Chayan Bhawal__, A geometric characterization of the slow space of the Hamiltonian system arising from the singular LQR problem, _IFAC World Congress_, July 12 - July 17, 2020. [[Link]](http://chayanbhawal.github.io/files/2020QaiPBIFAC.pdf)
 * __Chayan Bhawal__, Jan Heiland, and Peter Benner, PD controllers to solve single-input, index-1 DAE based LQR problems, _European Control Conference (ECC)_, Saint Petersburg, Russia, May 12 ‑ May 15, 2020. [[Link]](http://chayanbhawal.github.io/files/2020BhaHeiECC.pdf)
 * __Chayan Bhawal__, Debasattam Pal, and Madhu N. Belur, On circulant Lyapunov operators, two-variable polynomials, and DFT, _Indian Control Conference (ICC)_, Hyderabad, December 18 - December 20, 2019. [[Link]](http://chayanbhawal.github.io/files/2019BhaPalBelICC.pdf)
@@ -22,7 +22,7 @@ Conferences
 * __Chayan Bhawal__, Debasattam Pal, and Madhu N Belur, On solutions of bounded-real LMI for singularly bounded-real systems, _European Control Conference_, Limassol, Cyprus, June 12 - June 15, 2018. [[Link]](http://chayanbhawal.github.io/files/2018BhaPalBelECC.pdf)
 * __Chayan Bhawal__, Debasattam Pal, and Madhu N Belur, On the link between storage functions of allpass systems and Gramians, _IEEE Conference on Decision and Control (CDC)_, Melbourne, Australia, December 12 - December 15, 2017. [[Link]](http://chayanbhawal.github.io/files/2017BhaPalBelCDC.pdf)
 * __Chayan Bhawal__, Debasattam Pal, and Madhu N Belur, A 2D-DFT based method to compute the Bezoutian and a link to Lyapunov equations, _Indian Control Conference (ICC)_, Guwahati, India, January 4 - January 6, 2017. [[Link]](http://chayanbhawal.github.io/files/2017BhaPalBelICC.pdf)
-* Sandeep Kumar, __Chayan Bhawal__, Debasattam Pal, and Madhu N Belur, New results and algorithms for computing storage functions: The lossless/allpass cases, _European Control Conference_, Aalborg, Denmark, June 29 - July 1, 2016. [[Link]](http://chayanbhawal.github.io/files/2016KumBhaPalBelECC.pdf)
+* Sandeep Kumar, __Chayan Bhawal__, Debasattam Pal, and Madhu N Belur, New results and algorithms for computing storage functions: The lossless/allpass cases, _European Control Conference (ECC)_, Aalborg, Denmark, June 29 - July 1, 2016. [[Link]](http://chayanbhawal.github.io/files/2016KumBhaPalBelECC.pdf)
 
 
 Book Chapter
