@@ -28,6 +28,10 @@ _I am in the look out for students with an interest aligned with my research int
 
 News
 ====
+* 28-Feb 2022: The paper "A Hamiltonian system based approach for the computation of the maximal rank-minimizing solution of the LMI arising from a singular LQR problem" co-authored with I. Qais and D. Pal is accepted for presentation and publication in the proceedings of the 2022 European Control Conference (ECC), July 12-15, 2022.
+
+* 28-Feb to 03-Mar 2022: Delivering lecture on as part of "Online FDP on Numerical & Engineering Computation, Optimization for Physicists, Scientists & Engineers - SCILAB" program organized by EICT MNIT Jaipur.
+
 * 31-Dec 2021: Project "On feedback controllers for LQR control of multi-input index-1 DAE systems" accepted by SERB for funding.
 
 * 24-Sep 2020: Delivered an invited lecture (online) titled "Introduction to Optimal Control" in TEQIP (III) sponsored online Short Term Course on "Advances in Control Systems Engineering and Applications (ACSEA 2020)" organized by Department of Electrical Engineering,  SVNIT Surat.

@@ -13,6 +13,7 @@ Journals (published/accepted)
 
 Conferences
 ===========
+* Imrul Qais, __Chayan Bhawal__, and Debasattam Pal, A Hamiltonian system based approach for the computation of the maximal rank-minimizing solution of the LMI arising from a singular LQR problem, _European Control Conference_, London, UK, July 12 - July 15, 2022.
 * Imrul Qais, Debasattam Pal, and __Chayan Bhawal__, A geometric characterization of the slow space of the Hamiltonian system arising from the singular LQR problem, _IFAC World Congress_, July 12 - July 17, 2020. [[Link]](http://chayanbhawal.github.io/files/2020QaiPBIFAC.pdf)
 * __Chayan Bhawal__, Jan Heiland, and Peter Benner, PD controllers to solve single-input, index-1 DAE based LQR problems, _European Control Conference (ECC)_, Saint Petersburg, Russia, May 12 ‑ May 15, 2020. [[Link]](http://chayanbhawal.github.io/files/2020BhaHeiECC.pdf)
 * __Chayan Bhawal__, Debasattam Pal, and Madhu N. Belur, On circulant Lyapunov operators, two-variable polynomials, and DFT, _Indian Control Conference (ICC)_, Hyderabad, December 18 - December 20, 2019. [[Link]](http://chayanbhawal.github.io/files/2019BhaPalBelICC.pdf)
