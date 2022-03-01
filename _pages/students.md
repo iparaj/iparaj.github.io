@@ -17,7 +17,7 @@ author_profile: true
 <tr>
     <td>Jan 2022</td>
     <td class="block" style="width:24%">Biswanath Paul</td>
-    <td> Robust Control (Supevising with <a href="https://www.iitg.ac.in/eee/parijat_bhowmick.html">Dr. P. Bhowmick</a>)</td>
+    <td> Robust Control (Supervising with <a href="https://www.iitg.ac.in/eee/parijat_bhowmick.html">Dr. P. Bhowmick</a>)</td>
     <td>Ongoing</td>
   </tr>
 <tr>
