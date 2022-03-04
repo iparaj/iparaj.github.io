@@ -5,7 +5,12 @@ author_profile: true
 ---
 *Prepared by Chayan Bhawal, IIT Guwahati*
 
-Target audience:  Enginners, Scientists, Physicists, etc.
+Target audience:  Engineers, Scientists, Physicists, etc.
+
+
+Download the complete content from the links below to get started. The top-right corner 
+of the slides will guide you to the codes that are being explained in the slides. Execute those 
+files to understand the slides better. 
 
 <table>
 <thead>
