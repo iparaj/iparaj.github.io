@@ -22,8 +22,8 @@ author_profile: true
   </tr>
   <tr>
     <td>EE102 Basic Electronics Laboratory</td>
-    <td>To start from Apr 2022</td>
-    <td>Upcoming</td>
+    <td></td>
+    <td>Ongoing</td>
   </tr>
    <tr>
     <td rowspan="2">Jul 2021</td>
