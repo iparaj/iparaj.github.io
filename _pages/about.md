@@ -28,6 +28,8 @@ _I am in the look out for students with an interest aligned with my research int
 
 News
 ====
+* 28-Mar to 01-Apr 2022: Delivered lectures as part of an online course "Mathematics for Radar and Electronic Defense" in University of Capetown along with Dr. Kuntal Deka.
+
 * 28-Feb 2022: The paper "A Hamiltonian system based approach for the computation of the maximal rank-minimizing solution of the LMI arising from a singular LQR problem" co-authored with I. Qais and D. Pal is accepted for presentation and publication in the proceedings of the 2022 European Control Conference (ECC), July 12-15, 2022.
 
 * 28-Feb to 03-Mar 2022: Delivered lectures as part of "Online FDP on Numerical & Engineering Computation, Optimization for Physicists, Scientists & Engineers - SCILAB" program organized by EICT Academy.
