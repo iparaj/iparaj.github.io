@@ -4,14 +4,6 @@ title: "Biosketch"
 permalink: /biosketch/
 author_profile: true
 ---
-
-Work experience: Academia
-===============
-* Jan 2020 - Present: __Assistant Professor__ <br>
-Department of Electronics and Electrical Engineering, <br>
-Indian Institute of Technology Guwahati. <br>
-_Area of work: Differential algebraic systems, Optimal control, Model-order reduction._
-
 Education
 ======
 * Sep 2020 - Present: __Ph.D.__ in Systems, Control and Automation <br> 
