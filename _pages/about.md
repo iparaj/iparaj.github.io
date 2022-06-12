@@ -18,6 +18,7 @@ Research Interests
 ==================
 * Unmanned Aerial Vehicles
 * Optimal Control
+* Optimization
 
 
 
