@@ -1,9 +1,8 @@
 ---
 permalink: /
+title: "Homepage"
 excerpt: ""
 author_profile: true
-
-
 ---
 
 About Me
