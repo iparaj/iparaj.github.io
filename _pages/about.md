@@ -6,7 +6,7 @@ redirect_from:
 
 ---
 
- 
+A
 ==================
 I am a Ph.D. scholar at IIT Guwahati with a Masters in Control Systems. I have a keen interest in Aviation and presently carrying out my research
 on Unmanned Aerial Vehicles. I am trying to derive a power consumption model of a UAV that can accurately predict the energy which will
