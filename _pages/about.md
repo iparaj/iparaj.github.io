@@ -6,13 +6,14 @@ redirect_from:
 
 ---
 
+ 
+==================
 I am a Ph.D. scholar at IIT Guwahati with a Masters in Control Systems. I have a keen interest in Aviation and presently carrying out my research
 on Unmanned Aerial Vehicles. I am trying to derive a power consumption model of a UAV that can accurately predict the energy which will
 be consumed by it, given a predefinned trajectory. I want to use my model in the path planning of UAVs with minimal energy consumption.
 As a PMRF recipient, I want to give my country a strong research outcome so that the applicability of UAVs can be broadened for various
 socio-economic use cases. Apart from academics, I also take a keen interest in financial technologies, photography and occasionally make videos on YouTube.
 I also enjoy teaching and taking questions from young school and undergraduate students.
-
 
 Research Interests
 ==================
