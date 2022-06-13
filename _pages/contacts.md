@@ -1,0 +1,12 @@
+---
+title: "Contact"
+permalink: /contacts/
+author_profile: true
+---
+
+Control and Instrumentation Lab<br>
+Department of Electronics and Electrical Engineering,<br>
+Indian Institute of Technology Guwahati,<br>
+Guwahati - 781039,<br>
+Email - gparaj[at]iitg.ac.in, <br>
+Phone - +91 977 466 1324.
