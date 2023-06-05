@@ -9,7 +9,7 @@ Unmanned Aerial Vehicles (UAVs) are evolving as versatile machines in revolution
 One of the well-known problems concerning UAV operations is the path planning of a UAV with minimal energy consumption.
 A Power Consumption Model (PoCM) is used to estimate the endurance of a UAV, like its flying time, range, speed, payload limits, battery capacity, etc. So, an accurate PoCM plays a crucial role in planning the best possible path or trajectory in terms of energy being spent for a given operation.
 <br>
-<img src='/files/swarm.jpg' width="50%" height="50%">
+<img src='/files/swarm.jpg' width="80%" height="80%">
 
 In this research, we aim to address three aspects concerning the path planning of a quadrotor UAV.  
 First, we want to derive a Power Consumption Model (PoCM) that can accurately predict the power consumed by a quadrotor in-flight. Second, using the obtained PoCM, we aim to perform path planning given an operation/objective such that the energy consumed in a trip is minimized. Third, we plan to devise an algorithm for path-planning in a multi-agent setup and dynamically changing environment such that a given objective is achieved with minimum power consumed by each agent.
