@@ -18,3 +18,7 @@ __Courses as Teaching Assistant at IIT Guwahati__
     <td>EE556 Linear Algebra</td>
   </tr>
     <tr>
+<tr>
+    <td>Jan 2023</td>
+    <td><a href="http://chayanbhawal.github.io/EE250" target="_blank" rel="noopener noreferrer">EE250 Control System</a></td>
+  </tr>
