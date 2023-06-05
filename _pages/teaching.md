@@ -67,5 +67,6 @@ Courses as Teaching Assistant
     <td>EE102 Basic Electronics Lab</td>
 <td>IIT Guwahati</td>
 </tr>
-
+</tbody>
+</table>
 
