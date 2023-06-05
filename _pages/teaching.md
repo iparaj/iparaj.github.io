@@ -21,11 +21,14 @@ Courses as Teaching Assistant
 </tr>
 
 <tr>
-    <td>Jan 2023</td>
+    <td rowspan="2">Jan 2023</td>
     <td><a href="http://chayanbhawal.github.io/EE250" target="_blank" rel="noopener noreferrer">EE250 Control System</a></td>
 <td>IIT Guwahati</td>
 </tr>
-
+<tr>
+    <td>ECE181612 Advanced Programming Lab</td>
+<td>Assam Engineering College</td>
+</tr>
 
 <tr>
     <td>July 2022</td>
