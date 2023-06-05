@@ -7,12 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a __Prime Minister Research Fellow__  working in the Department of Electronics and Electrical Engineering at IIT Guwahati. My broad area of research is Control Systems. I have a keen interest in Aviation and presently carrying out my research
-on Unmanned Aerial Vehicles. I am trying to derive a power consumption model of a UAV that can accurately predict the energy which will
-be consumed by it, given a predefined trajectory. I want to use my model in the path planning of UAVs with minimal energy consumption.
-As a PMRF recipient, I want to give my country a strong research outcome so that the applicability of UAVs can be broadened for various
-socio-economic use cases. Apart from academics, I also take a keen interest in financial technologies, photography and occasionally make videos on YouTube.
-I also enjoy teaching and taking questions from young school and undergraduate students.
+I am a __Prime Minister Research Fellow__  working in the Department of Electronics and Electrical Engineering at IIT Guwahati. My broad area of research is Control Systems. I have a keen interest in Aviation and presently carrying out my research on Unmanned Aerial Vehicles. I am trying to derive an accurate power consumption model of a UAV that can accurately predict the energy which will be consumed by it for a predefined trajectory. Further, I want to use my model in the path planning of UAVs with minimal energy consumption.
+As a PMRF recipient, I want to give my country a strong research outcome so that the applicability of UAVs can be broadened for various socio-economic use cases. Apart from academics, I also take a keen interest in financial technologies, photography and occasionally make videos on YouTube.
+I also enjoy teaching and travelling.
 
 Research Interests
 ==================
@@ -23,7 +20,7 @@ Research Interests
 
 Timeline
 ====
-* 18 May 2023 - Delivered an Annual Progress Seminar at tEE Department, IIT Guwahati. [[Report]](https://iparaj.github.io/files/aps1report.pdf) [[Presentation]](https://iparaj.github.io/files/aps1ppt.pdf)
+* 18 May 2023 - Delivered an Annual Progress Seminar at EEE Department, IIT Guwahati. [[Report]](https://iparaj.github.io/files/aps1report.pdf) [[Presentation]](https://iparaj.github.io/files/aps1ppt.pdf)
 * 25 April 2023 - A paper titled "Power consumption of a quadrotor based on maneuvers" got accepted for presentation at the IEEE GCON 2023.
 * 22 June 2022 - Presented First PMRF Progress Review. [[Report]](https://iparaj.github.io/files/pmrfreview_1.pdf)
 * 25 April 2022 - Delivered the State-of-Art Seminar at EEE Department, IIT Guwahati. [[Report]](https://iparaj.github.io/files/soa_report.pdf) [[Presentation]](https://iparaj.github.io/files/soa_ppt.pdf)
