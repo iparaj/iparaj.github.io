@@ -4,5 +4,5 @@ permalink: /research/
 author_profile: true
 ---
 
-* <a href="https://iparaj.github.io/swarm" target="_blank" rel="noopener noreferrer">__Path Planning of a swarm of UAVs with minimal energy consumption__</a> <br> 2021 - Present<br>Supervisor <a href="https://chayanbhawal.github.io" target="_blank" rel="noopener noreferrer">Dr. Chayan Bhawal</a>
-* __Control of Robotic Manipulators__ (M.Tech Project) <br>2019-2020 <br> Supervisor <a href="https://www.bitmesra.ac.in/Display_My_Profile_00983KKj893L?id=3nbaCCXy1FU28RmSW26F3w%253d%253d" target="_blank" rel="noopener noreferrer">Dr. Sarbani Chakraborty</a>
+* Ph.D. Research <br> <a href="https://iparaj.github.io/swarm" target="_blank" rel="noopener noreferrer">__Path Planning of a swarm of UAVs with minimal energy consumption__</a> <br> 2021 - Present<br>Supervisor <a href="https://chayanbhawal.github.io" target="_blank" rel="noopener noreferrer">Dr. Chayan Bhawal</a>
+* M.Tech Research <br> __Control of Robotic Manipulators__ <br>2019-2020 <br> Supervisor <a href="https://www.bitmesra.ac.in/Display_My_Profile_00983KKj893L?id=3nbaCCXy1FU28RmSW26F3w%253d%253d" target="_blank" rel="noopener noreferrer">Dr. Sarbani Chakraborty</a>
