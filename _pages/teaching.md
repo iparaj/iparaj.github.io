@@ -31,16 +31,23 @@ Courses as Teaching Assistant
 </tr>
 
 <tr>
-    <td>July 2022</td>
+    <td rowspan="2">July 2022</td>
     <td><a href="https://sites.google.com/view/sudarshanmukherjee/home/teaching/ee204_course">EE204 Circuit Theory</a></td>
 <td>IIT Guwahati</td>
 </tr>
-
+<tr>
+    <td>ECE181504 Control Systems</td>
+<td>Assam Engineering College</td>
+</tr>
 
 <tr>
-    <td>Jan 2022</td>
+    <td rowspan="2">Jan 2022</td>
     <td>EE102 Basic Electronics Lab</td>
     <td>IIT Guwahati</td>
+</tr>
+<tr>
+    <td>ECE181602 Advanced Programming</td>
+<td>Assam Engineering College</td>
 </tr>
 
 <tr>
