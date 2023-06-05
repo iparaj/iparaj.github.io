@@ -32,7 +32,7 @@ __Courses as Teaching Assistant at IIT Guwahati__
 
 <tr>
     <td>Jan 2022</td>
-    <td>EE102 Basic Electronics Lab</a></td>
+    <td>EE102 Basic Electronics Lab</td>
   </tr>
 
 <tr>
@@ -44,4 +44,8 @@ __Courses as Teaching Assistant at IIT Guwahati__
 <tr>
     <td>Jan 2021</td>
     <td>EE351 Control and Robotics Lab</td>
+  </tr>
+<tr>
+    <td>Jan 2021</td>
+    <td>EE102 Basic Electronics Lab Lab</td>
   </tr>
