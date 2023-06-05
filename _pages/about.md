@@ -23,7 +23,10 @@ Research Interests
 
 Timeline
 ====
-* 25 April 2022 - Delivered State-of-Art Seminar at EEE Department, IIT Guwahati[[Link]](https://iparaj.github.io/files/soa_report.pdf)
+* 18 May 2023 - Delivered an Annual Progress Seminar at tEE Department, IIT Guwahati. [[Report]](https://iparaj.github.io/files/aps1report.pdf) [[Presentation]](https://iparaj.github.io/files/aps1ppt.pdf)
+* 25 April 2023 - A paper titled "Power consumption of a quadrotor based on maneuvers" got accepted for presentation at the IEEE GCON 2023
+* 22 June 2022 - Presented First PMRF Progress Review [[Report]](https://iparaj.github.io/files/pmrfreview_1.pdf)
+* 25 April 2022 - Delivered the State-of-Art Seminar at EEE Department, IIT Guwahati [[Report]](https://iparaj.github.io/files/soa_report.pdf) [[Presentation]](https://iparaj.github.io/files/soa_ppt.pdf)
 * 22 October 2021 - Awarded with the PMRF Fellowship
 * 2 September 2020 - Joined IIT Guwahati as a Research Scholar
 
