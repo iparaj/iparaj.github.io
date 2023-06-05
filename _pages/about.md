@@ -21,7 +21,9 @@ Research Interests
 * Optimization
 
 
-News
+Timeline
 ====
+* 25 April 2022 - Delivered State-of-Art Seminar at EEE Department, IIT Guwahati[[Link]](https://iparaj.github.io/files/soa_report.pdf)
+* 22 October 2021 - Awarded with the PMRF Fellowship
 * 2 September 2020 - Joined IIT Guwahati as a Research Scholar
 
