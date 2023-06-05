@@ -15,7 +15,7 @@ __Courses as Teaching Assistant
 <tbody>
 
 <tr>
-    <td rowspan="2">Jul 2023</td>
+    <td>Jul 2023</td>
     <td>EE556 Linear Algebra</td>
     <td>IIT Guwahati</td>
   </tr>
