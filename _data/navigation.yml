@@ -12,5 +12,8 @@ main:
   - title: "Teaching"
     url: /teaching/
 
+  - title: "Photography"
+    url: /photos/
+
   - title: "Contact"
     url: /contacts/
