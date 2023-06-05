@@ -23,33 +23,39 @@ __Courses as Teaching Assistant
 <tr>
     <td>Jan 2023</td>
     <td><a href="http://chayanbhawal.github.io/EE250" target="_blank" rel="noopener noreferrer">EE250 Control System</a></td>
+<td>IIT Guwahati</td>
   </tr>
 
 
 <tr>
     <td>July 2022</td>
     <td><a href="https://sites.google.com/view/sudarshanmukherjee/home/teaching/ee204_course">EE204 Circuit Theory</a></td>
+<td>IIT Guwahati</td>
   </tr>
 
 
 <tr>
     <td>Jan 2022</td>
     <td>EE102 Basic Electronics Lab</td>
+<td>IIT Guwahati</td>
   </tr>
 
 <tr>
     <td>July 2021</td>
     <td><a href="http://chayanbhawal.github.io/EE590" target="_blank" rel="noopener noreferrer">EE590 Linear Algebra and Optimization</a></td>
+<td>IIT Guwahati</td>
   </tr>
 
 
 <tr>
     <td>Jan 2021</td>
     <td>EE351 Control and Robotics Lab</td>
+<td>IIT Guwahati</td>
   </tr>
 <tr>
     <td>Jan 2021</td>
     <td>EE102 Basic Electronics Lab</td>
+<td>IIT Guwahati</td>
   </tr>
 
 __Courses as Teaching Assistant at IIT Guwah__
