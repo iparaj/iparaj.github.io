@@ -5,7 +5,7 @@ permalink: /photos/
 author_profile: true
 ---
 
-<img src='/images/cil1.jpg'>
+<img src='/images/ccu.jpg'>
 <br>
 <p align="center">
 <figure>
