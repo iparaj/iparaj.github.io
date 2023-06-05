@@ -5,5 +5,6 @@ permalink: /photos/
 author_profile: true
 ---
 
-<img src='/files/swarm.jpg' align="center" width="70%" height="70%">
+<img src='/files/cil1.jpg'>
+<br>
 
