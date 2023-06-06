@@ -47,3 +47,28 @@ author_profile: true
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Dark" src="/images/mothersday.jpg" width="45%">
 </p>
+<p align="center">
+  <img alt="Light" src="/images/possibilities.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="/images/sat.jpg" width="45%">
+</p>
+<p align="center">
+  <img alt="Light" src="/images/sale.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="/images/wagonr.jpg" width="45%">
+</p>
+<p align="center">
+  <img alt="Light" src="/images/window.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="/images/river.jpg" width="45%">
+</p>
+<p align="center">
+  <img alt="Light" src="/images/eye.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="/images/broker.jpg" width="45%">
+</p>
+<p align="center">
+  <img alt="Light" src="/images/maruti.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="/images/dadi.jpg" width="45%">
+</p>
