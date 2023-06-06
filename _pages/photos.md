@@ -8,5 +8,5 @@ author_profile: true
 
 
 
-<p align="center" width="75%">
+<p align="center" width="55%">
     <img width="75%" src="/images/ccu.jpg">
