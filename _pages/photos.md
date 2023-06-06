@@ -19,15 +19,14 @@ author_profile: true
 
 
 
-<p align="left" width="100%">
+<p align="left" width="50%">
+    <img width="45%" src="/images/ccu.jpg">
+<p align="right" width="50%">
     <img width="45%" src="/images/ccu.jpg">
 </p>
-<p align="right" width="100%">
+<p align="left" width="50%">
     <img width="45%" src="/images/ccu.jpg">
 </p>
-<p align="left" width="100%">
-    <img width="45%" src="/images/ccu.jpg">
-</p>
-<p align="right" width="100%">
+<p align="right" width="50%">
     <img width="45%" src="/images/ccu.jpg">
 </p>
