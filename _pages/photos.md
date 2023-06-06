@@ -69,3 +69,13 @@ author_profile: true
   <img alt="Dark" src="/images/dadi.jpg" width="45%">
 </p>
 
+<p align="center">
+  <img alt="Light" src="/images/bird.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="/images/mahi3.jpg" width="45%">
+</p>
+<p align="center">
+  <img alt="Light" src="/images/akash.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="/images/ashmita.jpg" width="45%">
+</p>
