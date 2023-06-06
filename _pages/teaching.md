@@ -58,12 +58,11 @@ Courses as Teaching Assistant
 
 
 <tr>
-    <td>Jan 2021</td>
+    <td rowspan="2">Jan 2021</td>
     <td>EE351 Control and Robotics Lab</td>
 <td>IIT Guwahati</td>
 </tr>
 <tr>
-    <td>Jan 2021</td>
     <td>EE102 Basic Electronics Lab</td>
 <td>IIT Guwahati</td>
 </tr>
