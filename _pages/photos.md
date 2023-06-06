@@ -15,3 +15,5 @@ author_profile: true
   <img src="/images/ccu.jpg" width="100" /> 
   <img src="/images/ccu.jpg" width="100" />
 </p>
+
+<img src="/images/ccu.jpg" width="425"/> <img src="/images/ccu.jpg" width="425"/> 
