@@ -39,14 +39,14 @@ author_profile: true
 </p>
 <img src='/files/alcher.jpg' align="center" width="100%" height="100%">
 <p align="center">
-  <img alt="Light" src="/images/mahi.jpg" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="/images/mothersday.jpg" width="45%">
-</p>
-<p align="center">
   <img alt="Light" src="/images/possibilities.jpg" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Dark" src="/images/sat.jpg" width="45%">
+</p>
+<p align="center">
+  <img alt="Light" src="/images/mahi.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="/images/mothersday.jpg" width="45%">
 </p>
 <p align="center">
   <img alt="Light" src="/images/sale.jpg" width="45%">
