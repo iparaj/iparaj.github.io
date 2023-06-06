@@ -17,3 +17,9 @@ author_profile: true
 </p>
 
 <img src="/images/ccu.jpg" width="425"/> <img src="/images/ccu.jpg" width="425"/> 
+
+<p align="center">
+  <img alt="Light" src="/images/ccu.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="/images/ccu.jpg" width="45%">
+</p>
