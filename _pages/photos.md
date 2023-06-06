@@ -86,3 +86,8 @@ author_profile: true
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Dark" src="/images/mahi2.jpg" width="45%">
 </p>
+<p align="center">
+  <img alt="Light" src="/images/aunty.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="/images/deba.jpg" width="45%">
+</p>
