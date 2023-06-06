@@ -9,7 +9,6 @@ author_profile: true
 <p align="center">
 <figure>
 <img src="/images/ccu.jpg" style="width:50%">
-<figcaption align = "center"><b>A Controlled Photo</b></figcaption>
 </figure>
 </p>
 <p align="center">
@@ -21,6 +20,15 @@ author_profile: true
 
 
 
-<p align="center" width="100%">
-    <img width="33%" src="/images/ccu.jpg">
+<p align="left" width="100%">
+    <img width="50%" src="/images/ccu.jpg">
+</p>
+<p align="right" width="100%">
+    <img width="50%" src="/images/ccu.jpg">
+</p>
+<p align="left" width="100%">
+    <img width="50%" src="/images/ccu.jpg">
+</p>
+<p align="right" width="100%">
+    <img width="50%" src="/images/ccu.jpg">
 </p>
