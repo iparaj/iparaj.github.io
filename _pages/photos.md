@@ -14,7 +14,6 @@ author_profile: true
 <p align="center">
 <figure>
 <img src="/images/ccu.jpg" style="width:50%">
-<figcaption align = "center"><b>A Controlled Photo</b></figcaption>
 </figure>
 </p>
 
