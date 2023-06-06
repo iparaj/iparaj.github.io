@@ -37,7 +37,9 @@ author_profile: true
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Dark" src="/images/loading.jpg" width="45%">
 </p>
-<img src='/files/alcher.jpg' align="center" width="100%" height="100%">
+<p align="center">
+  <img alt="Light" src="/images/alcher.jpg" width="85%">
+</p>
 <p align="center">
   <img alt="Light" src="/images/possibilities.jpg" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
@@ -78,4 +80,9 @@ author_profile: true
   <img alt="Light" src="/images/akash.jpg" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Dark" src="/images/ashmita.jpg" width="45%">
+</p>
+<p align="center">
+  <img alt="Light" src="/images/sandip.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="/images/mahi2.jpg" width="45%">
 </p>
