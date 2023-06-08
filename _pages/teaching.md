@@ -16,7 +16,7 @@ Courses as Teaching Assistant
 
 <tr>
     <td>Jul 2023</td>
-    <td>EE556 Linear Algebra</td>
+    <td>EE351 Control and Robotics Lab</td>
     <td>IIT Guwahati</td>
 </tr>
 
