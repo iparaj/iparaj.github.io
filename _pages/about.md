@@ -20,6 +20,7 @@ Research Interests
 
 Timeline
 ====
+* 24 June 2023: Presented a paper titled “Power consumption of a quadrotor based on maneuvers” at the 1st IEEE Guwahati Subsection Conference (GCON 2023).
 * 18 May 2023 - Delivered an Annual Progress Seminar at EEE Department, IIT Guwahati.  [[Presentation]](https://iparaj.github.io/files/aps1ppt.pdf)
 * 25 April 2023 - A paper titled "Power consumption of a quadrotor based on maneuvers" accepted for presentation at the IEEE GCON 2023.
 * 22 June 2022 - Presented first PMRF Progress Review. [[Report]](https://iparaj.github.io/files/pmrfreview_1.pdf)
