@@ -20,3 +20,5 @@ Read more about my work <a href="https://iparaj.github.io/files/Report.pdf"><spa
 
 Resources
  - <a href="https://iitgoffice-my.sharepoint.com/:o:/g/personal/gparaj_iitg_ac_in/EpGlGYDI3fJEq0gSjOuO5T8BrBO3tm22uWhBP0nEEPn4Tw?e=UvqkjS"><span style="color: green;">[Quadcopter Notebook]</span></a>
+
+- <a href="https://bit.ly/cil1lib"><span style="color: green;">[CIL1 Library]</span></a>
