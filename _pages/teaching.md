@@ -14,11 +14,19 @@ Courses as Teaching Assistant
 </thead>
 <tbody>
 
+
 <tr>
-    <td>Jul 2023</td>
+    <td rowspan="2">Jul 2023</td>
     <td>EE351 Control and Robotics Lab</td>
-    <td>IIT Guwahati</td>
+<td>IIT Guwahati</td>
 </tr>
+<tr>
+    <td>ECE181504 Control Systems</td>
+<td>Assam Engineering College</td>
+</tr>
+
+
+
 
 <tr>
     <td rowspan="2">Jan 2023</td>
