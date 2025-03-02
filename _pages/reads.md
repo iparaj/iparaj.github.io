@@ -6,5 +6,5 @@ author_profile: true
 
 Conferences
 ===========
-* Diary 
+* Diary <br>
 *<a href="https://iparaj.github.io/files/quotes.pdf" target="_blank" rel="noopener noreferrer">Quotes</a>
