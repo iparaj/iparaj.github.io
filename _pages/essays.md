@@ -13,7 +13,7 @@ In this project, I invite people to predict the future by choosing a horizon (10
 
 
 
-* First Entry - To Be Updated
+* <a href="https://iparaj.github.io/files/essay0.pdf">[The World in 2045: A Glimpse into the Future] by  __ChatGPT__ . Date: 02-Mar-2025. Horizon: 20 years.
 
 
 
