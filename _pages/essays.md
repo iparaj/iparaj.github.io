@@ -13,7 +13,8 @@ In this project, I invite people to predict the future by choosing a horizon (10
 
 
 
-* <a href="https://iparaj.github.io/files/essay0.pdf">[The World in 2045: A Glimpse into the Future] <br> by  __ChatGPT__ .<br> Date: 02-Mar-2025. Horizon: 20 years.
+* <a href="https://iparaj.github.io/files/essay0.pdf">The World in 2045: A Glimpse into the Future</a> <br> <a href="https://chatgpt.com/">ChatGPT</a> <br> Date: 02-Mar-2025. Horizon: 20 years.
+
 
 
 
