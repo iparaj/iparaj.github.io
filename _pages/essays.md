@@ -5,9 +5,14 @@ permalink: /essays/
 author_profile: true
 ---
 
-Essays
+Essays from the future
 ===========
-* <a href="https://iparaj.github.io/files/Report.pdf"><span style="color: blue;">[test]</span></a>
+
+
+Predict the future. 
+
+
+* To Be Updated
 
 
 
