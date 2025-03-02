@@ -9,8 +9,9 @@ main:
   - title: "Reads"
     url: /reads/
 
-  - title: "Teaching"
-    url: /teaching/
 
   - title: "Photography"
     url: https://iparaj.github.io/photos/
+
+ - title: "Resources"
+    url: /resources/
