@@ -1,6 +1,6 @@
 ---
 title: "Reads"
-permalink: /Reads/
+permalink: /reads/
 author_profile: true
 ---
 
