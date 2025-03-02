@@ -3,8 +3,6 @@ main:
   - title: "Biosketch"
     url: /biosketch/    
 
-  - title: "Research"
-    url: /research/
 
   - title: "Reads"
     url: /reads/
