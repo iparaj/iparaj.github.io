@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "About my Research"
 permalink: /research/
 author_profile: true
 ---
@@ -16,14 +16,16 @@ Research Interests
 * Optimization
 
 
- 
+Research
 ==================
 * __Ph.D. Research__ <br> <a href="https://iparaj.github.io/swarm" target="_blank" rel="noopener noreferrer">__Path Planning of a swarm of UAVs with minimal energy consumption__</a> <br> 2021 - Present<br>Supervisor <a href="https://chayanbhawal.github.io" target="_blank" rel="noopener noreferrer">Dr. Chayan Bhawal</a>
 * __M.Tech Research__ <br> __Control of Robotic Manipulators__ <a href="https://iparaj.github.io/files/PARAJ-SMC-THESIS.pdf">[Thesis]</a><br>2019-2020 <br> Supervisor <a href="https://www.bitmesra.ac.in/Display_My_Profile_00983KKj893L?id=3nbaCCXy1FU28RmSW26F3w%253d%253d" target="_blank" rel="noopener noreferrer">Dr. Sarbani Chakraborty</a>
-==================
+
 
 
 Courses as Teaching Assistant
+==================
+
 <table>
 <thead>
   <tr>
@@ -46,18 +48,29 @@ Courses as Teaching Assistant
 
 
 <tr>
-    <td>Jul 2024</td>
+    <td rowspan="2">Jul 2024</td>
     <td><a href="https://chayanbhawal.github.io/EE351_2024" target="_blank" rel="noopener noreferrer">EE351 Control and Robotics Lab</a></td>
 <td>IIT Guwahati</td>
 </tr>
+<tr>
+    <td>ECE181504 Control Systems</td>
+<td>Assam Engineering College</td>
+</tr>
+
+
 
 
 
 <tr>
-    <td>Jan 2024</td>
+    <td rowspan="2">Jan 2024</td>
     <td><a href="https://chayanbhawal.github.io/EE250_2024" target="_blank" rel="noopener noreferrer">EE250 Control Systems</a></td>
 <td>IIT Guwahati</td>
 </tr>
+<tr>
+    <td>CS181106 Problem solving through programming using C</td>
+<td>Assam Engineering College</td>
+</tr>
+
 
 
 
