@@ -35,24 +35,9 @@ Courses as Teaching Assistant
 <tbody>
 
 
-
 <tr>
-    <td rowspan="2">Jan 2025</td>
-   <td><a href="https://chayanbhawal.github.io/EE250_2025" target="_blank" rel="noopener noreferrer">EE250 Control System</a></td>
-<td>IIT Guwahati</td>
-</tr>
-
-
-<tr>
-    <td rowspan="2">Jul 2024</td>
-   <td><a href="https://chayanbhawal.github.io/EE351_2024" target="_blank" rel="noopener noreferrer">EE250 Control System</a></td>
-<td>IIT Guwahati</td>
-</tr>
-
-
-<tr>
-    <td rowspan="2">Jan 2024</td>
-   <td><a href="https://chayanbhawal.github.io/EE250_2024" target="_blank" rel="noopener noreferrer">EE250 Control System</a></td>
+    <td>Jan 2024</td>
+    <td><a href="https://chayanbhawal.github.io/EE250_2024" target="_blank" rel="noopener noreferrer">EE250 Control Systems</a></td>
 <td>IIT Guwahati</td>
 </tr>
 
