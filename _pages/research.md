@@ -89,7 +89,7 @@ Courses as Teaching Assistant
 
 <tr>
     <td rowspan="2">Jan 2023</td>
-    <td><a href="http://chayanbhawal.github.io/EE250" target="_blank" rel="noopener noreferrer">EE250 Control System</a></td>
+    <td><a href="https://chayanbhawal.github.io/EE250_2023">EE250 Control System</a></td>
 <td>IIT Guwahati</td>
 </tr>
 <tr>
@@ -119,7 +119,7 @@ Courses as Teaching Assistant
 
 <tr>
     <td>July 2021</td>
-    <td><a href="http://chayanbhawal.github.io/EE590" target="_blank" rel="noopener noreferrer">EE590 Linear Algebra and Optimization</a></td>
+    <td><a href="https://chayanbhawal.github.io/EE590_2021">EE590 Linear Algebra and Optimization</a></td>
 <td>IIT Guwahati</td>
 </tr>
 
