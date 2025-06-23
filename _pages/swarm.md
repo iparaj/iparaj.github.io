@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Path Planning of a swarm of UAVs with minimal energy consumption"
+title: "On algorithms for controller tuning of UAVs for minimal energy consumption"
 permalink: /swarm/
 author_profile: true
 ---
