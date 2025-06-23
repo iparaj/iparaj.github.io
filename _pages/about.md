@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 
-Hi, welcome to my iParaj's webpage. I am a PhD candidate at <a href="https://www.iitg.ac.in/">IIT Guwahati</a>, India. <br>
-I am a good listener when it comes to Aviation, Finance and Drones.<br>
+I’m a PhD candidate at the <a href="https://www.iitg.ac.in/">Indian Institute of Technology Guwahati</a>, India. <br>, driven by a deep interest in Aviation, Finance, and Drone Technologies. I enjoy thoughtful conversations—especially when they take flight in these domains.
+
 
 Join the discussion on <a href="https://x.com/gparaj">X.</a> <br>
 This website is a work in progress.
