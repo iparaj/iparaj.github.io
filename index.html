@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home | Paraj Ganchaudhuri</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Source+Serif+Pro:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./elements/style.css">
+    <link rel="stylesheet" href="./elements/home.css">
+    <link rel="stylesheet" href="./mobile.css">
+    <link rel="stylesheet" href="./elements/mobile.css">
+    <link rel="stylesheet" href="./elements/mobile-home.css">
+</head>
+</head>
+<body>
+    <div class="container">
+        <button class="mobile-toggle" id="mobileToggle">
+            <i class="fas fa-bars"></i>
+        </button>
+        <div class="overlay" id="overlay"></div>
+
+        <!-- Mobile Navigation Drawer -->
+        <nav class="nav-drawer">
+            <div class="nav-drawer-header">
+                <h2>Navigation</h2>
+            </div>
+            <div class="nav-drawer-content">
+                <a href="index.html" class="tab">
+                    <i class="fas fa-home"></i> Home
+                </a>
+                <a href="./elements/resources.html" class="tab">
+                    <i class="fas fa-folder-open"></i> Resources
+                </a>
+                <a href="./elements/research.html" class="tab">
+                    <i class="fas fa-flask"></i> Research
+                </a>
+                <a href="./elements/bio.html" class="tab">
+                    <i class="fas fa-user-graduate"></i> Bio
+                </a>
+                <a href="./elements/blog.html" class="tab">
+                    <i class="fas fa-blog"></i> Blog
+                </a>
+                <a href="./elements/photography.html" class="tab">
+                    <i class="fas fa-camera"></i> Photography
+                </a>
+            </div>
+        </nav>
+
+        <main class="main-content" id="mainContent">
+            <div class="nav-tabs-container">
+                <div class="nav-tabs">
+                    <a href="index.html" class="tab active">
+                        <i class="fas fa-home"></i> Home
+                    </a>
+                    <a href="./elements/resources.html" class="tab">
+                        <i class="fas fa-folder-open"></i> Resources
+                    </a>
+                    <a href="./elements/research.html" class="tab">
+                        <i class="fas fa-flask"></i> Research
+                    </a>
+                    <a href="./elements/bio.html" class="tab">
+                        <i class="fas fa-user-graduate"></i> Bio
+                    </a>
+                    <a href="./elements/blog.html" class="tab">
+                        <i class="fas fa-blog"></i> Blog
+                    </a>
+                    <a href="./elements/photography.html" class="tab">
+                        <i class="fas fa-camera"></i> Photography
+                    </a>
+                </div>
+            </div>
+
+            <!-- Homepage Content -->
+            <section id="home" class="content-section active-section">
+                <div class="hero-section">
+                    <div class="hero-text">
+                        <h1 class="hero-title">Paraj Ganchaudhuri</h1>
+                        <div class="hero-details">
+                            <div class="hero-institution">
+                                <span>
+                                   I’m is a PhD candidate at the Indian Institute of
+                                    Technology Guwahati, India, who is always driven by
+                                     a deep interest in Aviation, Finance, and Drone 
+                                     Technologies. I enjoy thoughtful conversations—especially 
+                                     when they take flight in these domains.
+                                </div>
+                                <div class="hero-institution">
+                                <span>
+                                    I am currently leading the Unmanned Aerial Vehicle Lab at IIT Guwahati. 
+                                </div>
+                        </div>
+                    </div>
+                    <div class="hero-image">
+                        <img src="./images/paraj.jpeg" alt="Research Lab"></div>
+                </div>
+
+                <div class="hero-divider">
+                    <div class="divider-line"></div>
+                    <div class="divider-text">
+                        <i class="fas fa-landmark"></i>
+                       IIT Guwahati
+                    </div>
+                    <div class="divider-line"></div>
+                </div>
+
+                <div class="content-section-inner">
+
+                    <!-- News Section -->
+                    <div class="news-section">
+                        <h2 class="section-title">News</h2>
+                        <div class="news-timeline">
+                            <div class="news-item">
+                                <div class="news-date">
+                                    <span class="news-day">01 Dec 2025</span>
+                                </div>
+                                <div class="news-content">
+                                    <p class="news-description">Served as an Associate Editor for ICRA, Humanoids and IROS in 2025.</p>
+                                </div>
+                            </div>
+                            
+                            <div class="news-item highlight">
+                                <div class="news-date">
+                                    <span class="news-day">01 Jun 2025</span>
+                                </div>
+                                <div class="news-content">
+                                   <p class="news-description">Received the best paper award for the year 2024 from IEEE RAS TC on Model-Based Optimization.</p>
+                                </div>
+                            </div>
+                            
+                            <div class="news-item">
+                                <div class="news-date">
+                                    <span class="news-day">01 Jun 2025</span>
+
+                                </div>
+                                <div class="news-content">
+                                    <p class="news-description">Received the best paper award for the year 2024 from IEEE RAS TC on Model-Based Optimization.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Selected Publications Section -->
+                    <div class="publications-section">
+                        <h2 class="section-title">Selected Publications</h2>
+                        
+                        <div class="publication-item">
+                            <h3 class="pub-title">Matrix-Free Delassus Operations: Scalable and Memory-Efficient Algorithms</h3>
+                            <p class="pub-authors"><a href="#">Ajay Suresha Sathya</a>, <a href="#">Louis Montaut</a>, <a href="#">Yann Mont-Marin</a>, and <a href="#">Justin Carpentier</a></p>
+                            <p class="pub-year">2026</p>
+                            <div class="pub-links">
+                                <a href="./documentations/UAV-report.pdf" class="pub-button">PDF</a>
+                            </div>
+                        </div>
+
+                        <div class="publication-item">
+                            <h3 class="pub-title">Constrained Articulated Body Dynamics Algorithms for Closed-Loop Mechanisms</h3>
+                            <p class="pub-authors"><a href="#">Ajay Suresha Sathya</a>, and <a href="#">Justin Carpentier</a></p>
+                            <p class="pub-venue"><em>IEEE Transactions on Robotics</em>, 2026</p>
+                            <div class="pub-links">
+                                <a href="#" class="pub-button">DOI</a>
+                                <a href="#" class="pub-button">PDF</a>
+                            </div>
+                        </div>
+
+                        <div class="publication-item">
+                            <h3 class="pub-title">Constrained Articulated Body Dynamics Algorithms</h3>
+                            <p class="pub-authors"><a href="#">Ajay Suresha Sathya</a>, and <a href="#">Justin Carpentier</a></p>
+                            <p class="pub-venue"><em>IEEE Transactions on Robotics</em>, 2025</p>
+                            <div class="pub-links">
+                                <a href="#" class="pub-button">DOI</a>
+                                <a href="#" class="pub-button">PDF</a>
+                            </div>
+                        </div>
+
+                        <div class="publication-item">
+                            <h3 class="pub-title">Efficient Constrained Dynamics Algorithms Based on an Equivalent LQR Formulation Using Gauss' Principle of Least Constraint</h3>
+                            <p class="pub-authors"><a href="#">Ajay Suresha Sathya</a>, <a href="#">Herman Bruyninckx</a>, <a href="#">Wilm Decré</a>, and <a href="#">Goele Pipeleers</a></p>
+                            <p class="pub-venue"><em>IEEE Transactions on Robotics</em>, 2024</p>
+                            <div class="pub-links">
+                                <a href="#" class="pub-button">DOI</a>
+                                <a href="#" class="pub-button">PDF</a>
+                            </div>
+                        </div>
+                    </div>
+
+            <!-- Back to Top Button -->
+            <button class="back-to-top" id="backToTop">
+                <i class="fas fa-arrow-up"></i>
+            </button>
+        </main>
+    </div>
+   
+    <div id="footer-container"></div>
+
+    
+    <script src="./elements/script.js"></script>
+
+    <script>
+         // Load footer dynamically if footer-container exists
+    const footerContainer = document.getElementById('footer-container');
+    if (footerContainer) {
+        fetch('./elements/footer.html')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Footer not found');
+                }
+                return response.text();
+            })
+            .then(html => {
+                footerContainer.innerHTML = html;
+            })
+            .catch(error => {
+                console.error('Error loading footer:', error);
+            });
+    }
+    </script>
+</body>
+</html>

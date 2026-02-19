@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog & Technical Writing | Dr. Paraj</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Source+Serif+Pro:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="mobile.css">
+</head>
+<style>
+    .posts .date .year {
+    color: var(--grey);
+    font-size: 0.875em;
+}
+.posts .date {
+    margin-right: 100px;
+    color: var(--grey);
+}
+.posts .date .day {
+    font-size: 1.5em;
+    margin-bottom: 5px;
+}
+.posts .post {
+    display: flex;
+    padding: 30px 0;
+    border-bottom: 1px solid #eee;
+}
+.posts {
+    font-size: .9em;
+    line-height: 1.6em;
+    margin: 60px 0 30px 0;
+    padding: 0;
+}
+.posts .title a {
+    color: #747487;
+    width: 300px;
+    text-decoration: none;
+}
+</style>
+<body>
+    <div class="container">
+        <button class="mobile-toggle" id="mobileToggle">
+            <i class="fas fa-bars"></i>
+        </button>
+        <div class="overlay" id="overlay"></div>
+
+        <!-- Mobile Navigation Drawer -->
+        <nav class="nav-drawer">
+            <div class="nav-drawer-header">
+                <h2>Navigation</h2>
+            </div>
+            <div class="nav-drawer-content">
+                <a href="../index.html" class="tab">
+                    <i class="fas fa-home"></i> Home
+                </a>
+                <a href="resources.html" class="tab">
+                    <i class="fas fa-folder-open"></i> Resources
+                </a>
+                <a href="research.html" class="tab">
+                    <i class="fas fa-flask"></i> Research
+                </a>
+                <a href="bio.html" class="tab">
+                    <i class="fas fa-user-graduate"></i> Bio
+                </a>
+                <a href="blog.html" class="tab active">
+                    <i class="fas fa-blog"></i> Blog
+                </a>
+                <a href="photography.html" class="tab">
+                    <i class="fas fa-camera"></i> Photography
+                </a>
+            </div>
+        </nav>
+
+        <main class="main-content" id="mainContent">
+            <div class="nav-tabs-container">
+                <div class="nav-tabs">
+                    <a href="../index.html" class="tab">
+                        <i class="fas fa-home"></i> Home
+                    </a>
+                    <a href="resources.html" class="tab">
+                        <i class="fas fa-folder-open"></i> Resources
+                    </a>
+                    <a href="research.html" class="tab">
+                        <i class="fas fa-flask"></i> Research
+                    </a>
+                    <a href="bio.html" class="tab">
+                        <i class="fas fa-user-graduate"></i> Bio
+                    </a>
+                    <a href="blog.html" class="tab active">
+                        <i class="fas fa-blog"></i> Blog
+                    </a>
+                    <a href="photography.html" class="tab">
+                        <i class="fas fa-camera"></i> Photography
+                    </a>
+                </div>
+            </div>
+                <div class="content-text">
+                    <p>Articles on Electronics, Signal Processing, and academic
+                         research. Sharing knowledge and insights from my 
+                         teaching and research experience.</p>
+                </div>
+                
+            <div class="posts">
+                <div class="post">
+                    <div class="date">
+                        <span class="day">10</span>
+                        <span class="year">Feb 2026</span>
+                    </div>
+                    <div class="body">
+                        <h4 class="title" style="font-size: 1.2em;">
+                            <a href="https://iparaj.github.io/research/">                             
+                            Speculation in US markets makes Indian markets look sane
+                            </a>
+                        </h4>
+                        <span class="domain" style="font-size: 1.1em;">x.com</span>
+                        <div class="description" style="font-size: 1.05em;">We have the talent...
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="posts">
+                <div class="post">
+                    <div class="date">
+                        <span class="day">09</span>
+                        <span class="year">Feb 2026</span>
+                    </div>
+                     <div class="body">
+                        <h4 class="title" style="font-size: 1.2em;">
+                            <a href="https://iparaj.github.io/research/">                             
+                            Speculation in US markets makes Indian markets look sane
+                            </a>
+                        </h4>
+                        <span class="domain" style="font-size: 1.1em;">x.com</span>
+                        <div class="description" style="font-size: 1.05em;">We have the talent...
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="posts">
+                <div class="post">
+                    <div class="date">
+                        <span class="day">08</span>
+                        <span class="year">Feb 2026</span>
+                    </div>
+                      <div class="body">
+                        <h4 class="title" style="font-size: 1.2em;">
+                            <a href="https://iparaj.github.io/research/">                             
+                            Speculation in US markets makes Indian markets look sane
+                            </a>
+                        </h4>
+                        <span class="domain" style="font-size: 1.1em;">x.com</span>
+                        <div class="description" style="font-size: 1.05em;">We have the talent...
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="posts">
+                <div class="post">
+                    <div class="date">
+                        <span class="day">07</span>
+                        <span class="year">Feb 2026</span>
+                    </div>
+                      <div class="body">
+                        <h4 class="title" style="font-size: 1.2em;">
+                            <a href="https://iparaj.github.io/research/">                             
+                            Speculation in US markets makes Indian markets look sane
+                            </a>
+                        </h4>
+                        <span class="domain" style="font-size: 1.1em;">x.com</span>
+                        <div class="description" style="font-size: 1.05em;">We have the talent...
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <button class="back-to-top" id="backToTop">
+                <i class="fas fa-arrow-up"></i>
+            </button>
+        </main>
+    </div>
+    
+    <div id="footer-container"></div>
+    
+    <script src="script.js"></script>
+    <script>
+        fetch('footer.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('footer-container').innerHTML = data;
+            });
+    </script>
+</body>
+</html>

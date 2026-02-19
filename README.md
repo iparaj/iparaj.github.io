@@ -1,74 +1,208 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+# Dr. Paraj - Academic & Research Portfolio
 
-![Academic Pages template example](images/homepage.png "Academic Pages template example")
+## Overview
 
-# Getting Started
+This repository contains the source code for a professional academic portfolio and research website for Dr. Paraj, Associate Professor at the Department of Electronics & Electrical Engineering (EEE) at IIT Guwahati. The website serves as a comprehensive digital presence showcasing academic achievements, research contributions, publications, teaching endeavors, and creative work.
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+## Project Description
 
-See more info at https://academicpages.github.io/
+The website is a modern, responsive single-page application (SPA) designed to present:
 
-## Running locally
+- **Academic Profile**: Comprehensive overview of professional background and expertise in Signal Processing, Communication Systems, and Embedded Electronics
+- **Research Publications**: Peer-reviewed journal articles and conference proceedings
+- **Presentations & Talks**: Professional presentations and speaking engagements
+- **Teaching Materials**: Courses and educational resources
+- **Research Projects**: Detailed project portfolios and case studies
+- **Academic CV**: Complete curriculum vitae and professional credentials
+- **Technical Blog**: Research insights and technical discussions
+- **Photography Portfolio**: Professional photography collection
 
-When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
+## Key Features
 
-1. Clone the repository and made updates as detailed above.
-1. Make sure you have ruby-dev, bundler, and nodejs installed
-    
-    On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
-    ```bash
-    sudo apt install ruby-dev ruby-bundler nodejs
-    ```
-    On MacOS the commands are:
-    ```bash
-    brew install ruby
-    brew install node
-    gem install bundler
-    ```
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+**Responsive Design**
+- Mobile-friendly interface with adaptive layout
+- Dedicated mobile navigation menu with toggle functionality
+- Optimized for desktop, tablet, and smartphone viewing
 
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
+**Multi-Section Organization**
+- Eight distinct content sections accessible via tabbed navigation
+- Smooth navigation with hash-based URL routing
+- Dynamic section loading with scroll-to-top functionality
 
-## Using Docker
+**Professional Styling**
+- Modern CSS-based responsive design
+- Custom typography with Google Fonts integration
+- Font Awesome icon integration for visual enhancement
+- Professional color scheme and layout
 
-Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
+**External Integration**
+- Social media profile links (LinkedIn, GitHub, ResearchGate, etc.)
+- Academic network profiles (Google Scholar, ORCID, IEEE Xplore)
+- Contact information and affiliation details
 
-You can build and execute the container by running the following command in the repository:
+## Project Structure
 
-```bash
-docker compose up
 ```
 
-You should now be able to access the website from `localhost:4000`.
+├── index.html                  # Main HTML entry point
+├── script.js                   # JavaScript functionality and interactivity
+├── style.css                   # Main stylesheet
+├── README.md                   # Project documentation
+├── album/                      # Photography portfolio
+│   ├── photo-1.html through photo-6.html
+│   ├── script.js              # Photo gallery functionality
+│   └── style.css              # Gallery styling
+├── images/                     # Image assets
+│   └── paraj.jpeg             # Profile photograph
+├── icon/                       # Social media icons
+│   ├── linkedin.png
+│   ├── facebook.png
+│   ├── github.png
+│   ├── instagram.webp
+│   └── x.webp
+├── documentations/             # Additional documentation and resources
+└── .git/                       # Git version control
 
-# Maintenance
+```
 
-Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
+## Technology Stack
 
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
+- **Frontend Framework**: HTML5, CSS3, Vanilla JavaScript (ES6+)
+- **Icons & Typography**: Font Awesome 6.4.0, Google Fonts (Inter, Source Serif Pro)
+- **Responsive Design**: CSS Media Queries and Flexbox
+- **Version Control**: Git
 
-## Bugfixes and enhancements
+## Getting Started
 
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
+### Prerequisites
 
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
+- A modern web browser (Chrome, Firefox, Safari, Edge)
+- Web server for local development (recommended for full functionality)
+
+### Installation
+
+1. **Clone the Repository**
+   ```bash
+   git clone <repository-url>
+   cd Drone
+   ```
+
+
+2. **Access the Website**
+   
+   Open your browser and navigate to `http://localhost:8000`
+
+## Usage
+
+### Navigation
+
+1. **Tab Navigation**: Click on any tab in the navigation bar to switch between sections
+2. **Mobile Menu**: On mobile devices, click the hamburger menu to access the sidebar
+3. **Direct Linking**: Use hash URLs to link directly to sections (e.g., `#publications`, `#research`)
+4. **Social Links**: Access external profiles via sidebar social media links
+
+### Content Sections
+
+| Section | Purpose |
+|---------|---------|
+| **Publications** | Display of peer-reviewed research papers and journal articles |
+| **Talks** | Conference presentations, seminars, and public speaking engagements |
+| **Teaching** | Course materials, syllabi, and educational resources |
+| **Projects** | Portfolio of research projects and technical implementations |
+| **Research** | Detailed research areas, methodologies, and focus areas |
+| **CV** | Complete curriculum vitae and professional credentials |
+| **Blog** | Technical articles, research insights, and discussions |
+| **Photography** | Professional photography gallery and creative work |
+
+## Features & Functionality
+
+### JavaScript Functionality
+
+- **Tab Switching**: Dynamically switch between content sections with smooth scrolling
+- **Mobile Menu Toggle**: Responsive hamburger menu for mobile navigation
+- **Hash-based Routing**: URLs update to reflect current section for bookmarking
+- **Overlay Functionality**: Overlay backdrop for mobile menu interaction
+
+### Responsive Breakpoints
+
+The design includes media queries for optimal viewing across:
+- Desktop devices (1024px and above)
+- Tablets (768px to 1023px)
+- Mobile phones (below 768px)
+
+## Customization
+
+### Updating Profile Information
+
+Edit the following in `index.html`:
+- Profile image path in `profile-img src`
+- Name and title in the profile section
+- Bio and professional description
+- Contact information and academic identifiers
+- Social media links and ORCID number
+
+### Adding Content
+
+To add new publications, talks, or other content:
+1. Navigate to the corresponding section in `index.html`
+2. Follow the existing HTML structure
+3. Test the layout responsiveness
+
+### Styling Modifications
+
+- Edit `style.css` for global style changes
+- Modify CSS variables for color scheme customization
+- Update Font Awesome class names for different icons
+
+## Browser Compatibility
+
+- Chrome (latest 2 versions)
+- Firefox (latest 2 versions)
+- Safari (latest 2 versions)
+- Edge (latest 2 versions)
+- Mobile browsers (iOS Safari, Chrome Mobile)
+
+## Performance Considerations
+
+- Static file delivery optimized for fast loading
+- Minimal JavaScript dependencies for reduced load time
+- External CDN usage for icon and font libraries
+- Responsive images for various display sizes
+
+## Best Practices
+
+- Validate HTML structure before updates
+- Test responsiveness across multiple device sizes
+- Ensure all external links are functional
+- Maintain consistent styling and typography
+- Keep social media and contact information current
+
+## Contributing
+
+This is a personal academic portfolio. For suggestions or technical improvements, please contact the author directly.
+
+## License
+
+© 2026 Dr. Paraj. All rights reserved.
+
+Department of Electronics & Electrical Engineering • IIT Guwahati
+
+## Contact Information
+
+- **Email**: paraj@iitg.ac.in
+- **Affiliation**: Associate Professor, Department of EEE, IIT Guwahati
+- **ORCID**: xxxx-xxxx-xxxx-xxxx
+- **GitHub**: [iparaj](https://github.com/iparaj)
+
+## Additional Resources
+
+- [IIT Guwahati Department of EEE](https://www.iitg.ac.in/)
+- [IEEE Xplore](https://ieeexplore.ieee.org/)
+- [Google Scholar](https://scholar.google.com/)
+- [ResearchGate](https://www.researchgate.net/)
 
 ---
-<div align="center">
-    
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
-[![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
-[![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
 
-[![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
-</div>
+**Last Updated**: February 2026
+
+For the latest version of this website, visit the live deployment or clone this repository.

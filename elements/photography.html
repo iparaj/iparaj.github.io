@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photography | Dr. Paraj</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Source+Serif+Pro:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="mobile.css">
+</head>
+<style>
+    .highlight-box {
+    background: white;
+    border-radius: var(--border-radius);
+    padding: 35px;
+    margin: 35px 0;
+    box-shadow: var(--box-shadow);
+    transition: var(--transition);
+}
+@media (max-width: 600px) {
+    .highlight-box {
+        padding: 16px;
+        margin: 16px 0;
+        font-size: 1rem;
+    }
+    .highlight-box h3.section-subtitle {
+        font-size: 1.1rem;
+        margin-bottom: 10px;
+    }
+    .highlight-box p {
+        font-size: 0.95rem;
+        line-height: 1.5;
+    }
+    .highlight-box .social-links img {
+        width: 24px;
+        height: 24px;
+    }
+}
+</style>
+<body>
+    <div class="container">
+        <button class="mobile-toggle" id="mobileToggle">
+            <i class="fas fa-bars"></i>
+        </button>
+        <div class="overlay" id="overlay"></div>
+
+        <!-- Mobile Navigation Drawer -->
+        <nav class="nav-drawer">
+            <div class="nav-drawer-header">
+                <h2>Navigation</h2>
+            </div>
+            <div class="nav-drawer-content">
+                <a href="../index.html" class="tab">
+                    <i class="fas fa-home"></i> Home
+                </a>
+                <a href="resources.html" class="tab">
+                    <i class="fas fa-folder-open"></i> Resources
+                </a>
+                <a href="research.html" class="tab">
+                    <i class="fas fa-flask"></i> Research
+                </a>
+                <a href="bio.html" class="tab">
+                    <i class="fas fa-user-graduate"></i> Bio
+                </a>
+                <a href="blog.html" class="tab">
+                    <i class="fas fa-blog"></i> Blog
+                </a>
+                <a href="photography.html" class="tab active">
+                    <i class="fas fa-camera"></i> Photography
+                </a>
+            </div>
+        </nav>
+
+        <main class="main-content" id="mainContent">
+            <div class="nav-tabs-container">
+                <div class="nav-tabs">
+                    <a href="../index.html" class="tab">
+                        <i class="fas fa-home"></i> Home
+                    </a>
+                    <a href="resources.html" class="tab">
+                        <i class="fas fa-folder-open"></i> Resources
+                    </a>
+                    <a href="research.html" class="tab">
+                        <i class="fas fa-flask"></i> Research
+                    </a>
+                    <a href="bio.html" class="tab">
+                        <i class="fas fa-user-graduate"></i> Bio
+                    </a>
+                    <a href="blog.html" class="tab">
+                        <i class="fas fa-blog"></i> Blog
+                    </a>
+                    <a href="photography.html" class="tab active">
+                        <i class="fas fa-camera"></i> Photography
+                    </a>
+                </div>
+            </div>
+
+            <section id="photography" class="content-section active">
+
+                <div class="photo-filter-tabs">
+                    <button class="photo-filter active" data-filter="all">All Photos</button>
+                    <button class="photo-filter" data-filter="nature">Nature</button>
+                    <button class="photo-filter" data-filter="urban">Urban</button>
+                    <button class="photo-filter" data-filter="people">People</button>
+                    <button class="photo-filter" data-filter="travel">Travel</button>
+                    <button class="photo-filter" data-filter="abstract">Abstract</button>
+                    <button class="photo-filter"><a href="./year.html">Year</a></button>
+                </div>
+
+                <div class="photo-grid">
+                    <div class="photo-item" data-category="nature">
+                        <div class="photo-img">
+                            <a href="../album/photo-1.html" style="width:100%;height:100%;display:flex;align-items:center;justify-content:center;text-decoration:none;">
+                                <img src="https://images.pexels.com/photos/417173/pexels-photo-417173.jpeg" alt="Mountain Sunrise" style="width:100%;height:100%;object-fit:cover;">
+                            </a>
+                            </div>
+                        <div class="photo-content">
+                            <h4 class="photo-title">Mountain Sunrise</h4>
+                            <div class="photo-date">May 15, 2023 • Himalayas</div>
+                            <span class="photo-category nature"></span>
+                        </div>
+                    </div>
+
+                    <div class="photo-item" data-category="urban">
+                        <div class="photo-img">
+                           <a href="../album/photo-2.html" style="width:100%;height:100%;display:flex;align-items:center;justify-content:center;text-decoration:none;">
+                                <img src="https://images.pexels.com/photos/460672/pexels-photo-460672.jpeg" alt="City Skyline" style="width:100%;height:100%;object-fit:cover;">
+                            </a>
+                        </div>
+                        <div class="photo-content">
+                            <h4 class="photo-title">City Skyline</h4>
+                            <div class="photo-date">June 20, 2023 • Mumbai</div>
+                            <span class="photo-category urban"></span>
+                        </div>
+                    </div>
+
+                    <div class="photo-item" data-category="nature">
+                        <div class="photo-img">
+                           <a href="../album/photo-3.html" style="width:100%;height:100%;display:flex;align-items:center;justify-content:center;text-decoration:none;">
+                                <img src="https://images.pexels.com/photos/34950/pexels-photo.jpg" alt="Forest Path" style="width:100%;height:100%;object-fit:cover;">
+                            </a>
+                        </div>
+                        <div class="photo-content">
+                            <h4 class="photo-title">Forest Path</h4>
+                            <div class="photo-date">July 10, 2023 • Assam</div>
+                            <span class="photo-category nature"></span>
+                        </div>
+                    </div>
+
+                    <div class="photo-item" data-category="people">
+                        <div class="photo-img">
+                            <a href="../album/photo-4.html" style="width:100%;height:100%;display:flex;align-items:center;justify-content:center;text-decoration:none;">
+                                <img src="https://images.pexels.com/photos/1080882/pexels-photo-1080882.jpeg" alt="Family Picnic" style="width:100%;height:100%;object-fit:cover;">
+                            </a>
+                        </div>
+                        <div class="photo-content">
+                            <h4 class="photo-title">Family Picnic</h4>
+                            <div class="photo-date">August 5, 2023 • Kaziranga</div>
+                            <span class="photo-category people"></span>
+                        </div>
+                    </div>
+
+                    <div class="photo-item" data-category="travel">
+                        <div class="photo-img">
+                            <a href="../album/photo-5.html" style="width:100%;height:100%;display:flex;align-items:center;justify-content:center;text-decoration:none;">
+                                <img src="https://images.pexels.com/photos/210186/pexels-photo-210186.jpeg" alt="Mountain Trail" style="width:100%;height:100%;object-fit:cover;">
+                            </a>
+                        </div>
+                        <div class="photo-content">
+                            <h4 class="photo-title">Mountain Trail</h4>
+                            <div class="photo-date">September 18, 2023 • Sikkim</div>
+                            <span class="photo-category travel"></span>
+                        </div>
+                    </div>
+
+                    <div class="photo-item" data-category="abstract">
+                        <div class="photo-img">
+                            <a href="../album/photo-6.html" style="width:100%;height:100%;display:flex;align-items:center;justify-content:center;text-decoration:none;">
+                                <img src="https://images.pexels.com/photos/773471/pexels-photo-773471.jpeg" alt="Urban Geometry" style="width:100%;height:100%;object-fit:cover;">
+                            </a>
+                        </div>
+                        <div class="photo-content">
+                            <h4 class="photo-title">Urban Geometry</h4>
+                            <div class="photo-date">October 22, 2023 • Delhi</div>
+                            <span class="photo-category abstract"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="highlight-box">
+                    <h3 class="section-subtitle">About My Photography</h3>
+                    <p>Photography allows me to explore creativity beyond circuits and signals. I primarily shoot landscapes, urban scenes, and travel photography using both digital and film cameras. Each photo tells a story beyond what the eye can see.</p>
+                <div class="social-links">
+              <a href="https://github.com/iparaj" title="GitHub"><img src="../icon/instagram.webp" alt="GitHub logo" style="width: 30px; height: 30px; margin-top: 10px;"></a>
+                </div>
+                </div>
+            </section>
+
+            <button class="back-to-top" id="backToTop">
+                <i class="fas fa-arrow-up"></i>
+            </button>
+        </main>
+    </div>
+    
+    <div id="footer-container"></div>
+    
+    <script src="script.js"></script>
+    <script>
+        fetch('footer.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('footer-container').innerHTML = data;
+            });
+    </script>
+</body>
+</html>

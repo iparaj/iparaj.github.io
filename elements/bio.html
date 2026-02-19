@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculum Vitae | Dr. Paraj</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Source+Serif+Pro:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="mobile.css">
+</head>
+<body>
+    <div class="container">
+        <button class="mobile-toggle" id="mobileToggle">
+            <i class="fas fa-bars"></i>
+        </button>
+        <div class="overlay" id="overlay"></div>
+
+        <!-- Mobile Navigation Drawer -->
+        <nav class="nav-drawer">
+            <div class="nav-drawer-header">
+                <h2>Navigation</h2>
+            </div>
+            <div class="nav-drawer-content">
+                <a href="../index.html" class="tab">
+                    <i class="fas fa-home"></i> Home
+                </a>
+                <a href="resources.html" class="tab">
+                    <i class="fas fa-folder-open"></i> Resources
+                </a>
+                <a href="research.html" class="tab">
+                    <i class="fas fa-flask"></i> Research
+                </a>
+                <a href="bio.html" class="tab active">
+                    <i class="fas fa-user-graduate"></i> Bio
+                </a>
+                <a href="blog.html" class="tab">
+                    <i class="fas fa-blog"></i> Blog
+                </a>
+                <a href="photography.html" class="tab">
+                    <i class="fas fa-camera"></i> Photography
+                </a>
+            </div>
+        </nav>
+
+        <main class="main-content" id="mainContent">
+            <div class="nav-tabs-container">
+                <div class="nav-tabs">
+                    <a href="../index.html" class="tab">
+                        <i class="fas fa-home"></i> Home
+                    </a>
+                    <a href="resources.html" class="tab">
+                        <i class="fas fa-folder-open"></i> Resources
+                    </a>
+                    <a href="research.html" class="tab">
+                        <i class="fas fa-flask"></i> Research
+                    </a>
+                    <a href="bio.html" class="tab active">
+                        <i class="fas fa-user-graduate"></i> Bio
+                    </a>
+                    <a href="blog.html" class="tab">
+                        <i class="fas fa-blog"></i> Blog
+                    </a>
+                    <a href="photography.html" class="tab">
+                        <i class="fas fa-camera"></i> Photography
+                    </a>
+                </div>
+            </div>
+
+            <section id="cv" class="content-section active">
+                
+                <div class="cv-section">
+                    <h3 class="cv-section-title">Education</h3>
+                    <div class="cv-timeline">
+                        <div class="cv-item">
+                            <div class="cv-item-date">2022-2027</div>
+                            <div class="cv-item-title">PhD in Electronics & Communication</div>
+                            <div class="cv-item-subtitle">IIT Guwahati</div>
+                            <p>Dissertation: "Advanced Signal Processing Techniques for Wireless Communication Systems"</p>
+                        </div>
+                        
+                        <div class="cv-item">
+                            <div class="cv-item-date">2018-2022</div>
+                            <div class="cv-item-title">BTech in Electronics & Communication</div>
+                            <div class="cv-item-subtitle">NIT Trichy</div>
+                            <p>Specialization in Communication Systems • CGPA: 9.2/10</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="cv-section">
+                    <h3 class="cv-section-title">Academic Appointments</h3>
+                    <div class="cv-timeline">
+                        <div class="cv-item">
+                            <div class="cv-item-date">2025-Present</div>
+                            <div class="cv-item-title">Associate Professor</div>
+                            <div class="cv-item-subtitle">Department of EEE, IIT Guwahati</div>
+                        </div>
+                        
+                        <div class="cv-item">
+                            <div class="cv-item-date">2023-2025</div>
+                            <div class="cv-item-title">Assistant Professor</div>
+                            <div class="cv-item-subtitle">Department of EEE, IIT Guwahati</div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="cv-section">
+                    <h3 class="cv-section-title">Technical Skills</h3>
+                    <div class="skills-container">
+                        <div class="skill-category">
+                            <h4>Hardware Design</h4>
+                            <ul class="skill-list">
+                                <li>
+                                    <span class="skill-name">Verilog/VHDL</span>
+                                    <div class="skill-level"><div class="skill-level-bar" style="width: 95%"></div></div>
+                                </li>
+                                <li>
+                                    <span class="skill-name">FPGA Design</span>
+                                    <div class="skill-level"><div class="skill-level-bar" style="width: 90%"></div></div>
+                                </li>
+                                <li>
+                                    <span class="skill-name">PCB Design</span>
+                                    <div class="skill-level"><div class="skill-level-bar" style="width: 85%"></div></div>
+                                </li>
+                                <li>
+                                    <span class="skill-name">Embedded C</span>
+                                    <div class="skill-level"><div class="skill-level-bar" style="width: 88%"></div></div>
+                                </li>
+                            </ul>
+                        </div>
+                        
+                        <div class="skill-category">
+                            <h4>Software & Simulation</h4>
+                            <ul class="skill-list">
+                                <li>
+                                    <span class="skill-name">MATLAB/Simulink</span>
+                                    <div class="skill-level"><div class="skill-level-bar" style="width: 95%"></div></div>
+                                </li>
+                                <li>
+                                    <span class="skill-name">Python</span>
+                                    <div class="skill-level"><div class="skill-level-bar" style="width: 85%"></div></div>
+                                </li>
+                                <li>
+                                    <span class="skill-name">CAD Tools</span>
+                                    <div class="skill-level"><div class="skill-level-bar" style="width: 80%"></div></div>
+                                </li>
+                                <li>
+                                    <span class="skill-name">DSP Libraries</span>
+                                    <div class="skill-level"><div class="skill-level-bar" style="width: 90%"></div></div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <button class="back-to-top" id="backToTop">
+                <i class="fas fa-arrow-up"></i>
+            </button>
+        </main>
+    </div>
+    
+    <div id="footer-container"></div>
+    
+    <script src="script.js"></script>
+    <script>
+        fetch('footer.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('footer-container').innerHTML = data;
+            });
+    </script>
+</body>
+</html>

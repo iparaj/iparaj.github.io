@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photography | Dr. Paraj</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Source+Serif+Pro:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<style>
+    .highlight-box {
+    background: white;
+    border-radius: var(--border-radius);
+    padding: 35px;
+    margin: 35px 0;
+    box-shadow: var(--box-shadow);
+    transition: var(--transition);
+}
+</style>
+<body>
+    <div class="container">
+        <button class="mobile-toggle" id="mobileToggle">
+            <i class="fas fa-bars"></i>
+        </button>
+        <div class="overlay" id="overlay"></div>
+
+        <main class="main-content" id="mainContent">
+            <div class="nav-tabs-container">
+                <div class="nav-tabs">
+                    <a href="../index.html" class="tab">
+                        <i class="fas fa-home"></i> Home
+                    </a>
+                    <a href="resources.html" class="tab">
+                        <i class="fas fa-folder-open"></i> Resources
+                    </a>
+                    <a href="research.html" class="tab">
+                        <i class="fas fa-flask"></i> Research
+                    </a>
+                    <a href="bio.html" class="tab">
+                        <i class="fas fa-user-graduate"></i> Bio
+                    </a>
+                    <a href="blog.html" class="tab">
+                        <i class="fas fa-blog"></i> Blog
+                    </a>
+                    <a href="photography.html" class="tab active">
+                        <i class="fas fa-camera"></i> Photography
+                    </a>
+                </div>
+            </div>
+
+            <section id="photography" class="content-section active">
+
+                <div class="photo-filter-tabs">
+                    <button class="photo-filter"><a href="photography.html">Back</a></button>
+                    <button class="photo-filter active" data-filter="year">Year</button>
+                </div>
+
+                <div class="" data-category="year">
+                      <div class="photo-content">
+                            <h4 class="photo-title">2026</h4>
+                            <a class="photo-date protected-link" data-url="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLHqIyb-RAW5XY3eKQ2-OIjcVPw1riWCeWSw&s">October 22, • Guwahati</a>
+                            <h4 class="photo-title">2025</h4>
+                            <a class="photo-date protected-link" data-url="https://www.adorama.com/alc/wp-content/uploads/2021/04/photography-camera-learning-feature.jpg">October 22, • Guwahati</a>
+                            <h4 class="photo-title">2024</h4>
+                            <a class="photo-date protected-link" data-url="#">October 22, • Delhi</a>
+                            <h4 class="photo-title">2023</h4>
+                            <a class="photo-date protected-link" data-url="#">October 22, • Delhi</a>
+                            <h4 class="photo-title">2022</h4>
+                            <a class="photo-date protected-link" data-url="#">October 22, • Delhi</a>
+                        </div>
+                    </div>
+                
+                <div class="highlight-box">
+                    <h3 class="section-subtitle">About My Photography</h3>
+                    <p>Photography allows me to explore creativity beyond circuits and signals. I primarily shoot landscapes, urban scenes, and travel photography using both digital and film cameras. Each photo tells a story beyond what the eye can see.</p>
+                <div class="social-links">
+              <a href="https://github.com/iparaj" title="GitHub"><img src="../icon/instagram.webp" alt="GitHub logo" style="width: 30px; height: 30px; margin-top: 10px;"></a>
+                </div>
+                </div>
+            </section>
+
+            <button class="back-to-top" id="backToTop">
+                <i class="fas fa-arrow-up"></i>
+            </button>
+
+            <!-- Password Modal -->
+            <div id="passwordModal" class="password-modal">
+                <div class="password-modal-content">
+                    <h2>Password Protected Content</h2>
+                    <p>This photo requires a password to view.</p>
+                    <input type="password" id="passwordInput" placeholder="Enter password" />
+                    <button id="submitPassword">View Photo</button>
+                    <button id="cancelPassword">Cancel</button>
+                </div>
+            </div>
+        </main>
+    </div>
+    
+    <div id="footer-container"></div>
+    
+    <script src="script.js"></script>
+    <script src="photo-password.js"></script>
+    <script>
+        fetch('footer.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('footer-container').innerHTML = data;
+            });
+    </script>
+</body>
+</html>
