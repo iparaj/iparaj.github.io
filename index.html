@@ -11,8 +11,30 @@
     <link rel="stylesheet" href="./mobile.css">
     <link rel="stylesheet" href="./elements/mobile.css">
     <link rel="stylesheet" href="./elements/mobile-home.css">
+
+    <!-- Alignment Fix -->
+    <style>
+        .news-item {
+            display: flex;
+            align-items: flex-start;
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+
+        .news-date {
+            min-width: 130px;
+        }
+
+        .news-content {
+            flex: 1;
+        }
+
+        .news-description {
+            margin: 0;
+        }
+    </style>
 </head>
-</head>
+
 <body>
     <div class="container">
         <button class="mobile-toggle" id="mobileToggle">
@@ -29,9 +51,6 @@
                 <a href="index.html" class="tab">
                     <i class="fas fa-home"></i> Home
                 </a>
-                <a href="./elements/resources.html" class="tab">
-                    <i class="fas fa-folder-open"></i> Resources
-                </a>
                 <a href="./elements/research.html" class="tab">
                     <i class="fas fa-flask"></i> Research
                 </a>
@@ -40,6 +59,9 @@
                 </a>
                 <a href="./elements/blog.html" class="tab">
                     <i class="fas fa-blog"></i> Blog
+                </a>
+                <a href="./elements/resources.html" class="tab">
+                    <i class="fas fa-folder-open"></i> Resources
                 </a>
                 <a href="./elements/photography.html" class="tab">
                     <i class="fas fa-camera"></i> Photography
@@ -53,9 +75,6 @@
                     <a href="index.html" class="tab active">
                         <i class="fas fa-home"></i> Home
                     </a>
-                    <a href="./elements/resources.html" class="tab">
-                        <i class="fas fa-folder-open"></i> Resources
-                    </a>
                     <a href="./elements/research.html" class="tab">
                         <i class="fas fa-flask"></i> Research
                     </a>
@@ -64,6 +83,9 @@
                     </a>
                     <a href="./elements/blog.html" class="tab">
                         <i class="fas fa-blog"></i> Blog
+                    </a>
+                    <a href="./elements/resources.html" class="tab">
+                        <i class="fas fa-folder-open"></i> Resources
                     </a>
                     <a href="./elements/photography.html" class="tab">
                         <i class="fas fa-camera"></i> Photography
@@ -79,19 +101,19 @@
                         <div class="hero-details">
                             <div class="hero-institution">
                                 <span>
-                                   I’m a PhD candidate at Indian Institute of
+                                   I’m a PhD candidate (Prime Minister's Research Fellow) at Indian Institute of
                                     Technology Guwahati, India, working towards improving energy efficiency in
-                                    Unmanned Aerial Vehicles. Apart from that, I have deep interests in Aviation, Finance, and Technology.
-                                     
-                                </div>
-                                <div class="hero-institution">
-                                <span>
-                                   
-                                </div>
+                                    Unmanned Aerial Vehicles (Drones). Apart from that, I have deep interests in Aviation, Finance, and Technology.
+                                </span>
+                            </div>
+                            <div class="hero-institution">
+                                <span></span>
+                            </div>
                         </div>
                     </div>
                     <div class="hero-image">
-                        <img src="./images/paraj.jpeg" alt="Research Lab"></div>
+                        <img src="./images/paraj.jpeg" alt="Research Lab">
+                    </div>
                 </div>
 
                 <div class="hero-divider">
@@ -109,78 +131,52 @@
                     <div class="news-section">
                         <h2 class="section-title">News</h2>
                         <div class="news-timeline">
+
                             <div class="news-item">
                                 <div class="news-date">
                                     <span class="news-day">05 Feb 2026</span>
                                 </div>
                                 <div class="news-content">
-                                    <p class="news-description"><a href="https://iparaj.github.io/album/photo-6.html">Presented my PhD Synopsis Seminar at IIT Guwahati</a></p>
-                                    
+                                    <p class="news-description">
+                                        <a href="https://drive.google.com/file/d/16lwW60rCqDQLPjQYVskhgiNwUVoyYh64/view?usp=share_link"
+                                           target="_blank"
+                                           rel="noopener noreferrer">
+                                           Presented my PhD Synopsis Seminar at IIT Guwahati
+                                        </a>
+                                    </p>
                                 </div>
                             </div>
                             
                             <div class="news-item highlight">
                                 <div class="news-date">
-                                    <span class="news-day">01 Jun 2025</span>
+                                    <span class="news-day">19 Dec 2025</span>
                                 </div>
                                 <div class="news-content">
-                                   <p class="news-description">Received the best paper award for the year 2024 from IEEE RAS TC on Model-Based Optimization.</p>
+                                    <p class="news-description">
+                                        <a href="https://drive.google.com/file/d/1EI5yBBLObBCcHaJy0m7UvNJSU000kqWB/view?usp=share_link"
+                                           target="_blank"
+                                           rel="noopener noreferrer">
+                                           Received a best presentation award at RAAI 2025, Singapore
+                                        </a>
+                                    </p>
                                 </div>
                             </div>
-                            
+
                             <div class="news-item">
                                 <div class="news-date">
-                                    <span class="news-day">01 Jun 2025</span>
-
+                                    <span class="news-day">20 Nov 2025</span>
                                 </div>
                                 <div class="news-content">
-                                    <p class="news-description">Received the best paper award for the year 2024 from IEEE RAS TC on Model-Based Optimization.</p>
+                                    <p class="news-description">
+                                        <a href="https://www.sciencedirect.com/science/article/pii/S1270963825013367"
+                                           target="_blank"
+                                           rel="noopener noreferrer">
+                                           Paper "Mission specific PID tuning for energy-efficieent quadrotor flights" co-authored with Dr. Chayan Bhawal published in Aerospace Science and Technology
+                                        </a>
+                                    </p>
                                 </div>
                             </div>
-                        </div>
-                    </div>
 
-                    <!-- Selected Publications Section -->
-                    <div class="publications-section">
-                        <h2 class="section-title">Selected Publications</h2>
-                        
-                        <div class="publication-item">
-                            <h3 class="pub-title">Matrix-Free Delassus Operations: Scalable and Memory-Efficient Algorithms</h3>
-                            <p class="pub-authors"><a href="#">Ajay Suresha Sathya</a>, <a href="#">Louis Montaut</a>, <a href="#">Yann Mont-Marin</a>, and <a href="#">Justin Carpentier</a></p>
-                            <p class="pub-year">2026</p>
-                            <div class="pub-links">
-                                <a href="./documentations/UAV-report.pdf" class="pub-button">PDF</a>
-                            </div>
-                        </div>
-
-                        <div class="publication-item">
-                            <h3 class="pub-title">Constrained Articulated Body Dynamics Algorithms for Closed-Loop Mechanisms</h3>
-                            <p class="pub-authors"><a href="#">Ajay Suresha Sathya</a>, and <a href="#">Justin Carpentier</a></p>
-                            <p class="pub-venue"><em>IEEE Transactions on Robotics</em>, 2026</p>
-                            <div class="pub-links">
-                                <a href="#" class="pub-button">DOI</a>
-                                <a href="#" class="pub-button">PDF</a>
-                            </div>
-                        </div>
-
-                        <div class="publication-item">
-                            <h3 class="pub-title">Constrained Articulated Body Dynamics Algorithms</h3>
-                            <p class="pub-authors"><a href="#">Ajay Suresha Sathya</a>, and <a href="#">Justin Carpentier</a></p>
-                            <p class="pub-venue"><em>IEEE Transactions on Robotics</em>, 2025</p>
-                            <div class="pub-links">
-                                <a href="#" class="pub-button">DOI</a>
-                                <a href="#" class="pub-button">PDF</a>
-                            </div>
-                        </div>
-
-                        <div class="publication-item">
-                            <h3 class="pub-title">Efficient Constrained Dynamics Algorithms Based on an Equivalent LQR Formulation Using Gauss' Principle of Least Constraint</h3>
-                            <p class="pub-authors"><a href="#">Ajay Suresha Sathya</a>, <a href="#">Herman Bruyninckx</a>, <a href="#">Wilm Decré</a>, and <a href="#">Goele Pipeleers</a></p>
-                            <p class="pub-venue"><em>IEEE Transactions on Robotics</em>, 2024</p>
-                            <div class="pub-links">
-                                <a href="#" class="pub-button">DOI</a>
-                                <a href="#" class="pub-button">PDF</a>
-                            </div>
                         </div>
                     </div>
 
@@ -193,11 +189,9 @@
    
     <div id="footer-container"></div>
 
-    
     <script src="./elements/script.js"></script>
 
     <script>
-         // Load footer dynamically if footer-container exists
     const footerContainer = document.getElementById('footer-container');
     if (footerContainer) {
         fetch('./elements/footer.html')

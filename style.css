@@ -310,9 +310,12 @@
         }
 
         .content-text {
-            line-height: 1.7;
+            line-height: 1.75;
             margin-bottom: 25px;
             font-size: 1.05rem;
+            text-align: justify;
+            text-justify: inter-word;
+            max-width: 850px;
         }
 
         .content-text p {
@@ -1019,3 +1022,10 @@
         .power-icon {
             color: #e53e3e;
         }
+
+.hero-institution {
+    text-align: justify;
+    text-justify: inter-word;
+    line-height: 1.7;
+    max-width: 800px;
+}

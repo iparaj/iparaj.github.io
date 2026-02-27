@@ -251,7 +251,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 footerContainer.innerHTML = `
                     <footer class="site-footer">
                         <div class="footer-bottom">
-                            <p>© 2025 Dr. Paraj | IIT Guwahati. All rights reserved.</p>
+                            <p>© 2026 Paraj Ganchaudhuri. All rights reserved.</p>
                         </div>
                     </footer>
                 `;
