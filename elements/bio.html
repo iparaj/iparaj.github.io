@@ -165,11 +165,22 @@
     
     <script src="script.js"></script>
     <script>
-        fetch('footer.html')
-            .then(response => response.text())
-            .then(data => {
-                document.getElementById('footer-container').innerHTML = data;
+    const footerContainer = document.getElementById('footer-container');
+    if (footerContainer) {
+        fetch('./elements/footer.html')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Footer not found');
+                }
+                return response.text();
+            })
+            .then(html => {
+                footerContainer.innerHTML = html;
+            })
+            .catch(error => {
+                console.error('Error loading footer:', error);
             });
+    }
     </script>
 </body>
 </html>

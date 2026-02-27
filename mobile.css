@@ -454,3 +454,32 @@
         gap: 30px;
     }
 }
+/* ===== CLEAN SOCIAL ICON STYLE ===== */
+
+.hero-social-links {
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+    margin: 35px 0 50px 0;
+}
+
+/* Remove global link styling */
+.hero-social-links a {
+    text-decoration: none;
+    color: inherit;      /* keeps natural icon color */
+}
+
+.hero-social-links a::after {
+    display: none;       /* remove underline animation */
+}
+
+/* Increase icon size */
+.hero-social-links i {
+    font-size: 1.3rem;     /* <-- CHANGE THIS to control size */
+    transition: transform 0.3s ease;
+}
+
+/* Hover animation only */
+.hero-social-links a:hover i {
+    transform: translateY(-6px) scale(1.15);
+}

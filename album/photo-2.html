@@ -7,26 +7,30 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="mobile.css">
-</head>
 <style>
 /* HERO SECTION */
 .hero {
     position: relative;
     width: 100%;
     height: 60vh;
-    background: url("../images/Singapore/sin52.jpg") center/cover no-repeat;
+    background-image: url("../images/Singapore/sin52.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
     border-radius: 16px;
     overflow: hidden;
     margin-bottom: 24px;
 }
 </style>
+</head>
+
 <body>
 <!-- HERO -->
 <div class="container">
     <section class="hero">
         <div class="hero-content">
             <h1>Singapore</h1>
-            <p>December 2025</p>
+            <p>2025</p>
         </div>
     </section>
     
@@ -36,20 +40,13 @@
       data-title="THIS THE TITLE THAT APPEARS IN THE VIEWER"
       
       data-desc="THIS IS THE DESCRIPTION THAT APPEARS IN THE VIEWER"> -->
+
 <img src="../images/Singapore/sin1.jpg" data-title="To be updated" data-desc="">
 <img src="../images/Singapore/sin2.jpg" data-title="To be updated" data-desc="">
 <img src="../images/Singapore/sin3.jpg" data-title="To be updated" data-desc="">
 <img src="../images/Singapore/sin4.jpg" data-title="To be updated" data-desc="">
 <img src="../images/Singapore/sin5.jpg" data-title="To be updated" data-desc="">
-<img src="../images/Singapore/sin6.jpg" data-title="To be updated" data-desc=""> --> 
-<!-- <!-- <img src="../images/Singapore/sin7.mp4" data-title="To be updated" data-desc="">
-<!-- <video class="gallery-video"
-       src="../images/Singapore/sin7.mp4"
-       data-title="To be updated"
-       data-desc=""
-       muted>
-</video> -->
-
+<img src="../images/Singapore/sin6.jpg" data-title="To be updated" data-desc=""> 
 <img src="../images/Singapore/sin8.jpg" data-title="To be updated" data-desc="">
 <img src="../images/Singapore/sin9.jpg" data-title="To be updated" data-desc="">
 <img src="../images/Singapore/sin10.jpg" data-title="To be updated" data-desc="">
@@ -105,10 +102,6 @@
 <img src="../images/Singapore/sin60.jpg" data-title="To be updated" data-desc="">
 <img src="../images/Singapore/sin61.jpg" data-title="To be updated" data-desc="">
 <img src="../images/Singapore/sin62.jpg" data-title="To be updated" data-desc="">
-
-
-
-
     </div>
 </div>
 
@@ -128,11 +121,9 @@
     </div>
     
     <!-- IMAGE -->
-    <!-- <div class="viewer-image">
+    <div class="viewer-image">
         <img id="viewerImg">
-    </div> -->
-    <div class="viewer-image" id="viewerMediaContainer"></div>
-
+    </div>
     
     <!-- ZOOM CONTROLS -->
     <div class="zoom-controls">
@@ -192,8 +183,7 @@
 <div class="overlay" id="overlay"></div>
 
 <script>
-// const images = document.querySelectorAll(".gallery img");
-const images = document.querySelectorAll(".gallery img, .gallery video");
+const images = document.querySelectorAll(".gallery img");
 const viewer = document.getElementById("viewer");
 const viewerImg = document.getElementById("viewerImg");
 const viewerTitle = document.getElementById("viewerTitle");
@@ -463,47 +453,20 @@ viewerImg.addEventListener('wheel', (e) => {
 });
 
 // Original viewer functions
-// function openViewer(index) {
-//     const img = images[index];
-//     viewerImg.src = img.src;
-//     viewerTitle.textContent = img.dataset.title;
-//     viewerDesc.textContent = img.dataset.desc;
-//     viewer.classList.add("active");
-//     currentIndex = index;
-//     zoomLevel = 1;
-//     viewerImg.style.transform = 'scale(1)';
-    
-//     // Reset slideshow timer if active
-//     if (isSlideshowActive) {
-//         startTimer();
-//     }
-// }
-
 function openViewer(index) {
-    const item = images[index];
-    const container = document.getElementById("viewerMediaContainer");
-    container.innerHTML = ""; // clear previous media
-
-    if (item.tagName.toLowerCase() === "img") {
-        const img = document.createElement("img");
-        img.src = item.src;
-        img.style.maxWidth = "100%";
-        img.style.maxHeight = "90vh";
-        container.appendChild(img);
-    } else if (item.tagName.toLowerCase() === "video") {
-        const video = document.createElement("video");
-        video.src = item.src;
-        video.controls = true;
-        video.autoplay = true;
-        video.style.maxWidth = "100%";
-        video.style.maxHeight = "90vh";
-        container.appendChild(video);
-    }
-
-    viewerTitle.textContent = item.dataset.title;
-    viewerDesc.textContent = item.dataset.desc;
+    const img = images[index];
+    viewerImg.src = img.src;
+    viewerTitle.textContent = img.dataset.title;
+    viewerDesc.textContent = img.dataset.desc;
     viewer.classList.add("active");
     currentIndex = index;
+    zoomLevel = 1;
+    viewerImg.style.transform = 'scale(1)';
+    
+    // Reset slideshow timer if active
+    if (isSlideshowActive) {
+        startTimer();
+    }
 }
 
 images.forEach((img, index) => {
@@ -564,3 +527,7 @@ document.addEventListener("keydown", e => {
 </script>
 </body>
 </html>
+
+
+
+

@@ -1,84 +1,84 @@
+/* ============================= */
 /* Homepage Specific Styles */
+/* ============================= */
 
-/* Hero Section */
+
+/* ===== HERO SECTION ===== */
+
 .hero-section {
     display: flex;
-    grid-template-columns: 1fr 1fr;
-    gap: 0px;
-    align-items: center;
+    align-items: flex-start;      /* lift content upward */
+    justify-content: space-between;
+    gap: 50px;
+    margin-top: 10px;            /* pulls hero closer to navbar */
 }
 
 .hero-text {
-    padding-right: 15px;
+    flex: 1;
+    padding-right: 20px;
 }
 
 .hero-title {
-    font-family: 'Myraid Pro', serif;
+    font-family: 'Source Serif Pro', serif;
     font-size: 3rem;
+    margin-top: 75px;
     margin-bottom: 15px;
     line-height: 1.2;
 }
 
 .hero-details {
-    display: grid;
+    display: flex;
     flex-direction: column;
     gap: 15px;
 }
 
-.hero-institution,
-.hero-focus {
-    display: flex;
-    align-items: flex-start;
-    gap: 12px;
+.hero-institution {
+    line-height: 1.7;
     color: var(--dark-gray);
 }
 
-.hero-institution i,
-.hero-focus i {
-    margin-top: 3px;
-    font-size: 1.1rem;
-}
-
 .hero-image {
-    position: relative;
-    box-shadow: 10px 10px 20px  rgba(81, 81, 81, 0.662);
-    height: auto;
-    width: 100%;
-    max-width: 300px;
+    flex-shrink: 0;
+    max-width: 280px;
+    box-shadow: 8px 8px 18px rgba(0,0,0,0.15);
 }
 
 .hero-image img {
     width: 100%;
     height: auto;
+    border-radius: 10px;
     display: block;
-    border-radius: 8px;
 }
 
-.hero-divider {
+
+/* ===== NEWS SECTION ===== */
+
+.news-section {
+    font-size: 0.95em;
+    line-height: 1.6em;
+    margin: -30px 0 0px 0;   /* reduced from 60px */
+}
+
+.news-item {
     display: flex;
-    align-items: center;
-    gap: 20px;
-    margin: 5px 0;
+    padding: 0px 0;
+    border-bottom: 1px solid #eee;
 }
 
-.divider-line {
-    flex: 1;
-    height: 2px;
-    background: linear-gradient(to right, transparent, var(--medium-gray), transparent);
+.news-date {
+    min-width: 130px;
+    margin-right: 40px;
+    color: var(--dark-gray);
+    font-weight: 500;
 }
 
-.divider-text {
-    font-size: 0.95rem;
-    white-space: nowrap;
-    display: flex;
-    align-items: center;
-    margin-left: 650px;
-    gap: 10px;
+.news-description {
+    margin: 0;
 }
 
 
+/* ===== EDUCATION ===== */
 
-/* Education Timeline */
 .education-timeline {
     margin-top: 30px;
     padding-left: 20px;
@@ -93,77 +93,42 @@
     bottom: 0;
     width: 3px;
     background: var(--accent-color);
-    border-radius: 3px;
 }
 
 .education-item {
-    margin-bottom: 30px;
+    margin-bottom: 25px;
     padding-left: 25px;
     position: relative;
-}
-
-.education-item.current {
-    border-left: 3px solid var(--circuit-green);
-    padding-left: 22px;
-    margin-left: -3px;
 }
 
 .edu-icon {
     position: absolute;
     left: -14px;
-    top: 0;
-    width: 30px;
-    height: 30px;
+    top: 3px;
+    width: 28px;
+    height: 28px;
     background: white;
     border: 3px solid var(--accent-color);
     border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: var(--accent-color);
-    z-index: 1;
 }
 
-.education-item.current .edu-icon {
-    background: var(--circuit-green);
-    color: white;
-    border-color: var(--circuit-green);
-}
 
-.edu-content h3 {
-    font-family: 'Myraid Pro', serif;
-    margin-bottom: 5px;
-    font-size: 1.2rem;
-}
+/* ===== INTERESTS ===== */
 
-.edu-institution {
-    color: var(--accent-color);
-    font-weight: 600;
-    margin-bottom: 5px;
-}
-
-.edu-supervisors,
-.edu-team {
-    color: var(--dark-gray);
-    font-size: 0.95rem;
-    margin-bottom: 5px;
-}
-
-/* Research Interests */
 .interests-section {
-    margin-top: 60px;
+    margin-top: 50px;
 }
 
 .interests-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 25px;
-    margin-top: 30px;
+    margin-top: 25px;
 }
 
 .interest-card {
     background: white;
-    padding: 30px;
+    padding: 25px;
     border-radius: var(--border-radius);
     box-shadow: var(--box-shadow);
     text-align: center;
@@ -172,255 +137,78 @@
 }
 
 .interest-card:hover {
-    transform: translateY(-10px);
-    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.12);
+    transform: translateY(-6px);
 }
 
-.interest-icon {
-    width: 70px;
-    height: 70px;
-    background: linear-gradient(135deg, var(--accent-color), var(--accent-light));
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 0 auto 20px;
-    color: white;
-    font-size: 1.8rem;
-}
 
-.interest-card h3 {
-    color: var(--primary-color);
-    margin-bottom: 10px;
-    font-size: 1.3rem;
-}
+/* ===== QUICK LINKS ===== */
 
-.interest-card p {
-    color: var(--dark-gray);
-    font-size: 0.95rem;
-    line-height: 1.6;
-}
-
-/* Quick Links */
 .quick-links-section {
-    margin-top: 60px;
+    margin-top: 50px;
 }
 
 .quick-links-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 20px;
-    margin-top: 30px;
+    margin-top: 25px;
 }
 
 .quick-link {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    padding: 30px 20px;
+    padding: 25px;
     background: white;
     border-radius: var(--border-radius);
     box-shadow: var(--box-shadow);
-    color: var(--primary-color);
+    text-align: center;
     text-decoration: none;
+    color: var(--primary-color);
     transition: var(--transition);
-    border: 2px solid transparent;
 }
 
 .quick-link:hover {
-    transform: translateY(-8px);
-    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
-    border-color: var(--accent-color);
-    color: var(--accent-color);
+    transform: translateY(-6px);
 }
 
-.quick-link i {
-    font-size: 2.5rem;
-    margin-bottom: 15px;
-    color: var(--accent-color);
-}
 
-.quick-link span {
-    font-weight: 600;
-    font-size: 1.1rem;
-    text-align: center;
-}
+/* ============================= */
+/* Responsive */
+/* ============================= */
 
-/* News Section */
-.news-section {
-    font-size: 0.9em;
-    line-height: 1.6em;
-    margin: 60px 0 30px 0;
-    padding: 0;
-}
-
-.news-item {
-    display: flex;
-    padding: 30px 0;
-    border-bottom: 1px solid #eee;
-}
-
-.news-date {
-    margin-right: 100px;
-    color: var(--dark-gray);
-}
-
-.news-date .day {
-    font-size: 1.5em;
-    margin-bottom: 5px;
-}
-
-.news-date .year {
-    color: var(--dark-gray);
-    font-size: 0.875em;
-}
-
-.news-title a {
-    color: blue;
-    width: 300px;
-    text-decoration: none;
-}
-
-/* Publications Section */
-.publication-item {
-    margin-bottom: 30px;
-}
-
-.pub-title {
-    font-weight: 600;
-    margin-bottom: 8px;
-}
-
-.pub-authors {
-    margin-bottom: 5px;
-}
-
-.pub-authors a {
-    color: var(--accent-color);
-    text-decoration: none;
-}
-
-.pub-authors a:hover {
-    text-decoration: underline;
-}
-
-.pub-venue {
-    margin-bottom: 10px;
-}
-
-.pub-year {
-    margin-bottom: 10px;
-}
-
-.pub-links {
-    display: flex;
-    gap: 10px;
-}
-
-.pub-button {
-    border: 1px solid var(--dark-gray);
-    padding: 6px 16px;
-    text-decoration: none;
-    color: var(--dark-gray);
-    border-radius: 4px;
-    display: inline-block;
-    font-size: 0.9em;
-}
-
-.pub-button:hover {
-    background-color: var(--light-gray);
-}
-
-/* Responsive Design for Homepage */
 @media (max-width: 992px) {
+
     .hero-section {
-        grid-template-columns: 1fr;
-        gap: 30px;
-    }
-    
-    .hero-text {
-        padding-right: 0;
-    }
-    
-    .hero-title {
-        font-size: 2.5rem;
-    }
-    
-    .hero-subtitle {
-        font-size: 1.3rem;
-    }
-    
-    .hero-image {
-        height: 250px;
-    }
-    
-    .hero-divider {
         flex-direction: column;
-        gap: 15px;
+        gap: 30px;
+        margin-top: 0;
     }
-    
-    .divider-line {
-        width: 100%;
+
+    .hero-title {
+        font-size: 2.4rem;
+    }
+
+    .hero-image {
+        max-width: 240px;
     }
 }
 
 @media (max-width: 768px) {
+
     .hero-title {
         font-size: 2rem;
     }
-    
-    .hero-subtitle {
-        font-size: 1.1rem;
+
+    .news-item {
+        flex-direction: column;
     }
-    
-    .education-timeline {
-        padding-left: 10px;
-    }
-    
-    .education-item {
-        padding-left: 20px;
-    }
-    
-    .news-timeline {
-        padding-left: 20px;
-    }
-    
+
     .news-date {
-        position: relative;
-        left: 0;
-        top: 0;
-        margin-bottom: 15px;
-        display: inline-block;
-    }
-    
-    .news-content {
-        padding-left: 0;
-    }
-    
-    .interests-grid,
-    .quick-links-grid {
-        grid-template-columns: 1fr;
+        margin-bottom: 8px;
     }
 }
 
 @media (max-width: 480px) {
+
     .hero-title {
         font-size: 1.8rem;
-    }
-    
-    .education-item {
-        padding-left: 15px;
-    }
-    
-    .edu-icon {
-        left: -10px;
-        width: 25px;
-        height: 25px;
-    }
-    
-    .interest-card,
-    .quick-link {
-        padding: 20px;
     }
 }
