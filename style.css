@@ -227,26 +227,24 @@ a:hover {
 }
 
 .right-sidebar{
-    width:220px;
-    margin-left:auto;
-    margin-top:60px;
-    padding-left:40px;
-    border-left:1px solid #eee;
+    position: fixed;
+    right: 40px;
+    top: 180px;
+    width: 220px;
 }
 
-.right-sidebar h3 {
-    font-size: 1.2em;
-    margin-bottom: 15px;
-    color: #444;
+.right-sidebar h3{
+    font-size:1.2em;
+    margin-bottom:15px;
 }
 
-.sidebar-links {
-    list-style: none;
-    padding: 0;
+.sidebar-links{
+    list-style:none;
+    padding:0;
 }
 
-.sidebar-links li {
-    margin-bottom: 10px;
+.sidebar-links li{
+    margin-bottom:12px;
 }
 
 .sidebar-links a {
