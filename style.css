@@ -230,6 +230,8 @@ a:hover {
     width:220px;
     margin-left:auto;
     margin-top:60px;
+    padding-left:40px;
+    border-left:1px solid #eee;
 }
 
 .right-sidebar h3 {
