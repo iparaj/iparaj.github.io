@@ -215,3 +215,40 @@ a:hover {
         margin-bottom: 20px;
     }
 }
+
+.content-layout {
+    display: flex;
+    gap: 60px;
+    align-items: flex-start;
+}
+
+.right-sidebar {
+    width: 220px;
+    position: sticky;
+    top: 100px;
+}
+
+.right-sidebar h3 {
+    font-size: 1.2em;
+    margin-bottom: 15px;
+    color: #444;
+}
+
+.sidebar-links {
+    list-style: none;
+    padding: 0;
+}
+
+.sidebar-links li {
+    margin-bottom: 10px;
+}
+
+.sidebar-links a {
+    text-decoration: none;
+    color: #555;
+    font-size: 0.95em;
+}
+
+.sidebar-links a:hover {
+    color: #000;
+}
