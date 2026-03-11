@@ -1110,3 +1110,41 @@ a:hover::after {
 #cancelPassword:hover {
     background-color: #cbd5e0;
 }
+
+
+/* Layout for posts area */
+.content-layout{
+    display:flex;
+}
+
+/* Right sidebar fixed to page edge */
+.right-sidebar{
+    position: fixed;
+    right: 40px;
+    top: 180px;
+    width: 220px;
+}
+
+/* Sidebar styling */
+.right-sidebar h3{
+    font-size:1.2em;
+    margin-bottom:15px;
+}
+
+.sidebar-links{
+    list-style:none;
+    padding:0;
+}
+
+.sidebar-links li{
+    margin-bottom:10px;
+}
+
+.sidebar-links a{
+    text-decoration:none;
+    color:#747487;
+}
+
+.sidebar-links a:hover{
+    color:#000;
+}
