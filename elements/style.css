@@ -1120,7 +1120,7 @@ a:hover::after {
 /* Right sidebar fixed to page edge */
 .right-sidebar{
     position: fixed;
-    right: 70px;
+    right: 150px;
     top: 180px;
     width: 220px;
 }
