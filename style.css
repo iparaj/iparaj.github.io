@@ -216,16 +216,20 @@ a:hover {
     }
 }
 
-.content-layout {
-    display: flex;
-    gap: 60px;
-    align-items: flex-start;
+.content-layout{
+    display:flex;
+    align-items:flex-start;
+    width:100%;
 }
 
-.right-sidebar {
-    width: 220px;
-    position: sticky;
-    top: 100px;
+.posts{
+    flex:1;
+}
+
+.right-sidebar{
+    width:220px;
+    margin-left:auto;
+    margin-top:60px;
 }
 
 .right-sidebar h3 {
