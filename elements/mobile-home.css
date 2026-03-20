@@ -60,7 +60,13 @@
     }
 
     .news-item {
+        flex-direction: column;
         margin-bottom: 20px;
+    }
+
+    .news-date {
+        margin-right: 0;
+        margin-bottom: 12px;
     }
 
     .education-timeline {
@@ -166,6 +172,7 @@
     }
 
     .news-item {
+        flex-direction: column;
         margin-bottom: 25px;
         padding: 15px;
     }
@@ -174,6 +181,7 @@
         position: relative;
         left: 0;
         top: 0;
+        margin-right: 0;
         margin-bottom: 15px;
         display: inline-block;
     }
@@ -300,6 +308,7 @@
     }
 
     .news-item {
+        flex-direction: column;
         margin-bottom: 20px;
         padding: 12px;
     }
@@ -309,6 +318,7 @@
     }
 
     .news-date {
+        margin-right: 0;
         margin-bottom: 12px;
     }
 
