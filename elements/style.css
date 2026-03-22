@@ -1192,14 +1192,68 @@ a:hover::after {
     background-color: #f5f5f5;
 }
 
-.research-talks-images {
-    display: flex;
-    gap: 20px;
-    flex-wrap: wrap;
+.research-talks-images img {
+    max-width: 400px;   /* control size */
+    width: 100%;
+    height: auto;       /* ⭐ important: preserves aspect ratio */
+    border-radius: 8px;
 }
 
 .research-talks-images img {
     width: 300px;
     max-width: 100%;
+    border-radius: 8px;
+}
+
+.research-summary-flex {
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+}
+
+.research-summary-text {
+    flex: 2;
+}
+
+.research-summary-image {
+    flex: 1;
+}
+
+.research-summary-image img {
+    width: 100%;
+    height: auto;       /* keeps aspect ratio */
+    border-radius: 8px;
+}
+
+.research-publications-table a {
+    color: inherit;           /* same color as normal text */
+    text-decoration: none;    /* remove underline */
+}
+
+.research-publications-table a:hover {
+    text-decoration: underline;   /* optional: subtle hover effect */
+}
+
+.talk-entry {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+    margin-bottom: 30px;
+}
+
+.talk-text {
+    flex: 2;
+    font-family: 'Source Serif Pro', serif;
+}
+
+.talk-image {
+    flex: 1;
+}
+
+.talk-image img {
+    width: 100%;
+    max-width: 250px;
+    height: auto;
     border-radius: 8px;
 }
