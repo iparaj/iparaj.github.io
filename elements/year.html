@@ -3,21 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Photography | Dr. Paraj</title>
+    <title>Photography | Paraj Ganchaudhuri</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Source+Serif+Pro:wght@400;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="mobile.css">
 </head>
-<style>
-    .highlight-box {
-    background: white;
-    border-radius: var(--border-radius);
-    padding: 35px;
-    margin: 35px 0;
-    box-shadow: var(--box-shadow);
-    transition: var(--transition);
-}
-</style>
 <body>
     <div class="container">
         <button class="mobile-toggle" id="mobileToggle">
@@ -25,16 +16,42 @@
         </button>
         <div class="overlay" id="overlay"></div>
 
+        <!-- Mobile Navigation Drawer -->
+        <nav class="nav-drawer">
+            <div class="nav-drawer-header">
+                <h2>Navigation</h2>
+            </div>
+            <h2 style="font-family: 'Myraid Pro', serif; padding-bottom: 10px; border-bottom: 1px solid #ccc;">Paraj Ganchaudhuri</h2>
+            <div class="nav-drawer-content">
+                <a href="../index.html" class="tab">
+                    <i class="fas fa-home"></i> Home
+                </a>
+                <a href="research.html" class="tab active">
+                    <i class="fas fa-flask"></i> Research
+                </a>
+                <a href="bio.html" class="tab">
+                    <i class="fas fa-user-graduate"></i> Bio
+                </a>
+                <a href="blog.html" class="tab">
+                    <i class="fas fa-blog"></i> Blog
+                </a>
+                <a href="resources.html" class="tab">
+                    <i class="fas fa-folder-open"></i> Resources
+                </a>
+                <a href="photography.html" class="tab">
+                    <i class="fas fa-camera"></i> Photography
+                </a>
+            </div>
+        </nav>
+
         <main class="main-content" id="mainContent">
             <div class="nav-tabs-container">
+                 <h2 style="font-family: 'Myraid Pro', serif; padding-bottom: 10px; border-bottom: 1px solid #ccc;">Paraj Ganchaudhuri</h2>
                 <div class="nav-tabs">
                     <a href="../index.html" class="tab">
                         <i class="fas fa-home"></i> Home
                     </a>
-                    <a href="resources.html" class="tab">
-                        <i class="fas fa-folder-open"></i> Resources
-                    </a>
-                    <a href="research.html" class="tab">
+                    <a href="research.html" class="tab active">
                         <i class="fas fa-flask"></i> Research
                     </a>
                     <a href="bio.html" class="tab">
@@ -43,7 +60,10 @@
                     <a href="blog.html" class="tab">
                         <i class="fas fa-blog"></i> Blog
                     </a>
-                    <a href="photography.html" class="tab active">
+                    <a href="resources.html" class="tab">
+                        <i class="fas fa-folder-open"></i> Resources
+                    </a>
+                    <a href="photography.html" class="tab">
                         <i class="fas fa-camera"></i> Photography
                     </a>
                 </div>
@@ -70,14 +90,6 @@
                             <a class="photo-date protected-link" data-url="#">October 22, • Delhi</a>
                         </div>
                     </div>
-                
-                <div class="highlight-box">
-                    <h3 class="section-subtitle">About My Photography</h3>
-                    <p>Photography allows me to explore creativity beyond circuits and signals. I primarily shoot landscapes, urban scenes, and travel photography using both digital and film cameras. Each photo tells a story beyond what the eye can see.</p>
-                <div class="social-links">
-              <a href="https://github.com/iparaj" title="GitHub"><img src="../icon/instagram.webp" alt="GitHub logo" style="width: 30px; height: 30px; margin-top: 10px;"></a>
-                </div>
-                </div>
             </section>
 
             <button class="back-to-top" id="backToTop">
@@ -96,11 +108,16 @@
             </div>
         </main>
     </div>
+
+            <button class="back-to-top" id="backToTop">
+                <i class="fas fa-arrow-up"></i>
+            </button>
+        </main>
+    </div>
     
     <div id="footer-container"></div>
     
     <script src="script.js"></script>
-    <script src="photo-password.js"></script>
     <script>
         fetch('footer.html')
             .then(response => response.text())

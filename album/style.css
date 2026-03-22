@@ -6,6 +6,37 @@ body {
     overflow-x: hidden;
 }
 
+/* BACK BUTTON */
+.back-button {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    z-index: 100;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #0000004a;
+    border: none;
+    color: white;
+    font-size: 1.2rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.back-button:hover {
+    background-color: #1a365d;
+    transform: scale(1.1);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+}
+
+.back-button:active {
+    transform: scale(0.95);
+}
+
 /* HERO SECTION */
 
 .hero::after {
@@ -325,6 +356,13 @@ body {
 
 /* RESPONSIVE */
 @media (max-width: 768px) {
+    .back-button {
+        top: 15px;
+        left: 15px;
+        width: 36px;
+        height: 36px;
+        font-size: 1rem;
+    }
     .gallery { columns: 2; }
     .viewer-info { left: 20px; bottom: 20px; }
     .nav.prev { left: 20px; }
@@ -345,4 +383,16 @@ body {
         bottom: 20px;
         right: 20px;
     }
+}
+
+@media (max-width: 480px) {
+    .back-button {
+        top: 12px;
+        left: 12px;
+        width: 32px;
+        height: 32px;
+        font-size: 0.9rem;
+    }
+
+    .gallery { columns: 2; }
 }
