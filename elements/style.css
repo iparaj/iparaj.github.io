@@ -1276,6 +1276,11 @@ a:hover::after {
     white-space: nowrap;   /* 🚀 prevents line break */
 }
 
+.research-publications-table em {
+    font-size: 0.9rem;   /* smaller than normal text */
+    color: #555;
+}
+
 .research-collab-list {
     padding-left: 25px;
 }
@@ -1287,4 +1292,14 @@ a:hover::after {
 
 .research-collab-list strong {
     font-weight: 500;
+}
+
+.research-collab-list a {
+    color: inherit;           /* same as normal text */
+    text-decoration: none;    /* remove underline */
+}
+
+.research-collab-list a:hover {
+    color: inherit;           /* no color change */
+    text-decoration: none;    /* no underline on hover */
 }
